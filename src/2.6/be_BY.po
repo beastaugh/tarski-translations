@@ -1,0 +1,802 @@
+# Translation of the WordPress theme Tarski 2.6 by Benedict Eastaugh and Chris Sternal-Johnson.
+# Copyright (C) 2010 Benedict Eastaugh and Chris Sternal-Johnson
+# This file is distributed under the same license as the Tarski package.
+# Benedict Eastaugh <benedict@eastaugh.net>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tarski 2.6\n"
+"Report-Msgid-Bugs-To: Benedict Eastaugh <bugs@tarskitheme.com>\n"
+"POT-Creation-Date: 2010-04-02 16:07+0100\n"
+"PO-Revision-Date: 2010-04-12 23:08+0300\n"
+"Last-Translator: FatCow <zhr@tut.by>\n"
+"Language-Team: Marcis G. <by.marcis@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr "Памылка 404"
+
+#: app/api/deprecated.php:137
+#: library/helpers/widgets.php:85
+#: library/helpers/widgets.php:109
+msgid "Recent Articles"
+msgstr "Апошнія артыкулы"
+
+#: app/api/deprecated.php:159
+#: library/helpers/widgets.php:131
+msgid "View this post"
+msgstr "Прагледзець гэты пост"
+
+#: app/api/deprecated.php:160
+#: library/helpers/widgets.php:132
+#, php-format
+msgid "%1$s in %2$s"
+msgstr "%1$s у %2$s"
+
+#: app/launcher.php:28
+msgid "Main sidebar"
+msgstr "Галоўная бакавая панэль"
+
+#: app/launcher.php:38
+msgid "Post and page sidebar"
+msgstr "Бакавая панэль паста і старонкі"
+
+#: app/launcher.php:48
+msgid "Footer main widgets"
+msgstr "Галоўныя виджеты склепа"
+
+#: app/launcher.php:58
+msgid "Footer sidebar widgets"
+msgstr "Галоўныя виджеты сайдбара"
+
+#: app/templates/credits.php:2
+msgid "Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href=\"http://tarskitheme.com/\">Tarski</a>"
+msgstr "Зроблена на <a href=\"http://wordpress.org/\">WordPress</a> і <a href=\"http://tarskitheme.com/\">Tarski</a>"
+
+#: app/templates/credits.php:4
+#, php-format
+msgid "Hosted by %s"
+msgstr "Размешчаны на %s"
+
+#: app/templates/feed_link.php:2
+msgid "Subscribe to feed"
+msgstr "Падпісацца на канал"
+
+#: app/templates/no_posts.php:4
+msgid "No posts found"
+msgstr "Не знойдзены пасты"
+
+#: app/templates/no_posts.php:9
+#, php-format
+msgid "Looks like there&#8127;s nothing here, sorry. You might want to try the search function. Alternatively, return to the %s."
+msgstr "Падобна, што нічога не знойдзена. Вы можаце паспрабаваць функцыю пошуку. Акрамя таго, вернецеся да %s."
+
+#: app/templates/no_posts.php:10
+#: library/helpers/content_helper.php:191
+#: search.php:29
+msgid "front page"
+msgstr "галоўнай старонцы"
+
+#: app/templates/options/alternate_style.php:7
+msgid "Default style"
+msgstr "Стандартны стыль"
+
+#: app/templates/options/alternate_style.php:19
+msgid "Tarski allows you to select an alternate style that modifies the default one. Choose from the list above."
+msgstr "Tarski дазваляе абраць альтэрнатыўны стыль, які змяняе значэнне па змаўчанні. Абярыце са спісу вышэй."
+
+#: app/templates/options/alternate_style.php:21
+#, php-format
+msgid "Tarski allows you to select an %1$s that modifies the default one. Choose from the list above, or upload your own to %2$s."
+msgstr "Tarski дазваляе абраць %1$s , які змяняе значэнне па змаўчанні. Абярыце са спісу вышэй, ці загрузіце свае ўласныя, каб %2$s."
+
+#: app/templates/options/alternate_style.php:21
+msgid "alternate style"
+msgstr "альтэрнатыўны стыль"
+
+#: app/templates/options/alternate_style.php:25
+msgid "No alternate stylesheets appear to be present."
+msgstr "Не прадстаўлена альтэрнатыўных стыляў."
+
+#: app/templates/options/asides_category.php:2
+msgid "Disable asides"
+msgstr "Адключыць asides."
+
+#: app/templates/options/asides_category.php:15
+msgid "This option will make Tarski display posts from the selected category in the "
+msgstr "Гэты параметр дазваляе адлюстраванне пастоў Tarski у абранай катэгорыі"
+
+#: app/templates/options/asides_category.php:15
+msgid "Asides"
+msgstr "Asides"
+
+#: app/templates/options/asides_category.php:15
+msgid " format. Asides are short posts, usually only a single paragraph, and Tarski displays them in a condensed format without titles."
+msgstr "фармаце. Кароткія паведамленні, як правіла,  маюць толькі адзін пункт, і Tarski адлюстроўвае іх у сціснутым фармаце, без назвы."
+
+#: app/templates/options/header_images.php:9
+msgid "No header images appear to be present."
+msgstr "Няма загалоўка малюнка."
+
+#: app/templates/options/header_images.php:16
+#, php-format
+msgid "Choose a header image by clicking on it. The current image is the %s one."
+msgstr "Абярыце загаловак малюнка, пстрыкнуўшы па ім. Бягучы малюнак з %s"
+
+#: app/templates/options/header_images.php:16
+msgid "highlighted"
+msgstr "подсвет."
+
+#: app/templates/options/header_images.php:19
+#, php-format
+msgid "You can upload your own header images (.gif, .jpg or .png) to %s."
+msgstr "Вы можаце загрузіць малюнкі ў шапку  (.gif, .jpg or .png) %s."
+
+#: app/templates/options/header_images.php:20
+#, php-format
+msgid "Make sure that you upload a thumbnail file as well. If your image is named %1$s, the corresponding thumbnail file should be named %2$s."
+msgstr "Пераканаецеся, што вы загружаеце файл мініяцюрамі таксама. Калі ваш малюнак завецца %1$s, адпаведны файл мініяцюр павінен быць названы %2$s."
+
+#: app/templates/options/header_images.php:20
+msgid "example"
+msgstr "прыклад"
+
+#: app/templates/options/messages.php:3
+#, php-format
+msgid "Tarski options have been restored. %s"
+msgstr "Налады Tarski былі адноўлены. %s"
+
+#: app/templates/options/messages.php:4
+#: app/templates/options/messages.php:9
+msgid "View site &rsaquo;"
+msgstr "Глядзець сайт &rsaquo;"
+
+#: app/templates/options/messages.php:8
+#, php-format
+msgid "Tarski options have been updated. %s"
+msgstr "Налады Tarski былі абноўлены. %s"
+
+#: app/templates/options/missing_files.php:1
+msgid "This may be because you have removed them, or because those files aren&#8217;t readable by WordPress."
+msgstr "Гэта можа быць таму, што вы выдалілі іх, ці таму, што гэтыя файлы не з'яўляюцца бачнымі для WordPress."
+
+#: app/templates/options/missing_files.php:2
+#, php-format
+msgid "If you have problems making the files readable, try the WordPress Codex documentation on %s."
+msgstr "Калі ў вас паўстануць праблемы пры змене файлы чытаным, паспрабуйце шанаваць дакументацыю WordPress Codex  %s."
+
+#: app/templates/options/missing_files.php:2
+msgid "changing file permissions"
+msgstr "наладзіць правы доступу для файлаў"
+
+#: app/templates/options/missing_files.php:3
+#, php-format
+msgid "If you deleted the files by accident, just download a new copy from the %s and re-upload them to your website."
+msgstr "Калі вы выдалілі файлы, выпадкова, проста запампуйце новую копію з %s і запампаваць на свой вэб-сайт."
+
+#: app/templates/options/missing_files.php:3
+msgid "Tarski website"
+msgstr "Сайт Tarski"
+
+#: app/templates/options/nav_options.php:3
+msgid "Add external links to the navbar"
+msgstr "Дадаць вонкавыя спасылкі на панэль навігацыі"
+
+#: app/templates/options/nav_options.php:5
+msgid "No external links"
+msgstr "Няма дадатковых спасылак"
+
+#: app/templates/options/nav_options.php:20
+#, php-format
+msgid "You can add or edit links on the %s page. We recommend creating a link category specifically for the links you want displayed in your navbar, but you can use any category."
+msgstr "Вы можаце дадаць ці змяніць спасылкі на %s старонкі. Мы рэкамендуем ствараць катэгорыі спасылкі адмыслова для спасылак, якія вы жадаеце адлюстроўваць у панэлі навігацыі, але вы можаце выкарыстоўваць любыя катэгорыі."
+
+#: app/templates/options/nav_options.php:20
+msgid "Manage Links"
+msgstr "Кіраванне спасылкамі"
+
+#: app/templates/options/nav_options.php:24
+msgid "Rename your &#8216;Home&#8217; link"
+msgstr "Пераназваць вашу спасылку &#8216;Дахаты&#8217;"
+
+#: app/templates/options/nav_options.php:26
+#: library/classes/options.php:79
+#: library/helpers/template_helper.php:253
+msgid "Home"
+msgstr "Дахаты"
+
+#: app/templates/options/nav_options.php:27
+msgid "This link is not displayed when you have a static front page."
+msgstr "Гэта спасылка не адлюстроўваецца, калі ў вас статычная галоўная старонка"
+
+#: app/templates/options/reset_options.php:2
+msgid "Reset Tarski&#8217;s options to their default values"
+msgstr "Скінуць налады Tarski"
+
+#: app/templates/options/reset_options.php:7
+msgid "If you change your mind, you&#8217;ll have three hours to restore your options before they&#8217;re removed for good."
+msgstr "Калі вы раздумаецеся, вы будзеце мець тры гадзіны, каб аднавіць параметры, перш чым яны будуць выдалены назаўжды."
+
+#: app/templates/options/restore_options.php:6
+msgid "You have deleted your Tarski options."
+msgstr "Вы выдалілі налады Tarski "
+
+#: app/templates/options/restore_options.php:6
+msgid "Restore Tarski Options &raquo;"
+msgstr "Аднавіць налады Tarski "
+
+#: app/templates/options/sidebar_options.php:1
+msgid "The sidebar for posts and pages can be the same as that for index pages, or use its own set of widgets."
+msgstr "Панэлі для пастоў і старонак можа быць такім жа, як і для індэксацыі старонак, ці выкарыстоўваць свой уласны набор виджетов."
+
+#: app/templates/options/sidebar_options.php:6
+msgid "Same content as main sidebar?"
+msgstr "То ж утрыманне, як асноўнай бакавой панэлі?"
+
+#: app/templates/options/update_notifier.php:2
+msgid "Tarski Updates"
+msgstr "Абнаўленні Tarski "
+
+#: app/templates/options/update_notifier.php:8
+msgid "Update notification on (recommended)"
+msgstr "Апавяшчэнне пра абнаўленне ўключана (рэкамендуецца)"
+
+#: app/templates/options/update_notifier.php:9
+msgid "Update notification off"
+msgstr "Апавяшчэнне пра абнаўленне адключана"
+
+#: app/templates/options/update_notifier.php:12
+#, php-format
+msgid "The version check could not be cached. To enable caching, follow the tutorial on the %s page."
+msgstr "Версія не можа быць змешчана ў кэш. Каб уключыць кэшаванне, гледзіце падручнік па адрасе %s."
+
+#: app/templates/options/update_notifier.php:12
+msgid "update notifier"
+msgstr "апавяшчэнне пра абнаўленне"
+
+#: app/templates/options/update_notifier.php:15
+msgid "Update Notification"
+msgstr "апавяшчэнне пра абнаўленне"
+
+#: app/templates/options/update_notifier.php:16
+msgid "Your server appears to lack the ability to access external websites. This means that the update notifier will not work."
+msgstr "Ваш сервер не можа атрымаць доступ да вонкавых вэб-сайтам. Гэта азначае, што Update Notifier працаваць не будзе."
+
+#: app/templates/options/update_notifier.php:18
+#, php-format
+msgid "You can read our %1$s on how to fix your server setup, but if you are unable to change it we recommend subscribing to either the %2$s or the %3$s in your feed reader, so that you can be alerted when new Tarski versions become available."
+msgstr "Вы можаце азнаёміцца з нашымі %1$s пра тое, як выправіць вашы налады сервера, але калі вы не ў стане змяніць яго мы рэкамендуем падпісацца на любой %2$s ці the %3$s  Вашым RSS канале, так што вы можаце быць паведамленне, калі новыя версіі Tarski стануць даступныя."
+
+#: app/templates/options/update_notifier.php:19
+msgid "documentation"
+msgstr "дакументацыя"
+
+#: app/templates/options/update_notifier.php:20
+msgid "Tarski version feed"
+msgstr "Tarski стужка версій"
+
+#: app/templates/options/update_notifier.php:21
+msgid "Tarski website feed"
+msgstr "Сайт Tarski "
+
+#: app/templates/options_page.php:10
+#: library/helpers/admin_helper.php:228
+#: library/helpers/admin_helper.php:229
+msgid "Tarski Options"
+msgstr "Налады Tarski "
+
+#: app/templates/options_page.php:13
+#: app/templates/options_page.php:48
+msgid "Save Options"
+msgstr "Захаваць опцыі"
+
+#: app/templates/options_page.php:17
+msgid "Tarski documentation"
+msgstr "дакументацыя Tarski "
+
+#: app/templates/options_page.php:18
+msgid "Credits &amp; Thanks"
+msgstr "Інфармацыя &amp; Дзякуй"
+
+#: app/templates/options_page.php:19
+msgid "Forum"
+msgstr "Форум"
+
+#: app/templates/options_page.php:32
+msgid "Navigation Display"
+msgstr "Адлюстраванне навігацыі"
+
+#: app/templates/options_page.php:33
+msgid "Navigation Options"
+msgstr "Налады навігацыі"
+
+#: app/templates/options_page.php:37
+msgid "Alternate Style"
+msgstr "Альтэрнатыўны стыль"
+
+#: app/templates/options_page.php:38
+msgid "Asides Category"
+msgstr "Asides катэгорыя"
+
+#: app/templates/options_page.php:39
+msgid "Sidebar Options"
+msgstr "Налады сайдбара"
+
+#: app/templates/options_page.php:43
+msgid "Header Images"
+msgstr "Малюнкі Шапкі"
+
+#: app/templates/options_page.php:47
+msgid "Miscellaneous Options"
+msgstr " Розныя опцыі"
+
+#: app/templates/options_page.php:54
+msgid "Reset Options"
+msgstr "Скінуць налады"
+
+#: app/templates/respond.php:10
+#, php-format
+msgid "You must be %s to post a comment."
+msgstr "Вы павінны %s для каментавання."
+
+#: app/templates/respond.php:11
+msgid "logged in"
+msgstr "увайшлі ў "
+
+#: app/templates/respond.php:18
+msgid "Reply"
+msgstr "Адказ"
+
+#: app/templates/respond.php:18
+#, php-format
+msgid "Reply to %s"
+msgstr "Адказ на %s"
+
+#: app/templates/respond.php:19
+msgid "Click here to cancel your reply"
+msgstr "Націсніце тут дял адмены адказу"
+
+#: app/templates/respond.php:24
+#, php-format
+msgid "Logged in as %1$s. %2$s"
+msgstr "Увайшлі як %1$s. %2$s"
+
+#: app/templates/respond.php:26
+msgid "Log out?"
+msgstr "Выйсці?"
+
+#: app/templates/respond.php:31
+#, php-format
+msgid "Name %s"
+msgstr "Імя %s"
+
+#: app/templates/respond.php:32
+#, php-format
+msgid "Email %s"
+msgstr "Email %s"
+
+#: app/templates/respond.php:33
+msgid "Website"
+msgstr "Сайт"
+
+#: app/templates/respond.php:39
+msgid "Your comment"
+msgstr "Ваш каментар"
+
+#: app/templates/respond.php:44
+msgid "Submit Comment"
+msgstr "Адправіць каментар"
+
+#: archive.php:17
+#, php-format
+msgid "You are currently browsing the archive for the %s category."
+msgstr "Вы праглядаеце архіў для %s. катэгорыі."
+
+#: archive.php:27
+#, php-format
+msgid "You are currently browsing articles tagged %s."
+msgstr "Вы праглядаеце артыкулы з тэгам %s."
+
+#: archive.php:33
+#: library/helpers/author_helper.php:16
+#, php-format
+msgid "Articles by %s"
+msgstr "Артыкулы па %s"
+
+#: archive.php:39
+#, php-format
+msgid "You are currently browsing %s&#8217;s articles."
+msgstr "Вы праглядаеце %s артыкулаў."
+
+#: archive.php:49
+#, php-format
+msgid "You are currently browsing the daily archive for %s."
+msgstr "Вы праглядаеце штодзённы архіў для %s."
+
+#: archive.php:58
+#, php-format
+msgid "You are currently browsing the monthly archive for %s."
+msgstr "Вы праглядаеце памесячны архіў для %s."
+
+#: archive.php:67
+#, php-format
+msgid "You are currently browsing the yearly archive for %s."
+msgstr "Вы праглядаеце гадавы архіў для %s."
+
+#: archives.php:14
+#: index.php:29
+#: links.php:15
+#: tags.php:15
+msgid "edit page"
+msgstr "рэдагаваць старонку"
+
+#: archives.php:25
+msgid "Monthly Archives"
+msgstr "Памесячны архіў"
+
+#: archives.php:36
+msgid "Category Archives"
+msgstr "Архіў катэгорый"
+
+#: comments.php:15
+#: library/helpers/content_helper.php:145
+#: library/helpers/content_helper.php:152
+#: library/helpers/content_helper.php:172
+msgid "No comments"
+msgstr "Няма каментароў"
+
+#: comments.php:15
+#: library/helpers/content_helper.php:146
+#: library/helpers/content_helper.php:153
+#: library/helpers/content_helper.php:172
+msgid "1 comment"
+msgstr "1 каментар"
+
+#: comments.php:15
+#: library/helpers/content_helper.php:147
+#: library/helpers/content_helper.php:154
+#: library/helpers/content_helper.php:172
+#, php-format
+msgid "% comments"
+msgstr "% comments"
+
+#: comments.php:17
+msgid "Comments feed for this article"
+msgstr "Канал каментароў для дадзенага артыкула"
+
+#: comments.php:21
+#, php-format
+msgid "Trackback link: %s"
+msgstr "Спасылка трекбека: %s"
+
+#: comments.php:33
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; Прад."
+
+#: comments.php:34
+msgid "Next &rsaquo;"
+msgstr "След. &rsaquo;"
+
+#: comments.php:42
+msgid "Comments are now closed."
+msgstr "Каментаванне зачынена."
+
+#: index.php:18
+#: index.php:26
+#: library/classes/comment_walker.php:84
+#: library/classes/comment_walker.php:95
+#: loop.php:12
+#: loop.php:30
+msgid "edit"
+msgstr "рэдагаваць"
+
+#: library/classes/comment_walker.php:80
+#, php-format
+msgid "%1$s from %2$s on %3$s"
+msgstr "%1$s з %2$s у %3$s"
+
+#: library/classes/comment_walker.php:81
+msgid "Comment|noun"
+msgstr "Каментар | назоўнік "
+
+#: library/classes/comment_walker.php:81
+msgid "Trackback"
+msgstr "Трекбек"
+
+#: library/classes/comment_walker.php:81
+msgid "Pingback"
+msgstr "Пингбек"
+
+#: library/classes/comment_walker.php:87
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш каментар чакае мадэрацыі"
+
+#: library/classes/comment_walker.php:92
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s у %2$s"
+
+#: library/classes/page_select.php:83
+msgid "View this page"
+msgstr "Прагляд гэтай старонкі"
+
+#: library/classes/version.php:74
+#, php-format
+msgid "Update notification is disabled, so no attempt was made to access the update server. Your installed version is %s."
+msgstr "Апавяшчэнні пра абнаўленне адключаны, так што не было прадпрынята спроб атрымаць доступ да сервера абнаўленняў. Вамі ўсталявана версія %s."
+
+#: library/classes/version.php:81
+#, php-format
+msgid "An error occurred while attempting to access the update server. Your installed version is %s."
+msgstr "Памылка пры атрыманні доступу да сервера. Вамі ўсталявана версія %s."
+
+#: library/classes/version.php:88
+#, php-format
+msgid "No connection to update server. Your installed version is %s."
+msgstr "Няма падлучэння да сервера абнаўленняў. Ваша ўсталяваная версія %s."
+
+#: library/classes/version.php:106
+#, php-format
+msgid "Your version of Tarski (%s) is up to date."
+msgstr "Ваша версія Tarski (%s) абноўлена."
+
+#: library/classes/version.php:113
+#, php-format
+msgid "Version %1$s of the Tarski theme %2$s. Your installed version is %3$s."
+msgstr "Версія %1$s Tarski %2$s. Вамі ўсталявана версія %3$s."
+
+#: library/classes/version.php:115
+msgid "is now available"
+msgstr "даступная ў дадзены момант"
+
+#: library/classes/version.php:122
+#, php-format
+msgid "You appear to be running a development version of Tarski (%1$s). Please ensure you %2$s."
+msgstr "Вы запускаеце распрацоўваную версію Tarski (%1$s). Пераканаецеся, што Вы %2$s."
+
+#: library/classes/version.php:124
+msgid "stay updated"
+msgstr "у курсе"
+
+#: library/helpers/admin_helper.php:54
+#: library/helpers/admin_helper.php:79
+#: library/helpers/admin_helper.php:105
+msgid "You are not authorised to perform this operation."
+msgstr "Вы не аўтарызаваны для здзяйснення гэтай аперацыі."
+
+#: library/helpers/admin_helper.php:352
+msgid "Pages selected here will display in your navbar."
+msgstr "Старонкі, абраныя тут, будуць адлюстроўвацца ў панэлі навігацыі."
+
+#: library/helpers/admin_helper.php:355
+msgid "To change the order in which they appear, edit the &#8216;Page Order&#8217; value on each page."
+msgstr "Каб змяніць парадак, у якім яны з'яўляюцца, зменіце значэнні &#39;Парадак старонак &quot;на кожнай старонцы."
+
+#: library/helpers/admin_helper.php:472
+msgid "Display site title"
+msgstr "Адлюстроўваць назву сайта"
+
+#: library/helpers/admin_helper.php:473
+msgid "Display site tagline"
+msgstr "Адлюстроўваць лінію тэгаў сайта"
+
+#: library/helpers/admin_helper.php:474
+msgid "Show post categories"
+msgstr "Паказваць катэгорыі пастоў"
+
+#: library/helpers/admin_helper.php:475
+msgid "Show tags everywhere"
+msgstr "Паказваць тэгі ўсюды"
+
+#: library/helpers/admin_helper.php:476
+msgid "Paginate index pages"
+msgstr "Разбіўка старонак"
+
+#: library/helpers/admin_helper.php:477
+msgid "Centrally align the theme"
+msgstr "Цэнтральнае размяшчэнне тэмы"
+
+#: library/helpers/admin_helper.php:478
+msgid "Switch column order"
+msgstr "Пераключыць парадак калонак"
+
+#: library/helpers/admin_helper.php:479
+msgid "Reverse document title order"
+msgstr "Зваротны парадак назваў"
+
+#: library/helpers/author_helper.php:13
+msgid " by "
+msgstr "ад "
+
+#: library/helpers/comments_helper.php:21
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s у %2$s"
+
+#: library/helpers/comments_helper.php:40
+msgid "Permalink to this comment"
+msgstr "Сталая спасылка на гэты каментар"
+
+#: library/helpers/comments_helper.php:82
+#: library/helpers/comments_helper.php:99
+#, php-format
+msgid "%s&#8217;s avatar"
+msgstr "%s аватар"
+
+#: library/helpers/comments_helper.php:221
+msgid "required"
+msgstr "патрабуецца"
+
+#: library/helpers/content_helper.php:56
+msgid "Pages:"
+msgstr "Старонкі:"
+
+#: library/helpers/content_helper.php:59
+msgid "Next page"
+msgstr "След. старонка"
+
+#: library/helpers/content_helper.php:60
+msgid "Previous page"
+msgstr "Прад. старонка"
+
+#: library/helpers/content_helper.php:90
+msgid "Previous results"
+msgstr "Прад. вынікі"
+
+#: library/helpers/content_helper.php:91
+msgid "More results"
+msgstr "Больш вынікаў"
+
+#: library/helpers/content_helper.php:94
+msgid "Older entries"
+msgstr "Старое"
+
+#: library/helpers/content_helper.php:95
+msgid "Newer entries"
+msgstr "Новае"
+
+#: library/helpers/content_helper.php:113
+#, php-format
+msgid " in %s"
+msgstr "у %s"
+
+#: library/helpers/content_helper.php:156
+msgid "Comments closed"
+msgstr "Каментары зачынены"
+
+#: library/helpers/content_helper.php:174
+msgid "Permalink"
+msgstr "Сталая спасылка"
+
+#: library/helpers/content_helper.php:190
+#, php-format
+msgid "The page you are looking for does not exist; it may have been moved, or removed altogether. You might want to try the search function or return to the %s."
+msgstr "Старонка, якую вы шукаеце, не існуе, гэта можа быць перамешчаны ці выдалены цалкам. Вы можаце паспрабаваць функцыю пошуку ці вярнуцца да %s."
+
+#: library/helpers/tag_helper.php:40
+#: library/helpers/tag_helper.php:106
+msgid ", "
+msgstr ", "
+
+#: library/helpers/tag_helper.php:43
+#: library/helpers/tag_helper.php:78
+msgid "and"
+msgstr "і"
+
+#: library/helpers/tag_helper.php:80
+msgid "or"
+msgstr "ці"
+
+#: library/helpers/tag_helper.php:120
+#: tags.php:22
+msgid "Tags"
+msgstr "Тэгі"
+
+#: library/helpers/template_helper.php:63
+#, php-format
+msgid "Error %s"
+msgstr "Памылка  %s"
+
+#: library/helpers/template_helper.php:67
+#, php-format
+msgid "Search results for %s"
+msgstr "Вынікі пошуку для %s"
+
+#: library/helpers/template_helper.php:152
+msgid "Header image"
+msgstr "Малюнак шапкі"
+
+#: library/helpers/template_helper.php:159
+#: library/helpers/template_helper.php:184
+msgid "Return to main page"
+msgstr "Вярнуцца на галоўную старонку"
+
+#: library/helpers/template_helper.php:419
+msgid "Dashboard &rarr;"
+msgstr "Панэль кіравання &rarr;"
+
+#: library/helpers/template_helper.php:420
+msgid "View your dashboard"
+msgstr "Глядзець вашу панэль кіравання"
+
+#: library/helpers/widgets.php:84
+msgid "The most recent articles, offset by the number of visible articles on the home page."
+msgstr "Апошнія артыкулы, будзе кампенсавана колькасцю бачных артыкулы на галоўнай старонцы сайта."
+
+#: library/helpers/widgets.php:170
+msgid "Title:"
+msgstr "Загаловак:"
+
+#: library/helpers/widgets.php:173
+msgid "Number of posts to display:"
+msgstr "Колькасць пастоў для адлюстравання:"
+
+#: library/helpers/widgets.php:175
+msgid "(at most 15)"
+msgstr "(Не больш за 15)"
+
+#: loop.php:9
+#: loop.php:35
+msgid "Read the rest of this entry &raquo;"
+msgstr "Чытайце на астатняй частцы &raquo;"
+
+#: loop.php:25
+msgid "Permanent link to "
+msgstr "Сталая спасылка на"
+
+#: search.php:11
+msgid "Search Results"
+msgstr "Вынікі пошуку"
+
+#: search.php:14
+#, php-format
+msgid "Your search for %s returned the following results."
+msgstr "Ваш пошук for %s вярнуў наступныя вынікі."
+
+#: search.php:26
+msgid "No results"
+msgstr "Няма вынікаў"
+
+#: search.php:29
+#, php-format
+msgid "Your search for %1$s returned no results. Try returning to the %2$s."
+msgstr "Ваш пошук %1$s не вярнуў вынікаў. Паспрабуйце вярнуцца да  %2$s."
+
+#: searchform.php:1
+msgid "Search this site"
+msgstr "Пошук на гэтым сайце"
+
+#: searchform.php:6
+msgid "Search"
+msgstr "Пошук"
+
+#. Theme Name of the plugin/theme
+msgid "Tarski"
+msgstr "Tarski"
+
+#. Theme URI of the plugin/theme
+msgid "http://tarskitheme.com/"
+msgstr "http://tarskitheme.com/"
+
+#. Description of the plugin/theme
+msgid "An elegant, flexible theme developed by <a href=\"http://extralogical.net/\">Ben Eastaugh</a> and <a href=\"http://ceejayoz.com/\">Chris Sternal-Johnson</a>."
+msgstr "Элегантная і гнуткая тэма распрацавана <a href=\"http://extralogical.net/\">Ben Eastaugh</a> і <a href=\"http://ceejayoz.com/\">Chris Sternal-Johnson</a>."
+
+#. Author of the plugin/theme
+msgid "Benedict Eastaugh and Chris Sternal-Johnson"
+msgstr "Benedict Eastaugh і Chris Sternal-Johnson"
+
+#. Author URI of the plugin/theme
+msgid "http://tarskitheme.com/about/"
+msgstr "http://tarskitheme.com/about/"
+
+#. Tags of the plugin/theme
+msgid "white, two-columns, left-sidebar, right-sidebar, fixed-width, custom-colors, custom-header, theme-options, threaded-comments, sticky-post, microformats, rtl-language-support, translation-ready"
+msgstr "white, two-columns, left-sidebar, right-sidebar, fixed-width, custom-colors, custom-header, theme-options, threaded-comments, sticky-post, microformats, rtl-language-support, translation-ready"
+
