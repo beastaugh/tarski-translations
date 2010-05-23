@@ -1,0 +1,768 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-09-29 09:18-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr ""
+
+#: archive.php:18
+msgid "You are currently browsing the archive for the "
+msgstr ""
+
+#: archive.php:18
+msgid " category."
+msgstr ""
+
+#: archive.php:25
+msgid "Articles by "
+msgstr ""
+
+#: archive.php:31
+msgid "You are currently browsing "
+msgstr ""
+
+#: archive.php:31
+msgid "&#8217;s articles."
+msgstr ""
+
+#: archive.php:41
+msgid "You are currently browsing the daily archive for "
+msgstr ""
+
+#: archive.php:50
+msgid "You are currently browsing the monthly archive for "
+msgstr ""
+
+#: archive.php:59
+msgid "You are currently browsing the yearly archive for "
+msgstr ""
+
+#: archive.php:68
+msgid "You are currently browsing articles tagged "
+msgstr ""
+
+#: archive.php:68 library/content-functions.php:186 library/no_posts.php:8
+#: library/options-page.php:156 library/options-page.php:189
+#: library/options-page.php:192 library/update-notifier.php:57
+#: library/update-notifier.php:66 library/update-notifier.php:73
+#: library/update-notifier.php:82 search.php:30
+msgid "."
+msgstr ""
+
+#: archives.php:10 index.php:23 links.php:10 tags.php:10
+msgid "edit page"
+msgstr ""
+
+#: archives.php:21
+msgid "Monthly Archives"
+msgstr ""
+
+#: archives.php:32
+msgid "Category Archives"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:18 loop.php:13 loop.php:26
+msgid "No comments"
+msgstr ""
+
+#: comments.php:18 loop.php:13 loop.php:26
+msgid "1 comment"
+msgstr ""
+
+#: comments.php:18 loop.php:13 loop.php:26
+msgid " comments"
+msgstr ""
+
+#: comments.php:20
+msgid "Comments feed for this article"
+msgstr ""
+
+#: comments.php:24
+msgid "Trackback link"
+msgstr ""
+
+#: comments.php:38 comments.php:65
+msgid "Permalink to this comment"
+msgstr ""
+
+#: comments.php:38 comments.php:65
+msgid " at "
+msgstr ""
+
+#: comments.php:43 comments.php:45
+msgid "Comment"
+msgstr ""
+
+#: comments.php:43 comments.php:45
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:43 comments.php:45
+msgid "Pingback"
+msgstr ""
+
+#: comments.php:43 comments.php:45
+msgid " from"
+msgstr ""
+
+#: comments.php:47 comments.php:67 index.php:21 loop.php:13 loop.php:27
+msgid "edit"
+msgstr ""
+
+#: comments.php:62
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:88
+msgid "You must be "
+msgstr ""
+
+#: comments.php:88
+msgid "logged in"
+msgstr ""
+
+#: comments.php:88
+msgid " to post a comment."
+msgstr ""
+
+#: comments.php:99
+msgid "You are logged in as "
+msgstr ""
+
+#: comments.php:100
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:100
+msgid "Logout &raquo;"
+msgstr ""
+
+#: comments.php:106
+msgid "Name"
+msgstr ""
+
+#: comments.php:107
+msgid "Email"
+msgstr ""
+
+#: comments.php:108
+msgid "Website"
+msgstr ""
+
+#: comments.php:114
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:116
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:11 functions.php:152
+msgid "Footer Widgets"
+msgstr ""
+
+#: footer.php:41
+msgid "Recent Articles"
+msgstr ""
+
+#: footer.php:44
+msgid "View this post"
+msgstr ""
+
+#: footer.php:45 index.php:19 loop.php:24
+msgid " in "
+msgstr ""
+
+#: functions.php:145 sidebar.php:14
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:326
+msgid "This is the about text"
+msgstr ""
+
+#: functions.php:345 library/options-page.php:17
+msgid "Tarski Options"
+msgstr ""
+
+#: library/author-functions.php:9
+msgid " by "
+msgstr ""
+
+#: library/author-functions.php:11
+#, php-format
+msgid "Articles by %s"
+msgstr ""
+
+#: library/content-functions.php:37
+msgid "Previous results"
+msgstr ""
+
+#: library/content-functions.php:38
+msgid "More results"
+msgstr ""
+
+#: library/content-functions.php:50
+msgid "Older entries"
+msgstr ""
+
+#: library/content-functions.php:51
+msgid "Newer entries"
+msgstr ""
+
+#: library/content-functions.php:76 tags.php:17
+msgid "Tags"
+msgstr ""
+
+#: library/content-functions.php:110
+msgid "This entry is protected."
+msgstr ""
+
+#: library/content-functions.php:186
+msgid ""
+"The page you are looking for does not exist; it may have been moved, or "
+"removed altogether. You might want to try the search function or return to "
+"the "
+msgstr ""
+
+#: library/content-functions.php:186 library/no_posts.php:8 search.php:30
+msgid "front page"
+msgstr ""
+
+#: library/no_posts.php:4
+msgid "Sorry"
+msgstr ""
+
+#: library/no_posts.php:8
+msgid ""
+"Looks like there&#8127;s nothing here, sorry. You might want to try the "
+"search function. Alternatively, return to the "
+msgstr ""
+
+#: library/options-page.php:7
+msgid "Tarski Options have been updated."
+msgstr ""
+
+#: library/options-page.php:7
+msgid "View site &raquo;"
+msgstr ""
+
+#: library/options-page.php:21 library/options-page.php:312
+msgid "Save Options"
+msgstr ""
+
+#: library/options-page.php:30
+msgid "Update Notification"
+msgstr ""
+
+#: library/options-page.php:32
+msgid "Tarski is set to notify you when an update is available."
+msgstr ""
+
+#: library/options-page.php:34
+msgid "Tarski can be set to notify you when updates are available."
+msgstr ""
+
+#: library/options-page.php:36
+msgid "Turn update notification on"
+msgstr ""
+
+#: library/options-page.php:37
+msgid "Turn update notification off"
+msgstr ""
+
+#: library/options-page.php:39
+msgid ""
+"The version check could not be cached. To enable caching, follow the "
+"tutorial on the "
+msgstr ""
+
+#: library/options-page.php:39
+msgid "update notifier"
+msgstr ""
+
+#: library/options-page.php:39
+msgid " page."
+msgstr ""
+
+#: library/options-page.php:41
+msgid "Privacy notice: "
+msgstr ""
+
+#: library/options-page.php:41
+msgid ""
+"The update notifier does not transmit any information about you or your "
+"website."
+msgstr ""
+
+#: library/options-page.php:46
+msgid "Footer Options"
+msgstr ""
+
+#: library/options-page.php:48
+msgid ""
+"Write something about yourself here, and it will appear in the footer. "
+"Deleting the content disables it."
+msgstr ""
+
+#: library/options-page.php:53
+msgid "Show recent articles in the footer"
+msgstr ""
+
+#: library/options-page.php:63
+msgid "Pick a Sidebar&hellip;"
+msgstr ""
+
+#: library/options-page.php:64
+msgid ""
+"Choose either Tarski&#8217;s built-in sidebar options, those afforded by "
+"WordPress Widgets, or write your own sidebar code."
+msgstr ""
+
+#: library/options-page.php:66
+msgid "Tarski sidebar options"
+msgstr ""
+
+#: library/options-page.php:68
+msgid "WordPress Widgets"
+msgstr ""
+
+#: library/options-page.php:70
+msgid ""
+"Install (or activate) <a href=\"http://automattic.com/code/widgets/"
+"\">WordPress Widgets</a>."
+msgstr ""
+
+#: library/options-page.php:73
+msgid "Alternate sidebar file"
+msgstr ""
+
+#: library/options-page.php:79
+msgid "Only display the sidebar on index pages"
+msgstr ""
+
+#: library/options-page.php:81
+msgid ""
+"The home, archive and search pages are index pages; this option is good for "
+"people with long sidebars."
+msgstr ""
+
+#: library/options-page.php:85
+msgid "&hellip;and configure it."
+msgstr ""
+
+#: library/options-page.php:91
+msgid "Pages list"
+msgstr ""
+
+#: library/options-page.php:97
+msgid "Links list"
+msgstr ""
+
+#: library/options-page.php:100
+msgid ""
+"Anything you put into this custom content area, like text, images etc. will "
+"show up in the sidebar below the options above. Leaving the field blank "
+"disables it."
+msgstr ""
+
+#: library/options-page.php:108
+msgid "To configure your Sidebar Widgets, go to the "
+msgstr ""
+
+#: library/options-page.php:108
+msgid "Widgets configuration"
+msgstr ""
+
+#: library/options-page.php:108
+msgid " page and select the widgets you&#8217;d like to use."
+msgstr ""
+
+#: library/options-page.php:113
+msgid "To use your own custom sidebar code, upload a file named"
+msgstr ""
+
+#: library/options-page.php:113
+msgid "to your Tarski directory."
+msgstr ""
+
+#: library/options-page.php:126
+msgid "Alternate Style"
+msgstr ""
+
+#: library/options-page.php:138
+msgid "Default style"
+msgstr ""
+
+#: library/options-page.php:156
+msgid ""
+"Tarski allows you to select an alternate style that modifies the default "
+"one. Choose from the list above, or upload your own to "
+msgstr ""
+
+#: library/options-page.php:158
+msgid ""
+"Tarski allows you to select an alternate style that modifies the default "
+"one. Choose from the list above."
+msgstr ""
+
+#: library/options-page.php:161
+msgid "Header Image"
+msgstr ""
+
+#: library/options-page.php:162
+msgid ""
+"You may wish to use one of these stock headers, or upload your own via the "
+msgstr ""
+
+#: library/options-page.php:162
+msgid "Custom Image Header tab"
+msgstr ""
+
+#: library/options-page.php:162
+msgid ""
+"You are currently using a custom header uploaded via WordPress - to use a "
+"stock icon instead, go to the Custom Image Header tab and click \"Restore "
+"Original Header\"."
+msgstr ""
+
+#: library/options-page.php:189
+msgid "Choose a header image by clicking on it. The current image is the "
+msgstr ""
+
+#: library/options-page.php:189
+msgid "highlighted one"
+msgstr ""
+
+#: library/options-page.php:192
+msgid "You can upload your own header images (.gif, .jpg or .png) to "
+msgstr ""
+
+#: library/options-page.php:193
+msgid ""
+"Make sure that you upload a thumbnail file as well. If your image is named "
+"<code>example.jpg</code>, the corresponding thumbnail file should be named "
+"<code>example-thumb.jpg</code>."
+msgstr ""
+
+#: library/options-page.php:201
+msgid "Asides Category"
+msgstr ""
+
+#: library/options-page.php:203
+msgid "Disable asides"
+msgstr ""
+
+#: library/options-page.php:216
+msgid ""
+"This option will make Tarski display posts from the selected category in the "
+msgstr ""
+
+#: library/options-page.php:216
+msgid "Asides"
+msgstr ""
+
+#: library/options-page.php:216
+msgid ""
+" format. Asides are short posts, usually only a single paragraph, and Tarski "
+"displays them in a condensed format without titles."
+msgstr ""
+
+#: library/options-page.php:218
+msgid "Navigation Display"
+msgstr ""
+
+#: library/options-page.php:227
+msgid "Pages selected here will display in your navbar."
+msgstr ""
+
+#: library/options-page.php:232
+msgid "View this page"
+msgstr ""
+
+#: library/options-page.php:234
+msgid ""
+"To change the order in which they appear, edit the &#8216;Page Order&#8217; "
+"value on each page."
+msgstr ""
+
+#: library/options-page.php:236
+msgid "There are no pages to select navbar items from."
+msgstr ""
+
+#: library/options-page.php:239
+msgid "Navigation Options"
+msgstr ""
+
+#: library/options-page.php:242
+msgid "Add external links to the navbar."
+msgstr ""
+
+#: library/options-page.php:244
+msgid "No external links"
+msgstr ""
+
+#: library/options-page.php:259
+msgid "You can add or edit links on the  "
+msgstr ""
+
+#: library/options-page.php:259
+msgid "Blogroll"
+msgstr ""
+
+#: library/options-page.php:259
+msgid ""
+" page. We recommend creating a link category specifically for the links you "
+"want displayed in your navbar, but you can use any category."
+msgstr ""
+
+#: library/options-page.php:261
+msgid "Rename your &#8216;Home&#8217; link."
+msgstr ""
+
+#: library/options-page.php:263 library/template-functions.php:183
+msgid "Home"
+msgstr ""
+
+#: library/options-page.php:264
+msgid "Note that this link is not displayed when you have a static front page."
+msgstr ""
+
+#: library/options-page.php:266
+msgid "Miscellaneous Options"
+msgstr ""
+
+#: library/options-page.php:271
+msgid "Display site title"
+msgstr ""
+
+#: library/options-page.php:277
+msgid "Display site tagline"
+msgstr ""
+
+#: library/options-page.php:281
+msgid "Your tagline is currently "
+msgstr ""
+
+#: library/options-page.php:281
+msgid "blank"
+msgstr ""
+
+#: library/options-page.php:281
+msgid " and won&#8217;t be displayed."
+msgstr ""
+
+#: library/options-page.php:287
+msgid "Hide post categories"
+msgstr ""
+
+#: library/options-page.php:293
+msgid "Paginate index pages (such as the front page or monthly archives)"
+msgstr ""
+
+#: library/options-page.php:299
+msgid "Centre the theme"
+msgstr ""
+
+#: library/options-page.php:305
+msgid "Switch the column positions (left becomes right, and vice versa)"
+msgstr ""
+
+#: library/options-page.php:318
+msgid "The "
+msgstr ""
+
+#: library/options-page.php:318
+msgid "Tarski documentation"
+msgstr ""
+
+#: library/options-page.php:318
+msgid " is full of useful stuff"
+msgstr ""
+
+#: library/options-page.php:318
+msgid "Credits &amp; Thanks"
+msgstr ""
+
+#: library/tarski-js.php:32 library/tarski-js.php:40 searchform.php:3
+msgid "Search this site"
+msgstr ""
+
+#: library/template-functions.php:7
+msgid "Commments feed for "
+msgstr ""
+
+#: library/template-functions.php:12
+msgid "Category feed for "
+msgstr ""
+
+#: library/template-functions.php:16
+msgid "Articles feed for "
+msgstr ""
+
+#: library/template-functions.php:20
+msgid "Daily archive feed for "
+msgstr ""
+
+#: library/template-functions.php:23
+msgid "Monthly archive feed for "
+msgstr ""
+
+#: library/template-functions.php:26
+msgid "Yearly archive feed for "
+msgstr ""
+
+#: library/template-functions.php:35
+msgid "Tag feed for "
+msgstr ""
+
+#: library/template-functions.php:39
+msgid "Search feed for "
+msgstr ""
+
+#: library/template-functions.php:51
+msgid " feed"
+msgstr ""
+
+#: library/template-functions.php:93
+msgid "Header image"
+msgstr ""
+
+#: library/template-functions.php:106 library/template-functions.php:151
+msgid "Return to front page"
+msgstr ""
+
+#: library/template-functions.php:124
+msgid "Search results"
+msgstr ""
+
+#: library/template-functions.php:260
+msgid "Site Admin"
+msgstr ""
+
+#: library/template-functions.php:272 library/template-functions.php:371
+msgid "Subscribe to feed"
+msgstr ""
+
+#: library/template-functions.php:365
+msgid ""
+"Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href="
+"\"http://tarskitheme.com/\">Tarski</a>"
+msgstr ""
+
+#: library/template-functions.php:367
+msgid "Hosted by "
+msgstr ""
+
+#: library/update-notifier.php:53
+msgid "Tarski Updates"
+msgstr ""
+
+#: library/update-notifier.php:57
+msgid "No connection to update server. Your installed version is "
+msgstr ""
+
+#: library/update-notifier.php:61
+msgid "Your version of Tarski is up to date."
+msgstr ""
+
+#: library/update-notifier.php:66 library/update-notifier.php:82
+msgid "A new version of the Tarski theme, version "
+msgstr ""
+
+#: library/update-notifier.php:66 library/update-notifier.php:82
+msgid ", "
+msgstr ""
+
+#: library/update-notifier.php:66 library/update-notifier.php:82
+msgid "is now available"
+msgstr ""
+
+#: library/update-notifier.php:66 library/update-notifier.php:82
+msgid ". Your installed version is "
+msgstr ""
+
+#: library/update-notifier.php:72
+msgid "Update notification for Tarski is disabled. You can enable it on the "
+msgstr ""
+
+#: library/update-notifier.php:73
+msgid "Tarski Options page"
+msgstr ""
+
+#: loop.php:11 loop.php:31
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: loop.php:13
+msgid "Permalink"
+msgstr ""
+
+#: loop.php:22
+msgid "Permanent Link to "
+msgstr ""
+
+#: loop.php:26
+msgid "Comments closed"
+msgstr ""
+
+#: search.php:9
+msgid "Search Results"
+msgstr ""
+
+#: search.php:12 search.php:30
+msgid "Your search for "
+msgstr ""
+
+#: search.php:12
+msgid "returned the following results."
+msgstr ""
+
+#: search.php:27
+msgid "No results"
+msgstr ""
+
+#: search.php:30
+msgid " returned no results. Try returning to the "
+msgstr ""
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:23
+msgid "Pages"
+msgstr ""
+
+#: sidebar.php:39
+msgid "Error"
+msgstr ""
+
+#: sidebar.php:39
+msgid "not found."
+msgstr ""
+
+#: tags.php:23
+msgid ""
+"Sorry, this version of WordPress doesn&#8217;t appear to support the tag "
+"cloud."
+msgstr ""

@@ -1,0 +1,938 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-01-06 12:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "You are currently browsing the archive for the %s category."
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "You are currently browsing articles tagged %s."
+msgstr ""
+
+#: archive.php:33 library/helpers/author_helper.php:16
+#, php-format
+msgid "Articles by %s"
+msgstr ""
+
+#: archive.php:39
+#, php-format
+msgid "You are currently browsing %s&#8217;s articles."
+msgstr ""
+
+#: archive.php:49
+#, php-format
+msgid "You are currently browsing the daily archive for %s."
+msgstr ""
+
+#: archive.php:58
+#, php-format
+msgid "You are currently browsing the monthly archive for %s."
+msgstr ""
+
+#: archive.php:67
+#, php-format
+msgid "You are currently browsing the yearly archive for %s."
+msgstr ""
+
+#: archives.php:14 index.php:24 links.php:15 tags.php:15
+msgid "edit page"
+msgstr ""
+
+#: archives.php:25
+msgid "Monthly Archives"
+msgstr ""
+
+#: archives.php:36
+msgid "Category Archives"
+msgstr ""
+
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:24 index.php:21 loop.php:11 loop.php:28
+msgid "No comments"
+msgstr ""
+
+#: comments.php:24 index.php:21 loop.php:11 loop.php:28
+msgid "1 comment"
+msgstr ""
+
+#: comments.php:24 index.php:21 loop.php:11 loop.php:28
+msgid " comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments feed for this article"
+msgstr ""
+
+#: comments.php:30
+msgid "Trackback link"
+msgstr ""
+
+#: comments.php:44 comments.php:71
+msgid "Permalink to this comment"
+msgstr ""
+
+#: comments.php:44
+msgid " at "
+msgstr ""
+
+#: comments.php:49 comments.php:51
+msgid "Comment"
+msgstr ""
+
+#: comments.php:49 comments.php:51
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:49 comments.php:51
+msgid "Pingback"
+msgstr ""
+
+#: comments.php:49 comments.php:51
+msgid " from"
+msgstr ""
+
+#: comments.php:53 comments.php:73 index.php:22
+#: library/helpers/content_helper.php:448 loop.php:11 loop.php:29
+msgid "edit"
+msgstr ""
+
+#: comments.php:68
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:94
+msgid "You must be "
+msgstr ""
+
+#: comments.php:94
+msgid "logged in"
+msgstr ""
+
+#: comments.php:94
+msgid " to post a comment."
+msgstr ""
+
+#: comments.php:105
+msgid "You are logged in as "
+msgstr ""
+
+#: comments.php:106
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:106
+msgid "Logout &raquo;"
+msgstr ""
+
+#: comments.php:112
+msgid "Name"
+msgstr ""
+
+#: comments.php:112
+msgid "(required)"
+msgstr ""
+
+#: comments.php:113
+msgid "Email"
+msgstr ""
+
+#: comments.php:113
+msgid "(required, not displayed)"
+msgstr ""
+
+#: comments.php:114
+msgid "Website"
+msgstr ""
+
+#: comments.php:120
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:122
+msgid "Submit Comment"
+msgstr ""
+
+#: library/classes/options.php:50
+msgid ""
+"This is the default Tarski blurb: you can edit or remove it on the Tarski "
+"Options page."
+msgstr ""
+
+#: library/classes/options.php:61 library/display/admin/options_page.php:309
+#: library/helpers/template_helper.php:493
+msgid "Home"
+msgstr ""
+
+#: library/display/admin/options_page.php:6
+msgid "Tarski Options have been restored."
+msgstr ""
+
+#: library/display/admin/options_page.php:6
+#: library/display/admin/options_page.php:8
+msgid "View site &raquo;"
+msgstr ""
+
+#: library/display/admin/options_page.php:8
+msgid "Tarski Options have been updated."
+msgstr ""
+
+#: library/display/admin/options_page.php:19
+msgid "You have deleted your Tarski options."
+msgstr ""
+
+#: library/display/admin/options_page.php:19
+msgid "Restore Tarski Options &raquo;"
+msgstr ""
+
+#: library/display/admin/options_page.php:46
+#: library/display/admin/version_dashboard.php:24
+#: library/helpers/admin_helper.php:158
+msgid "Tarski Options"
+msgstr ""
+
+#: library/display/admin/options_page.php:52
+#: library/display/admin/options_page.php:378
+msgid "Save Options &raquo;"
+msgstr ""
+
+#: library/display/admin/options_page.php:61
+#: library/display/admin/options_page.php:76
+msgid "Update Notification"
+msgstr ""
+
+#: library/display/admin/options_page.php:63
+msgid "Tarski is set to notify you when an update is available."
+msgstr ""
+
+#: library/display/admin/options_page.php:65
+msgid "Tarski can be set to notify you when updates are available."
+msgstr ""
+
+#: library/display/admin/options_page.php:67
+msgid "Update notification on (recommended)"
+msgstr ""
+
+#: library/display/admin/options_page.php:68
+msgid "Update notification off"
+msgstr ""
+
+#: library/display/admin/options_page.php:70
+#, php-format
+msgid ""
+"The version check could not be cached. To enable caching, follow the "
+"tutorial on the %s page."
+msgstr ""
+
+#: library/display/admin/options_page.php:70
+msgid "update notifier"
+msgstr ""
+
+#: library/display/admin/options_page.php:72
+msgid "Privacy notice: "
+msgstr ""
+
+#: library/display/admin/options_page.php:72
+msgid ""
+"The update notifier does not transmit any information about you or your "
+"website."
+msgstr ""
+
+#: library/display/admin/options_page.php:78
+#, php-format
+msgid ""
+"Your server appears to have %1$s disabled and %2$s not installed. This means "
+"that the update notifier will not work."
+msgstr ""
+
+#: library/display/admin/options_page.php:83
+#, php-format
+msgid ""
+"You can read our %1$s on how to fix your server setup, but if you are unable "
+"to change it we recommend subscribing to either the %2$s or the %3$s in your "
+"feed reader, so that you can be alerted when new Tarski versions become "
+"available."
+msgstr ""
+
+#: library/display/admin/options_page.php:84
+msgid "documentation"
+msgstr ""
+
+#: library/display/admin/options_page.php:85
+msgid "Tarski version feed"
+msgstr ""
+
+#: library/display/admin/options_page.php:86
+msgid "Tarski website feed"
+msgstr ""
+
+#: library/display/admin/options_page.php:93
+msgid "Footer Options"
+msgstr ""
+
+#: library/display/admin/options_page.php:95
+msgid ""
+"Write something about yourself here, and it will appear in the footer. "
+"Deleting the content disables it."
+msgstr ""
+
+#: library/display/admin/options_page.php:100
+msgid "Show recent articles in the footer"
+msgstr ""
+
+#: library/display/admin/options_page.php:110
+msgid "Pick a Sidebar&hellip;"
+msgstr ""
+
+#: library/display/admin/options_page.php:111
+msgid ""
+"Choose either Tarski&#8217;s built-in sidebar options, those afforded by "
+"WordPress Widgets, or write your own sidebar code."
+msgstr ""
+
+#: library/display/admin/options_page.php:113
+msgid "Tarski sidebar options"
+msgstr ""
+
+#: library/display/admin/options_page.php:114
+msgid "WordPress Widgets"
+msgstr ""
+
+#: library/display/admin/options_page.php:116
+msgid "Alternate sidebar file"
+msgstr ""
+
+#: library/display/admin/options_page.php:119 library/launcher.php:23
+msgid "Post and Page Sidebar"
+msgstr ""
+
+#: library/display/admin/options_page.php:120
+#, php-format
+msgid ""
+"The sidebar displayed on single posts and pages can be the same as on the "
+"rest of the site, a different set of %1$s, or you can choose not to display "
+"it at all."
+msgstr ""
+
+#: library/display/admin/options_page.php:120
+msgid "widgets"
+msgstr ""
+
+#: library/display/admin/options_page.php:122
+msgid "Same as the main sidebar"
+msgstr ""
+
+#: library/display/admin/options_page.php:123
+msgid "Different widgets"
+msgstr ""
+
+#: library/display/admin/options_page.php:124
+msgid "Don&#8217;t display a sidebar on individual posts and pages"
+msgstr ""
+
+#: library/display/admin/options_page.php:128
+msgid "&hellip;and configure it."
+msgstr ""
+
+#: library/display/admin/options_page.php:134
+msgid "Pages list"
+msgstr ""
+
+#: library/display/admin/options_page.php:140
+msgid "Links list"
+msgstr ""
+
+#: library/display/admin/options_page.php:143
+msgid ""
+"Anything you put into this custom content area, like text, images etc. will "
+"show up in the sidebar below the options above. Leaving the field blank "
+"disables it."
+msgstr ""
+
+#: library/display/admin/options_page.php:150
+#, php-format
+msgid ""
+"To configure your Sidebar Widgets, go to the %s page and select the widgets "
+"you&#8217;d like to use."
+msgstr ""
+
+#: library/display/admin/options_page.php:150
+msgid "Widgets configuration"
+msgstr ""
+
+#: library/display/admin/options_page.php:155
+#, php-format
+msgid ""
+"To use your own custom sidebar code, upload a file named %s to your Tarski "
+"directory."
+msgstr ""
+
+#: library/display/admin/options_page.php:168
+msgid "Alternate Style"
+msgstr ""
+
+#: library/display/admin/options_page.php:180
+msgid "Default style"
+msgstr ""
+
+#: library/display/admin/options_page.php:198
+msgid ""
+"Tarski allows you to select an alternate style that modifies the default "
+"one. Choose from the list above."
+msgstr ""
+
+#: library/display/admin/options_page.php:200
+#, php-format
+msgid ""
+"Tarski allows you to select an %1$s that modifies the default one. Choose "
+"from the list above, or upload your own to %2$s."
+msgstr ""
+
+#: library/display/admin/options_page.php:200
+msgid "alternate style"
+msgstr ""
+
+#: library/display/admin/options_page.php:203
+msgid "Header Image"
+msgstr ""
+
+#: library/display/admin/options_page.php:204
+#, php-format
+msgid ""
+"You may wish to use one of these stock headers, or upload your own via the %"
+"s tab."
+msgstr ""
+
+#: library/display/admin/options_page.php:204
+#: library/display/admin/options_page.php:207
+msgid "Custom Image Header"
+msgstr ""
+
+#: library/display/admin/options_page.php:207
+#, php-format
+msgid ""
+"You are currently using a custom header uploaded via WordPress. To use a "
+"stock icon instead, go to the %s tab and click &#8216;Restore Original "
+"Header&#8217;."
+msgstr ""
+
+#: library/display/admin/options_page.php:234
+#, php-format
+msgid "Choose a header image by clicking on it. The current image is the %s."
+msgstr ""
+
+#: library/display/admin/options_page.php:234
+msgid "highlighted one"
+msgstr ""
+
+#: library/display/admin/options_page.php:237
+#, php-format
+msgid "You can upload your own header images (.gif, .jpg or .png) to %s."
+msgstr ""
+
+#: library/display/admin/options_page.php:238
+#, php-format
+msgid ""
+"Make sure that you upload a thumbnail file as well. If your image is named %1"
+"$s, the corresponding thumbnail file should be named %2$s."
+msgstr ""
+
+#: library/display/admin/options_page.php:238
+msgid "example"
+msgstr ""
+
+#: library/display/admin/options_page.php:246
+msgid "Asides Category"
+msgstr ""
+
+#: library/display/admin/options_page.php:248
+msgid "Disable asides"
+msgstr ""
+
+#: library/display/admin/options_page.php:261
+msgid ""
+"This option will make Tarski display posts from the selected category in the "
+msgstr ""
+
+#: library/display/admin/options_page.php:261
+msgid "Asides"
+msgstr ""
+
+#: library/display/admin/options_page.php:261
+msgid ""
+" format. Asides are short posts, usually only a single paragraph, and Tarski "
+"displays them in a condensed format without titles."
+msgstr ""
+
+#: library/display/admin/options_page.php:263
+msgid "Navigation Display"
+msgstr ""
+
+#: library/display/admin/options_page.php:271
+msgid "Pages selected here will display in your navbar."
+msgstr ""
+
+#: library/display/admin/options_page.php:278
+msgid "View this page"
+msgstr ""
+
+#: library/display/admin/options_page.php:280
+msgid ""
+"To change the order in which they appear, edit the &#8216;Page Order&#8217; "
+"value on each page."
+msgstr ""
+
+#: library/display/admin/options_page.php:282
+msgid "There are no pages to select navbar items from."
+msgstr ""
+
+#: library/display/admin/options_page.php:285
+msgid "Navigation Options"
+msgstr ""
+
+#: library/display/admin/options_page.php:288
+msgid "Add external links to the navbar."
+msgstr ""
+
+#: library/display/admin/options_page.php:290
+msgid "No external links"
+msgstr ""
+
+#: library/display/admin/options_page.php:305
+#, php-format
+msgid ""
+"You can add or edit links on the %s page. We recommend creating a link "
+"category specifically for the links you want displayed in your navbar, but "
+"you can use any category."
+msgstr ""
+
+#: library/display/admin/options_page.php:305
+msgid "Blogroll"
+msgstr ""
+
+#: library/display/admin/options_page.php:307
+msgid "Rename your &#8216;Home&#8217; link."
+msgstr ""
+
+#: library/display/admin/options_page.php:310
+msgid "Note that this link is not displayed when you have a static front page."
+msgstr ""
+
+#: library/display/admin/options_page.php:312
+msgid "Miscellaneous Options"
+msgstr ""
+
+#: library/display/admin/options_page.php:317
+msgid "Display site title"
+msgstr ""
+
+#: library/display/admin/options_page.php:323
+msgid "Display site tagline"
+msgstr ""
+
+#: library/display/admin/options_page.php:327
+msgid "Your tagline is currently "
+msgstr ""
+
+#: library/display/admin/options_page.php:327
+msgid "blank"
+msgstr ""
+
+#: library/display/admin/options_page.php:327
+msgid " and won&#8217;t be displayed."
+msgstr ""
+
+#: library/display/admin/options_page.php:333
+msgid "Show post categories"
+msgstr ""
+
+#: library/display/admin/options_page.php:339
+msgid "Show tags everywhere"
+msgstr ""
+
+#: library/display/admin/options_page.php:345
+msgid "Paginate index pages (such as the front page or monthly archives)"
+msgstr ""
+
+#: library/display/admin/options_page.php:351
+msgid "Centre the theme"
+msgstr ""
+
+#: library/display/admin/options_page.php:357
+msgid "Switch the column positions (left becomes right, and vice versa)"
+msgstr ""
+
+#: library/display/admin/options_page.php:363
+msgid "Reverse document title order (show site name last)"
+msgstr ""
+
+#: library/display/admin/options_page.php:367
+msgid "Feed Options"
+msgstr ""
+
+#: library/display/admin/options_page.php:368
+#, php-format
+msgid "Tarski can be set to link to either %s or Atom feeds."
+msgstr ""
+
+#: library/display/admin/options_page.php:368
+#: library/display/admin/options_page.php:371
+msgid "Really Simple Syndication"
+msgstr ""
+
+#: library/display/admin/options_page.php:370
+msgid "Atom"
+msgstr ""
+
+#: library/display/admin/options_page.php:388
+msgid ""
+"Fed up with your Tarski Options? Want to reset to the defaults? Hit this "
+"button!"
+msgstr ""
+
+#: library/display/admin/options_page.php:388
+msgid "Delete Tarski Options &raquo;"
+msgstr ""
+
+#: library/display/admin/options_page.php:394
+#, php-format
+msgid "The %1$s is full of useful stuff &middot; %2$s"
+msgstr ""
+
+#: library/display/admin/options_page.php:394
+msgid "Tarski documentation"
+msgstr ""
+
+#: library/display/admin/options_page.php:394
+msgid "Credits &amp; Thanks"
+msgstr ""
+
+#: library/display/admin/version_dashboard.php:1
+msgid "Tarski Updates"
+msgstr ""
+
+#: library/display/admin/version_dashboard.php:6
+#, php-format
+msgid "Your version of Tarski (%s) is up to date."
+msgstr ""
+
+#: library/display/admin/version_dashboard.php:11
+#, php-format
+msgid ""
+"A new version of the Tarski theme, version %1$s %2$s. Your installed version "
+"is %3$s."
+msgstr ""
+
+#: library/display/admin/version_dashboard.php:11
+#: library/display/admin/version_options.php:4
+msgid "is now available"
+msgstr ""
+
+#: library/display/admin/version_dashboard.php:16
+#, php-format
+msgid ""
+"You appear to be running a development version of Tarski (%1$s). Please "
+"ensure you %2$s."
+msgstr ""
+
+#: library/display/admin/version_dashboard.php:16
+msgid "stay updated"
+msgstr ""
+
+#: library/display/admin/version_dashboard.php:20
+#, php-format
+msgid "No connection to update server. Your installed version is %s."
+msgstr ""
+
+#: library/display/admin/version_dashboard.php:24
+#, php-format
+msgid ""
+"Update notification for Tarski is disabled. You can enable it on the %1$s "
+"page. Your installed version is %2$s."
+msgstr ""
+
+#: library/display/admin/version_options.php:4
+#, php-format
+msgid ""
+"A new version of the Tarski theme, version %1$s, %2$s. Your installed "
+"version is %3$s."
+msgstr ""
+
+#: library/display/credits.php:2
+msgid ""
+"Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href="
+"\"http://tarskitheme.com/\">Tarski</a>"
+msgstr ""
+
+#: library/display/credits.php:4
+#, php-format
+msgid "Hosted by %s"
+msgstr ""
+
+#: library/display/feed_link.php:2
+msgid "Subscribe to feed"
+msgstr ""
+
+#: library/display/no_posts.php:4
+msgid "Sorry"
+msgstr ""
+
+#: library/display/no_posts.php:8
+msgid ""
+"Looks like there&#8127;s nothing here, sorry. You might want to try the "
+"search function. Alternatively, return to the "
+msgstr ""
+
+#: library/display/no_posts.php:8 library/helpers/content_helper.php:364
+#: search.php:31
+msgid "front page"
+msgstr ""
+
+#: library/display/no_posts.php:8
+msgid "."
+msgstr ""
+
+#: library/display/recent_articles.php:2
+msgid "Recent Articles"
+msgstr ""
+
+#: library/display/recent_articles.php:6
+msgid "View this post"
+msgstr ""
+
+#: library/display/recent_articles.php:10
+msgid " in "
+msgstr ""
+
+#: library/display/sidebar/tarski_sidebar.php:10
+msgid "Pages"
+msgstr ""
+
+#: library/display/sidebar/user_sidebar_error.php:2
+msgid "Error"
+msgstr ""
+
+#: library/display/sidebar/user_sidebar_error.php:3
+#, php-format
+msgid "%s not found."
+msgstr ""
+
+#: library/display/sidebar/user_sidebar_error.php:4
+#, php-format
+msgid ""
+"Either upload a %1$s to your Tarski directory, or select another sidebar "
+"type from the %2$s."
+msgstr ""
+
+#: library/display/sidebar/user_sidebar_error.php:4
+msgid "custom sidebar file"
+msgstr ""
+
+#: library/display/sidebar/user_sidebar_error.php:4
+msgid "Tarski Options page"
+msgstr ""
+
+#: library/display/sidebar/user_sidebar_error.php:5
+msgid ""
+"Normal users will see the default Tarski sidebar until this is resolved."
+msgstr ""
+
+#: library/helpers/author_helper.php:13
+msgid " by "
+msgstr ""
+
+#: library/helpers/content_helper.php:112
+msgid "Pages:"
+msgstr ""
+
+#: library/helpers/content_helper.php:115
+msgid "Next page"
+msgstr ""
+
+#: library/helpers/content_helper.php:116
+msgid "Previous page"
+msgstr ""
+
+#: library/helpers/content_helper.php:151
+msgid "Previous results"
+msgstr ""
+
+#: library/helpers/content_helper.php:153
+msgid "More results"
+msgstr ""
+
+#: library/helpers/content_helper.php:155
+msgid "Older entries"
+msgstr ""
+
+#: library/helpers/content_helper.php:157
+msgid "Newer entries"
+msgstr ""
+
+#: library/helpers/content_helper.php:191
+#, php-format
+msgid " in %s"
+msgstr ""
+
+#: library/helpers/content_helper.php:244
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: library/helpers/content_helper.php:363
+#, php-format
+msgid ""
+"The page you are looking for does not exist; it may have been moved, or "
+"removed altogether. You might want to try the search function or return to "
+"the %s."
+msgstr ""
+
+#: library/helpers/content_helper.php:446
+msgid "Edit the footer content area"
+msgstr ""
+
+#: library/helpers/tag_helper.php:74
+msgid "and"
+msgstr ""
+
+#: library/helpers/tag_helper.php:76
+msgid "or"
+msgstr ""
+
+#: library/helpers/tag_helper.php:136 tags.php:22
+msgid "Tags"
+msgstr ""
+
+#: library/helpers/template_helper.php:82
+msgid "Search results"
+msgstr ""
+
+#: library/helpers/template_helper.php:311
+#, php-format
+msgid "Commments feed for %s"
+msgstr ""
+
+#: library/helpers/template_helper.php:315
+#, php-format
+msgid "Category feed for %s"
+msgstr ""
+
+#: library/helpers/template_helper.php:318
+#, php-format
+msgid "Tag feed for %s"
+msgstr ""
+
+#: library/helpers/template_helper.php:321
+#, php-format
+msgid "Articles feed for %s"
+msgstr ""
+
+#: library/helpers/template_helper.php:325
+#, php-format
+msgid "Daily archive feed for %s"
+msgstr ""
+
+#: library/helpers/template_helper.php:328
+#, php-format
+msgid "Monthly archive feed for %s"
+msgstr ""
+
+#: library/helpers/template_helper.php:331
+#, php-format
+msgid "Yearly archive feed for %s"
+msgstr ""
+
+#: library/helpers/template_helper.php:344
+#, php-format
+msgid "Search feed for %s"
+msgstr ""
+
+#: library/helpers/template_helper.php:365
+msgid " feed"
+msgstr ""
+
+#: library/helpers/template_helper.php:395
+msgid "Header image"
+msgstr ""
+
+#: library/helpers/template_helper.php:409
+#: library/helpers/template_helper.php:435
+msgid "Return to main page"
+msgstr ""
+
+#: library/helpers/template_helper.php:614
+msgid "Site Admin"
+msgstr ""
+
+#: library/js/tarski-js.php:32 library/js/tarski-js.php:40 searchform.php:3
+msgid "Search this site"
+msgstr ""
+
+#: library/launcher.php:13
+msgid "Main Sidebar"
+msgstr ""
+
+#: library/launcher.php:33
+msgid "Footer Widgets"
+msgstr ""
+
+#: loop.php:9 loop.php:33
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: loop.php:11
+msgid "Permalink"
+msgstr ""
+
+#: loop.php:24
+msgid "Permanent Link to "
+msgstr ""
+
+#: loop.php:28
+msgid "Comments closed"
+msgstr ""
+
+#: search.php:11
+msgid "Search Results"
+msgstr ""
+
+#: search.php:14
+#, php-format
+msgid "Your search for %s returned the following results."
+msgstr ""
+
+#: search.php:28
+msgid "No results"
+msgstr ""
+
+#: search.php:31
+#, php-format
+msgid "Your search for %1$s returned no results. Try returning to the %2$s."
+msgstr ""
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""

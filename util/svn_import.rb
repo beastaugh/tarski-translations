@@ -15,7 +15,7 @@ require 'fileutils'
 
 SVN_PATH = "http://tarski.googlecode.com/svn/translations/"
 
-THIS_DIR = Pathname.new(File.dirname(__FILE__))
+THIS_DIR = Pathname.new(File.dirname(__FILE__)) + "../"
 
 TMP_DIR  = THIS_DIR + "tmp"
 BIN_DIR  = THIS_DIR + "bin"
@@ -45,6 +45,8 @@ Find.find(TMP_DIR) do |path|
       FileUtils.cp(path, BIN_DIR + version + name)
     elsif ext == ".po"
       FileUtils.cp(path, SRC_DIR + version + name)
+    elsif ext == ".pot"
+      FileUtils.cp(path, SRC_DIR + "template" + "tarski_#{version}.pot")
     end
   end
 end
