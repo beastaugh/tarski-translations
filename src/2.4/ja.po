@@ -1,0 +1,780 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tarski 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-08-11 13:10+0900\n"
+"Last-Translator: Inoue DAISUKE <dai@dohc.sytes.net>\n"
+"Language-Team: dohc <dai@dohc.sytes.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-SourceCharset: utf-8\n"
+#: 404.php:8
+msgid "Error 404"
+msgstr "404 エラー"
+#: app/api/deprecated.php:312
+msgid "Edit the footer content area"
+msgstr "フッター内容の編集"
+#: app/api/deprecated.php:314
+#: comments.php:47
+#: comments.php:67
+#: index.php:19
+#: index.php:27
+#: loop.php:9
+#: loop.php:27
+msgid "edit"
+msgstr "edit"
+#: app/display/credits.php:2
+msgid "Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href=\"http://tarskitheme.com/\">Tarski</a>"
+msgstr "Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href=\"http://tarskitheme.com/\">Tarski</a>"
+#: app/display/credits.php:4
+#, php-format
+msgid "Hosted by %s"
+msgstr "Hosted by %s"
+#: app/display/feed_link.php:2
+msgid "Subscribe to feed"
+msgstr "フィードの購読"
+#: app/display/no_posts.php:4
+msgid "Sorry"
+msgstr "申し訳ありません"
+#: app/display/no_posts.php:8
+msgid "Looks like there&#8127;s nothing here, sorry. You might want to try the search function. Alternatively, return to the "
+msgstr "申し訳ありませんが、何も見つかりませんでした。別のキーワードで検索するか、"
+#: app/display/no_posts.php:8
+#: library/helpers/content_helper.php:296
+#: search.php:29
+msgid "front page"
+msgstr "トップページ"
+#: app/display/no_posts.php:8
+msgid "."
+msgstr "にお進みください。"
+#: app/display/options_page.php:6
+msgid "Tarski options have been restored."
+msgstr "Tarsk i設定を復元しました。"
+#: app/display/options_page.php:6
+#: app/display/options_page.php:8
+msgid "View site &raquo;"
+msgstr "ブログの表示 &raquo;"
+#: app/display/options_page.php:8
+msgid "Tarski options have been updated."
+msgstr "Tarski 設定を更新しました。"
+#: app/display/options_page.php:18
+msgid "You have deleted your Tarski options."
+msgstr "Tarski 設定を削除しました。"
+#: app/display/options_page.php:18
+msgid "Restore Tarski Options &raquo;"
+msgstr "Tarski 設定を復元 &raquo;"
+#: app/display/options_page.php:26
+#: library/helpers/admin_helper.php:245
+msgid "Tarski Options"
+msgstr "Tarski 設定"
+#: app/display/options_page.php:28
+msgid "Save Options"
+msgstr "設定を保存"
+#: app/display/options_page.php:33
+msgid "Tarski documentation"
+msgstr "Tarski ドキュメント"
+#: app/display/options_page.php:34
+msgid "Credits &amp; Thanks"
+msgstr "クレジットと謝辞"
+#: app/display/options_page.php:35
+msgid "Forum"
+msgstr "フォーラム"
+#: app/display/options_page.php:44
+#: app/display/options_page.php:56
+msgid "Update Notification"
+msgstr "更新通知"
+#: app/display/options_page.php:46
+msgid "Tarski is set to notify you when an update is available."
+msgstr "Tarski が更新されたら通知するように設定されています。"
+#: app/display/options_page.php:48
+msgid "Tarski can be set to notify you when updates are available."
+msgstr "Tarski が更新されたことを通知するように設定できます。"
+#: app/display/options_page.php:50
+msgid "Update notification on (recommended)"
+msgstr "更新通知有効(推奨)"
+#: app/display/options_page.php:51
+msgid "Update notification off"
+msgstr "更新通知無効"
+#: app/display/options_page.php:53
+#, php-format
+msgid "The version check could not be cached. To enable caching, follow the tutorial on the %s page."
+msgstr "バージョン・チェックはキャッシュできません。キャッシュを有効にするには、%s ページのチュートリアルに従ってください。"
+#: app/display/options_page.php:53
+msgid "update notifier"
+msgstr "更新通知"
+#: app/display/options_page.php:58
+#, php-format
+msgid "Your server appears to have %1$s disabled and %2$s not installed. This means that the update notifier will not work."
+msgstr "あなたのサーバーは、 %1$s が無効で %2$s がインストールされていません。ゆえに、更新通知は動作しません。"
+#: app/display/options_page.php:63
+#, php-format
+msgid "You can read our %1$s on how to fix your server setup, but if you are unable to change it we recommend subscribing to either the %2$s or the %3$s in your feed reader, so that you can be alerted when new Tarski versions become available."
+msgstr "あなたのサーバー・セットアップを修正する方法は、%1$s に記載されています。しかし修正ができないなら、%2$s か %3$s のいずれかをフィード・リーダーに登録して Tarski の新バージョンのリリース情報を入手することをおすすめします。"
+#: app/display/options_page.php:64
+msgid "documentation"
+msgstr "ドキュメント"
+#: app/display/options_page.php:65
+msgid "Tarski version feed"
+msgstr "Tarski バージョンフィード"
+#: app/display/options_page.php:66
+msgid "Tarski website feed"
+msgstr "Tarski ウェブサイトのフィード"
+#: app/display/options_page.php:72
+msgid "Navigation Display"
+msgstr "ナビゲーション表示"
+#: app/display/options_page.php:78
+msgid "Pages selected here will display in your navbar."
+msgstr "画面のナビゲーションバーに表示するページを指定してください。"
+#: app/display/options_page.php:81
+msgid "To change the order in which they appear, edit the &#8216;Page Order&#8217; value on each page."
+msgstr "表示順序を変えるには、それぞれのページの「ページ順序」の値を変更してください。"
+#: app/display/options_page.php:84
+msgid "There are no pages to select navbar items from."
+msgstr "ナビゲーションバーの選択肢となるページがありません。"
+#: app/display/options_page.php:87
+msgid "Navigation Options"
+msgstr "ナビゲーション設定"
+#: app/display/options_page.php:90
+msgid "Add external links to the navbar."
+msgstr "ナビゲーションバーに外部へのリンクを追加"
+#: app/display/options_page.php:92
+msgid "No external links"
+msgstr "外部リンクなし"
+#: app/display/options_page.php:107
+#, php-format
+msgid "You can add or edit links on the %s page. We recommend creating a link category specifically for the links you want displayed in your navbar, but you can use any category."
+msgstr "リンクの追加、もしくは編集は、%s ページでおこないます。ナビゲーションバーに表示する専用のリンク・カテゴリーをつくることをおすすめしますがどのカテゴリーをつかってもかまいません。"
+#: app/display/options_page.php:107
+msgid "Manage Links"
+msgstr "リンクの管理"
+#: app/display/options_page.php:109
+msgid "Rename your &#8216;Home&#8217; link."
+msgstr "いわゆる「Home」へのリンク名を変更"
+#: app/display/options_page.php:111
+#: library/classes/options.php:51
+#: library/helpers/template_helper.php:275
+msgid "Home"
+msgstr "Home"
+#: app/display/options_page.php:112
+msgid "This link is not displayed when you have a static front page."
+msgstr "このリンクは、スタティックな（静的な）トップページを使っている場合は表示されません。"
+#: app/display/options_page.php:117
+msgid "Alternate Style"
+msgstr "別のスタイル"
+#: app/display/options_page.php:129
+msgid "Default style"
+msgstr "標準のスタイル"
+#: app/display/options_page.php:147
+msgid "Tarski allows you to select an alternate style that modifies the default one. Choose from the list above."
+msgstr "Tarski は標準のものに変更をくわえた別のスタイルを選ぶことができます。以下のリストから選択してください。"
+#: app/display/options_page.php:149
+#, php-format
+msgid "Tarski allows you to select an %1$s that modifies the default one. Choose from the list above, or upload your own to %2$s."
+msgstr "Tarski は標準のものに変更をくわえた%1$sを選ぶことができます。以下のリストから選択するか、自分で用意したものを「%2$s」にアップロードしてください。"
+#: app/display/options_page.php:149
+msgid "alternate style"
+msgstr "別のスタイル"
+#: app/display/options_page.php:154
+msgid "Asides Category"
+msgstr "Asides 表示カテゴリー"
+#: app/display/options_page.php:156
+msgid "Disable asides"
+msgstr "Asides を使用しない"
+#: app/display/options_page.php:169
+msgid "This option will make Tarski display posts from the selected category in the "
+msgstr "この設定は、選択されたカテゴリーを "
+#: app/display/options_page.php:169
+msgid "Asides"
+msgstr "Asides"
+#: app/display/options_page.php:169
+msgid " format. Asides are short posts, usually only a single paragraph, and Tarski displays them in a condensed format without titles."
+msgstr " 形式で表示します。Asides とは、普通は1つの段落の短い投稿です。Tarski ではタイトルのついていないコンパクトな形式で表示します。"
+#: app/display/options_page.php:173
+msgid "Sidebar"
+msgstr "サイドバー"
+#: app/display/options_page.php:175
+msgid "The sidebar for posts and pages can be the same as that for index pages, or use its own set of widgets."
+msgstr "個別の投稿やページのサイドバーを、トップページと同じにすることも、独自のウィジェットにすることもできます。"
+#: app/display/options_page.php:180
+msgid "Same content as main sidebar?"
+msgstr "トップページのサイドバーと同じにしますか?"
+#: app/display/options_page.php:186
+msgid "Header Images"
+msgstr "ヘッダ画像"
+#: app/display/options_page.php:209
+#, php-format
+msgid "Choose a header image by clicking on it. The current image is the %s one."
+msgstr "クリックでヘッダ画像を選択できます。現在の画像は%sです。"
+#: app/display/options_page.php:209
+msgid "highlighted"
+msgstr "ハイライト表示されているもの"
+#: app/display/options_page.php:212
+#, php-format
+msgid "You can upload your own header images (.gif, .jpg or .png) to %s."
+msgstr "あなたが用意したヘッダ画像(.gif、.jpg もしくは .png)を %s にアップロードしてつかうことができます。 "
+#: app/display/options_page.php:213
+#, php-format
+msgid "Make sure that you upload a thumbnail file as well. If your image is named %1$s, the corresponding thumbnail file should be named %2$s."
+msgstr "かならずサムネール画像もいっしょにアップロードしてください。アップロードした画像のファイル名が %1$s なら、サムネール画像のファイル名は %2$s としなくてはいけません。"
+#: app/display/options_page.php:213
+msgid "example"
+msgstr "例"
+#: app/display/options_page.php:219
+msgid "Miscellaneous Options"
+msgstr "その他の設定"
+#: app/display/options_page.php:224
+msgid "Display site title"
+msgstr "ブログのタイトルを表示"
+#: app/display/options_page.php:230
+msgid "Display site tagline"
+msgstr "ブログの tagline を表示"
+#: app/display/options_page.php:234
+msgid "Your tagline is currently "
+msgstr "現在の tagline "
+#: app/display/options_page.php:234
+msgid "blank"
+msgstr "空白"
+#: app/display/options_page.php:234
+msgid " and won&#8217;t be displayed."
+msgstr "にすると表示しません。"
+#: app/display/options_page.php:240
+msgid "Show post categories"
+msgstr "投稿のカテゴリーを表示する"
+#: app/display/options_page.php:246
+msgid "Show tags everywhere"
+msgstr "Tag を常に表示する"
+#: app/display/options_page.php:252
+msgid "Paginate index pages (such as the front page or monthly archives)"
+msgstr "Index ページをページ割りする（トップページや、月別など）"
+#: app/display/options_page.php:258
+msgid "Centre the theme"
+msgstr "テーマ全体を中央揃えに"
+#: app/display/options_page.php:264
+msgid "Switch the column positions (left becomes right, and vice versa)"
+msgstr "コラム位置の交換 (左が右に、右が左に)"
+#: app/display/options_page.php:270
+msgid "Reverse document title order (show site name last)"
+msgstr "ドキュメントタイトルの順序を逆にする(サイト名を最後に表示する)"
+#: app/display/options_page.php:279
+msgid "Reset Options"
+msgstr "設定の初期化"
+#: app/display/options_page.php:281
+msgid "Reset Tarski&#8217;s options to their default values"
+msgstr "Tarski の設定を標準設定にリセットする"
+#: app/display/options_page.php:285
+msgid "If you change your mind, you&#8217;ll have three hours to restore your options before they&#8217;re removed for good."
+msgstr "もし気が変わったら、以前の設定をリストアするために 3 時間の猶予があります。3 時間を過ぎると以前の設定は削除されます。"
+#: app/launcher.php:18
+msgid "Main sidebar"
+msgstr "トップページのサイドバー"
+#: app/launcher.php:28
+msgid "Post and page sidebar"
+msgstr "個々の投稿とページのサイドバー"
+#: app/launcher.php:38
+msgid "Footer main widgets"
+msgstr "フッタのメイン部分"
+#: app/launcher.php:48
+msgid "Footer sidebar widgets"
+msgstr "フッタのサイドバー"
+#: app/launcher.php:57
+#: library/helpers/widgets.php:91
+msgid "Recent Articles"
+msgstr "最近の投稿"
+#: archive.php:17
+#, php-format
+msgid "You are currently browsing the archive for the %s category."
+msgstr "現在、%s カテゴリーの投稿を表示しています。"
+#: archive.php:27
+#, php-format
+msgid "You are currently browsing articles tagged %s."
+msgstr "%s の Tag がついた投稿を表示しています。"
+#: archive.php:33
+#: library/helpers/author_helper.php:16
+#, php-format
+msgid "Articles by %s"
+msgstr "%s さんの投稿"
+#: archive.php:39
+#, php-format
+msgid "You are currently browsing %s&#8217;s articles."
+msgstr "%s の投稿を表示しています。"
+#: archive.php:49
+#, php-format
+msgid "You are currently browsing the daily archive for %s."
+msgstr "%s 日付の投稿を表示しています。"
+#: archive.php:58
+#, php-format
+msgid "You are currently browsing the monthly archive for %s."
+msgstr "%s の月間投稿を表示しています。"
+#: archive.php:67
+#, php-format
+msgid "You are currently browsing the yearly archive for %s."
+msgstr "%s の年間投稿を表示しています。"
+#: archives.php:14
+#: index.php:30
+#: links.php:15
+#: tags.php:15
+msgid "edit page"
+msgstr "ページの編集"
+#: archives.php:25
+msgid "Monthly Archives"
+msgstr "月別表示"
+#: archives.php:36
+msgid "Category Archives"
+msgstr "カテゴリ別表示"
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "この投稿はパスワードで保護されています。コメントを表示するにはパスワードを入力してください。"
+#: comments.php:18
+#: library/helpers/content_helper.php:128
+#: library/helpers/content_helper.php:131
+#: library/helpers/content_helper.php:146
+msgid "No comments"
+msgstr "コメントなし"
+#: comments.php:18
+#: library/helpers/content_helper.php:128
+#: library/helpers/content_helper.php:131
+#: library/helpers/content_helper.php:146
+msgid "1 comment"
+msgstr "1 本のコメント"
+#: comments.php:18
+#: library/helpers/content_helper.php:128
+#: library/helpers/content_helper.php:131
+msgid " comments"
+msgstr " 本のコメント"
+#: comments.php:20
+msgid "Comments feed for this article"
+msgstr "この投稿へのコメント・フィード"
+#: comments.php:24
+msgid "Trackback link"
+msgstr "トラックバック・リンク"
+#: comments.php:38
+#: comments.php:64
+msgid "Permalink to this comment"
+msgstr "このコメントへのパーマリンク"
+#: comments.php:38
+msgid " at "
+msgstr " at "
+#: comments.php:43
+#: comments.php:45
+msgid "Comment"
+msgstr "コメント"
+#: comments.php:43
+#: comments.php:45
+msgid "Trackback"
+msgstr "トラックバック"
+#: comments.php:43
+#: comments.php:45
+msgid "Pingback"
+msgstr "ピンバック"
+#: comments.php:43
+#: comments.php:45
+msgid " from"
+msgstr " から "
+#: comments.php:61
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは現在承認中です。"
+#: comments.php:88
+msgid "You must be "
+msgstr "コメントを投稿するには"
+#: comments.php:88
+msgid "logged in"
+msgstr "ログイン"
+#: comments.php:88
+msgid " to post a comment."
+msgstr "しなくてはいけません。"
+#: comments.php:99
+msgid "You are logged in as "
+msgstr "ログイン中 : "
+#: comments.php:100
+msgid "Log out of this account"
+msgstr "ログアウト"
+#: comments.php:100
+msgid "Logout &raquo;"
+msgstr "ログアウト &raquo;"
+#: comments.php:106
+msgid "Name"
+msgstr "名前"
+#: comments.php:106
+msgid "(required)"
+msgstr " (必須) "
+#: comments.php:107
+msgid "Email"
+msgstr "E メール"
+#: comments.php:107
+msgid "(required, not displayed)"
+msgstr "(SPAM防止のため必須。表示はしません)"
+#: comments.php:108
+msgid "Website"
+msgstr "ブログ"
+#: comments.php:114
+msgid "Your comment"
+msgstr "あなたのコメント"
+#: comments.php:116
+msgid "Submit Comment"
+msgstr "コメントの投稿"
+#: library/classes/asset.php:132
+#, php-format
+msgid "Commments feed for %s"
+msgstr "%s のコメントフィード"
+#: library/classes/asset.php:137
+#, php-format
+msgid "Category feed for %s"
+msgstr "%s のカテゴリーフィード"
+#: library/classes/asset.php:141
+#, php-format
+msgid "Tag feed for %s"
+msgstr "%s の Tag フィード"
+#: library/classes/asset.php:145
+#, php-format
+msgid "Articles feed for %s"
+msgstr "%s の投稿のフィード"
+#: library/classes/asset.php:150
+#, php-format
+msgid "Daily archive feed for %s"
+msgstr "%s 付の投稿のフィード"
+#: library/classes/asset.php:154
+#, php-format
+msgid "Monthly archive feed for %s"
+msgstr "%s の月間投稿のフィード"
+#: library/classes/asset.php:158
+#, php-format
+msgid "Yearly archive feed for %s"
+msgstr "%s の年間投稿のフィード"
+#: library/classes/asset.php:170
+#, php-format
+msgid "Search feed for %s"
+msgstr "%s でフィードを検索"
+#: library/classes/asset.php:171
+#, php-format
+msgid "Search comments feed for %s"
+msgstr "コメントのフィードを「%s」で検索"
+#: library/classes/asset.php:181
+#, php-format
+msgid "%s feed"
+msgstr "%s フィード"
+#: library/classes/page_select.php:83
+msgid "View this page"
+msgstr "このページを表示"
+#: library/helpers/admin_helper.php:415
+#, php-format
+msgid "A new version of the Tarski theme, version %1$s %2$s. Your installed version is %3$s."
+msgstr "Tarski の新バージョンは、%1$s%2$sです。現在インストールされているバージョンは %3$sです。"
+#: library/helpers/admin_helper.php:417
+msgid "is now available"
+msgstr "が入手できます。"
+#: library/helpers/admin_helper.php:424
+#, php-format
+msgid "Your version of Tarski (%s) is up to date."
+msgstr "あなたのTarski は最新版(%s)です。"
+#: library/helpers/admin_helper.php:430
+#, php-format
+msgid "You appear to be running a development version of Tarski (%1$s). Please ensure you %2$s."
+msgstr "現在、Tarski の開発バージョン(%1$s)で運用されているようです。ぜひ %2$s にしてください。"
+#: library/helpers/admin_helper.php:432
+msgid "stay updated"
+msgstr "最新状態です。"
+#: library/helpers/admin_helper.php:438
+#, php-format
+msgid "No connection to update server. Your installed version is %s."
+msgstr "更新情報サーバーに接続できません。現在インストールされているバージョンは%sです。"
+#: library/helpers/admin_helper.php:446
+#, php-format
+msgid "Update notification for Tarski is disabled. Your installed version is %s."
+msgstr "Tarski のアップデート通知を無効にしました。現在インストールされているバージョンは %s です。"
+#: library/helpers/author_helper.php:13
+msgid " by "
+msgstr " by "
+#: library/helpers/content_helper.php:47
+msgid "Pages:"
+msgstr "ページ : "
+#: library/helpers/content_helper.php:50
+msgid "Next page"
+msgstr "次のページ"
+#: library/helpers/content_helper.php:51
+msgid "Previous page"
+msgstr "前のページ"
+#: library/helpers/content_helper.php:86
+msgid "Previous results"
+msgstr "前の結果"
+#: library/helpers/content_helper.php:88
+msgid "More results"
+msgstr "ほかの結果"
+#: library/helpers/content_helper.php:90
+msgid "Older entries"
+msgstr "古い投稿"
+#: library/helpers/content_helper.php:92
+msgid "Newer entries"
+msgstr "新しい投稿"
+#: library/helpers/content_helper.php:111
+#, php-format
+msgid " in %s"
+msgstr "(%s)"
+#: library/helpers/content_helper.php:131
+msgid "Comments closed"
+msgstr "現在、コメントは受けつけていません"
+#: library/helpers/content_helper.php:146
+#, php-format
+msgid "% comments"
+msgstr "% 本のコメント"
+#: library/helpers/content_helper.php:148
+msgid "Permalink"
+msgstr "パーマリンク"
+#: library/helpers/content_helper.php:163
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+#: library/helpers/content_helper.php:202
+#, php-format
+msgid "%s&#8217;s avatar"
+msgstr "%s のアバター"
+#: library/helpers/content_helper.php:295
+#, php-format
+msgid "The page you are looking for does not exist; it may have been moved, or removed altogether. You might want to try the search function or return to the %s."
+msgstr "お探しのページは見つかりません。移動したか、削除したかのいずれかが考えられます。検索機能をつかうか、%s "
+#: library/helpers/tag_helper.php:40
+#: library/helpers/tag_helper.php:107
+msgid ", "
+msgstr ", "
+#: library/helpers/tag_helper.php:43
+#: library/helpers/tag_helper.php:79
+msgid "and"
+msgstr " と "
+#: library/helpers/tag_helper.php:81
+msgid "or"
+msgstr " または "
+#: library/helpers/tag_helper.php:121
+#: tags.php:22
+msgid "Tags"
+msgstr "Tag"
+#: library/helpers/template_helper.php:55
+#, php-format
+msgid "Search results for %s"
+msgstr "「%s」での検索結果"
+#: library/helpers/template_helper.php:164
+msgid "Header image"
+msgstr "ヘッダ画像"
+#: library/helpers/template_helper.php:174
+#: library/helpers/template_helper.php:202
+msgid "Return to main page"
+msgstr "メインページに戻る"
+#: library/helpers/template_helper.php:400
+msgid "Site Admin"
+msgstr "サイト管理"
+#: library/helpers/widgets.php:114
+msgid "View this post"
+msgstr "この投稿を表示"
+#: library/helpers/widgets.php:118
+msgid " in "
+msgstr " in "
+#: loop.php:7
+#: loop.php:31
+msgid "Read the rest of this entry &raquo;"
+msgstr "つづきを読む &raquo;"
+#: loop.php:22
+msgid "Permanent link to "
+msgstr "パーマリンク : "
+#: search.php:11
+msgid "Search Results"
+msgstr "検索結果"
+#: search.php:14
+#, php-format
+msgid "Your search for %s returned the following results."
+msgstr "「%s」キーワードでの検索結果は以下のとおりです。"
+#: search.php:26
+msgid "No results"
+msgstr "結果なし"
+#: search.php:29
+#, php-format
+msgid "Your search for %1$s returned no results. Try returning to the %2$s."
+msgstr "「%1$s」キーワードでの検索の結果、何も見つかりませんでした。「%2$s」に戻ってください。"
+#: searchform.php:3
+msgid "Search this site"
+msgstr "このブログを検索"
+#: searchform.php:5
+msgid "Search"
+msgstr "検索"
+#, fuzzy
+#~ msgid ""
+#~ "This is the default Tarski blurb: you can edit or remove it on the Tarski "
+#~ "Options page."
+#~ msgstr ""
+#~ "これは Tarskiテーマの初期設定です。Tarski設定ページで編集削除できます。"
+#, fuzzy
+#~ msgid "Privacy notice: "
+#~ msgstr "プライバシーに関するお知らせ:"
+#, fuzzy
+#~ msgid ""
+#~ "The update notifier does not transmit any information about you or your "
+#~ "website."
+#~ msgstr ""
+#~ "更新通知を有効にしても、あなた自身やあなたのブログについての情報が送信され"
+#~ "ることは一切ありません。"
+#, fuzzy
+#~ msgid "Footer Options"
+#~ msgstr "フッタの設定"
+#, fuzzy
+#~ msgid ""
+#~ "Write something about yourself here, and it will appear in the footer. "
+#~ "Deleting the content disables it."
+#~ msgstr ""
+#~ "あなた自身について書いてください。この文章はフッターに表示されます。削除す"
+#~ "れば、表示しない設定になります。"
+#, fuzzy
+#~ msgid "Show recent articles in the footer"
+#~ msgstr "最新の記事をフッターに表示する。 "
+#, fuzzy
+#~ msgid "Pick a Sidebar&hellip;"
+#~ msgstr "サイドバーを選んで &hellip;"
+#, fuzzy
+#~ msgid ""
+#~ "Choose either Tarski&#8217;s built-in sidebar options, those afforded by "
+#~ "WordPress Widgets, or write your own sidebar code."
+#~ msgstr ""
+#~ "Tarskiのサイドバーオプション, WordPressのウィジェット, またはあなた独自の"
+#~ "サイドバーの中からいずれかを選んでください。"
+#, fuzzy
+#~ msgid "Tarski sidebar options"
+#~ msgstr "Tarskiサイドバーの設定"
+#, fuzzy
+#~ msgid "WordPress Widgets"
+#~ msgstr "WordPressのウィジェット"
+#, fuzzy
+#~ msgid "Alternate sidebar file"
+#~ msgstr "独自のサイドバー用ファイル"
+#, fuzzy
+#~ msgid "widgets"
+#~ msgstr "ウィジェット"
+#, fuzzy
+#~ msgid "Different widgets"
+#~ msgstr "別のウィジェット"
+#, fuzzy
+#~ msgid "Don&#8217;t display a sidebar on individual posts and pages"
+#~ msgstr "個々の記事やページを表示するときは、サイドバーを表示しない"
+#, fuzzy
+#~ msgid "&hellip;and configure it."
+#~ msgstr "&hellip;続けて設定してください"
+#, fuzzy
+#~ msgid "Pages list"
+#~ msgstr "ページ一覧"
+#, fuzzy
+#~ msgid "Links list"
+#~ msgstr "リンク一覧"
+#, fuzzy
+#~ msgid ""
+#~ "Anything you put into this custom content area, like text, images etc. "
+#~ "will show up in the sidebar below the options above. Leaving the field "
+#~ "blank disables it."
+#~ msgstr ""
+#~ "ここには、テキストや画像など、自由に書き込みができ、その内容は下の設定のと"
+#~ "おりサイドバーに表示されます。空白のままにすると表示しない設定になります。"
+#, fuzzy
+#~ msgid ""
+#~ "To configure your Sidebar Widgets, go to the %s page and select the "
+#~ "widgets you&#8217;d like to use."
+#~ msgstr ""
+#~ "サイドバー・ウィジェットを設定するには、「%s」ページで使いたいウィジェット"
+#~ "を選択してください。"
+#, fuzzy
+#~ msgid "Widgets configuration"
+#~ msgstr "ウィジェット設定"
+#, fuzzy
+#~ msgid ""
+#~ "To use your own custom sidebar code, upload a file named %s to your "
+#~ "Tarski directory."
+#~ msgstr ""
+#~ "ご自分で用意したその他のサイドバーをつかうには、コードのファイル名を「%s」"
+#~ "として、Tarski ディレクトリーにアップロードしてください。"
+#, fuzzy
+#~ msgid ""
+#~ "You may wish to use one of these stock headers, or upload your own via "
+#~ "the %s tab."
+#~ msgstr ""
+#~ "以下の画像から選択することも、%sタブで自分で用意したものをつかうこともでき"
+#~ "ます。"
+#, fuzzy
+#~ msgid "Custom Image Header"
+#~ msgstr "カスタム画像ヘッダ"
+#, fuzzy
+#~ msgid ""
+#~ "You are currently using a custom header uploaded via WordPress. To use a "
+#~ "stock icon instead, go to the %s tab and click &#8216;Restore Original "
+#~ "Header&#8217;."
+#~ msgstr ""
+#~ "現在、WordPress をつうじてアップロードしたオリジナル画像をつかっています。"
+#~ "標準で用意されたものをつかうには、%sタブで「元画像に戻す」をクリックしてく"
+#~ "ださい。"
+#, fuzzy
+#~ msgid "Blogroll"
+#~ msgstr "ブログロール"
+#, fuzzy
+#~ msgid "Tarski can be set to link to either %s or Atom feeds."
+#~ msgstr "Tarskiでは %s または Atom でのフィードへのリンクを表示できます"
+#, fuzzy
+#~ msgid "Really Simple Syndication"
+#~ msgstr "Really Simple Syndication"
+#, fuzzy
+#~ msgid "Atom"
+#~ msgstr "Atom"
+#, fuzzy
+#~ msgid ""
+#~ "Fed up with your Tarski Options? Want to reset to the defaults? Hit this "
+#~ "button!"
+#~ msgstr ""
+#~ "Tarskiの設定にうんざりしましたか? 初期設定にもどしたい場合は、このボタンを"
+#~ "押してください!"
+#, fuzzy
+#~ msgid "Delete Tarski Options &raquo;"
+#~ msgstr "Tarski設定を消去 &raquo;"
+#, fuzzy
+#~ msgid "The %1$s is full of useful stuff &middot; %2$s"
+#~ msgstr "%1$s には便利な情報がいっぱい &middot; %2$s"
+#, fuzzy
+#~ msgid "Tarski Updates"
+#~ msgstr "Tarskiのアップデート"
+#, fuzzy
+#~ msgid ""
+#~ "A new version of the Tarski theme, version %1$s, %2$s. Your installed "
+#~ "version is %3$s."
+#~ msgstr ""
+#~ "Tarskiテーマの新バージョンは、%1$s,%2$sです。現在インストールされている"
+#~ "バージョンは%3$sです。"
+#, fuzzy
+#~ msgid "Pages"
+#~ msgstr "ページ"
+#, fuzzy
+#~ msgid "Error"
+#~ msgstr "エラー"
+#, fuzzy
+#~ msgid "%s not found."
+#~ msgstr "%s は見つかりません"
+#, fuzzy
+#~ msgid ""
+#~ "Either upload a %1$s to your Tarski directory, or select another sidebar "
+#~ "type from the %2$s."
+#~ msgstr ""
+#~ "%1$s を Tarski ディレクトリーにアップロードするか、%2$sから別のタイプのサ"
+#~ "イドバーを選択してください。"
+#, fuzzy
+#~ msgid "custom sidebar file"
+#~ msgstr "自分で用意したサイドバーのファイル"
+#, fuzzy
+#~ msgid "Tarski Options page"
+#~ msgstr "Tarski設定ページ"
+#, fuzzy
+#~ msgid ""
+#~ "Normal users will see the default Tarski sidebar until this is resolved."
+#~ msgstr ""
+#~ "この問題が解決するまで一般のサイト訪問者むけには標準の Tarski サイドバーが"
+#~ "表示されます。"
+#, fuzzy
+#~ msgid "Search results"
+#~ msgstr "検索結果"
+<!-- Page not cached by WP Super Cache. No closing HTML tag. Check your theme. -->

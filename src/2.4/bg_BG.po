@@ -1,0 +1,750 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tarski\n"
+"Report-Msgid-Bugs-To: Benedict Eastaugh <bugs@tarskitheme.com>\n"
+"POT-Creation-Date: 2008-05-20 14:15+0100\n"
+"PO-Revision-Date: 2009-01-02 23:47+0200\n"
+"Language-Team: Benedict Eastaugh <bugs@tarskitheme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Vesselin Petkov <mail@vpetkov.com>\n"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr "Грешка 404"
+
+#: archive.php:17
+#, php-format
+msgid "You are currently browsing the archive for the %s category."
+msgstr "В момента разглеждате архива за категория %s."
+
+#: archive.php:27
+#, php-format
+msgid "You are currently browsing articles tagged %s."
+msgstr "В момента разглеждате публикации с етикет %s."
+
+#: archive.php:33
+#, php-format
+msgid "Articles by %s"
+msgstr "Публикации на %s"
+
+#: archive.php:39
+#, php-format
+msgid "You are currently browsing %s&#8217;s articles."
+msgstr "В момента разглеждате публикациите на %s."
+
+#: archive.php:49
+#, php-format
+msgid "You are currently browsing the daily archive for %s."
+msgstr "В момента разглеждате архив по дни за %s."
+
+#: archive.php:58
+#, php-format
+msgid "You are currently browsing the monthly archive for %s."
+msgstr "В момента разглеждате архив по месеци за %s."
+
+#: archive.php:67
+#, php-format
+msgid "You are currently browsing the yearly archive for %s."
+msgstr "В момента разглеждате архив по години за %s."
+
+#: archives.php:14
+#: index.php:23
+#: links.php:15
+#: tags.php:15
+msgid "edit page"
+msgstr "редактиране на страницата"
+
+#: archives.php:25
+msgid "Monthly Archives"
+msgstr "Архив по месеци"
+
+#: archives.php:36
+msgid "Category Archives"
+msgstr "Архив по категории"
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Тази публикация е защитена с парола. Трябва да въведете паролата за да видите коментарите."
+
+#: comments.php:18
+msgid "No comments"
+msgstr "Няма коментари"
+
+#: comments.php:18
+msgid "1 comment"
+msgstr "Един коментар"
+
+#: comments.php:18
+msgid " comments"
+msgstr " коментара"
+
+#: comments.php:20
+msgid "Comments feed for this article"
+msgstr "Хранилка с коментарите по тази статия"
+
+#: comments.php:24
+msgid "Trackback link"
+msgstr "Trackback"
+
+#: comments.php:38
+#: comments.php:64
+msgid "Permalink to this comment"
+msgstr "Постоянна връзка"
+
+#: comments.php:38
+msgid " at "
+msgstr " в "
+
+#: comments.php:43
+#: comments.php:45
+msgid "Comment"
+msgstr "Коментара"
+
+#: comments.php:43
+#: comments.php:45
+msgid "Trackback"
+msgstr "Trackback"
+
+#: comments.php:43
+#: comments.php:45
+msgid "Pingback"
+msgstr "Pingback"
+
+#: comments.php:43
+#: comments.php:45
+msgid " from"
+msgstr " от"
+
+#: comments.php:47
+#: comments.php:67
+#: index.php:21
+#: loop.php:11
+#: loop.php:29
+msgid "edit"
+msgstr "редактиране"
+
+#: comments.php:61
+msgid "Your comment is awaiting moderation."
+msgstr "Вашият коментар е оставен за модерация."
+
+#: comments.php:88
+msgid "You must be "
+msgstr "Вие трябва да сте "
+
+#: comments.php:88
+msgid "logged in"
+msgstr "влезли"
+
+#: comments.php:88
+msgid " to post a comment."
+msgstr " за да публикувате коментар."
+
+#: comments.php:99
+msgid "You are logged in as "
+msgstr "Вие сте влезли, като "
+
+#: comments.php:100
+msgid "Log out of this account"
+msgstr "Изход"
+
+#: comments.php:100
+msgid "Logout &raquo;"
+msgstr "Изход &raquo;"
+
+#: comments.php:106
+msgid "Name"
+msgstr "Име"
+
+#: comments.php:106
+msgid "(required)"
+msgstr "(задължително)"
+
+#: comments.php:107
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:107
+msgid "(required, not displayed)"
+msgstr "(задължително)"
+
+#: comments.php:108
+msgid "Website"
+msgstr "Лична страница"
+
+#: comments.php:114
+msgid "Your comment"
+msgstr "Вашият коментар"
+
+#: comments.php:116
+msgid "Submit Comment"
+msgstr "Публикуване"
+
+#: loop.php:9
+#: loop.php:33
+msgid "Read the rest of this entry &raquo;"
+msgstr "Още &raquo;"
+
+#: loop.php:24
+msgid "Permanent link to "
+msgstr "Постоянна връзка към "
+
+#: search.php:11
+msgid "Search Results"
+msgstr "Резултати от търсенето"
+
+#: search.php:14
+#, php-format
+msgid "Your search for %s returned the following results."
+msgstr "Вашето търсене за %s върна следните резултати."
+
+#: search.php:26
+msgid "No results"
+msgstr "Няма резултати"
+
+#: search.php:29
+#, php-format
+msgid "Your search for %1$s returned no results. Try returning to the %2$s."
+msgstr "Вашето търсене за %1$s не върна резултат. Опитайте да се върнете на %2$s."
+
+#: search.php:29
+msgid "front page"
+msgstr "началната страница"
+
+#: searchform.php:3
+msgid "Search this site"
+msgstr "Търсене"
+
+#: searchform.php:5
+#: library/launcher.php:59
+msgid "Search"
+msgstr "Търсене"
+
+#: tags.php:22
+msgid "Tags"
+msgstr "Етикети"
+
+#: library/launcher.php:18
+msgid "Main sidebar"
+msgstr "Главна странична лента"
+
+#: library/launcher.php:28
+msgid "Post and page sidebar"
+msgstr "Странична лента с публикации и страници"
+
+#: library/launcher.php:38
+msgid "Footer main widgets"
+msgstr "Джаджи за дъното на страницата"
+
+#: library/launcher.php:48
+msgid "Footer sidebar widgets"
+msgstr "Джаджи за страничната лента на дъното на страницата"
+
+#: library/launcher.php:57
+msgid "Recent Articles"
+msgstr "Скорошни публикации"
+
+#: library/launcher.php:58
+msgid "Links"
+msgstr "Връзки"
+
+#: library/classes/asset.php:107
+#, php-format
+msgid "Commments feed for %s"
+msgstr "Хранилка с коментарите на %s"
+
+#: library/classes/asset.php:112
+#, php-format
+msgid "Category feed for %s"
+msgstr "Хранилка с категориите на %s"
+
+#: library/classes/asset.php:116
+#, php-format
+msgid "Tag feed for %s"
+msgstr "Хранилка с етикетите на %s"
+
+#: library/classes/asset.php:120
+#, php-format
+msgid "Articles feed for %s"
+msgstr "Хранилка с публикациите на %s"
+
+#: library/classes/asset.php:125
+#, php-format
+msgid "Daily archive feed for %s"
+msgstr "Хранилка с архива по дни на %s"
+
+#: library/classes/asset.php:129
+#, php-format
+msgid "Monthly archive feed for %s"
+msgstr "Хранилка с архива по месеци на %s"
+
+#: library/classes/asset.php:133
+#, php-format
+msgid "Yearly archive feed for %s"
+msgstr "Хранилка с архива по години на %s"
+
+#: library/classes/asset.php:145
+#, php-format
+msgid "Search feed for %s"
+msgstr "Търсене за хранилка с %s"
+
+#: library/classes/asset.php:146
+#, php-format
+msgid "Search comments feed for %s"
+msgstr "Търсене за хранилка с коментарите на %s"
+
+#: library/classes/asset.php:156
+#, php-format
+msgid "%s feed"
+msgstr "%s хранилка"
+
+#: library/classes/options.php:49
+#: library/display/options_page.php:114
+#: library/helpers/template_helper.php:255
+msgid "Home"
+msgstr "Начало"
+
+#: library/classes/version.php:215
+#, php-format
+msgid "A new version of the Tarski theme, version %1$s %2$s. Your installed version is %3$s."
+msgstr "%2$s нова версия на Tarski (%1$s). Вашата инсталирана версия е %3$s."
+
+#: library/classes/version.php:217
+msgid "is now available"
+msgstr "Излезе"
+
+#: library/classes/version.php:224
+#, php-format
+msgid "Your version of Tarski (%s) is up to date."
+msgstr "Вашата версия на Tarski (%s) е обновена."
+
+#: library/classes/version.php:230
+#, php-format
+msgid "You appear to be running a development version of Tarski (%1$s). Please ensure you %2$s."
+msgstr "Вие използвате версия на Tarski (%1$s), която все още се разработва. Моля уверете се, че е %2$s."
+
+#: library/classes/version.php:232
+msgid "stay updated"
+msgstr "обновена"
+
+#: library/classes/version.php:237
+#, php-format
+msgid "No connection to update server. Your installed version is %s."
+msgstr "Няма връзка със сървъра за обновяване. Вашата инсталирана версия е %s."
+
+#: library/classes/version.php:245
+#, php-format
+msgid "Update notification for Tarski is disabled. Your installed version is %s."
+msgstr "Известяването за нови версии на Tarski е изключено. Вашата инсталирана версия е %s."
+
+#: library/display/credits.php:2
+msgid "Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href=\"http://tarskitheme.com/\">Tarski</a>"
+msgstr "Задвижва се от <a href=\"http://bg.wordpress.org/\">WordPress</a> и <a href=\"http://tarskitheme.com/\">Tarski</a> на български"
+
+#: library/display/credits.php:4
+#, php-format
+msgid "Hosted by %s"
+msgstr "Хостван от %s"
+
+#: library/display/feed_link.php:2
+msgid "Subscribe to feed"
+msgstr "Абонамент"
+
+#: library/display/no_posts.php:4
+msgid "Sorry"
+msgstr "Извинете"
+
+#: library/display/no_posts.php:8
+msgid "Looks like there&#8127;s nothing here, sorry. You might want to try the search function. Alternatively, return to the "
+msgstr "Изглежда тук няма нищо. Може да използвате формата за търсене или да се върнете на "
+
+#: library/display/no_posts.php:8
+msgid "."
+msgstr "."
+
+#: library/display/options_page.php:6
+msgid "Tarski options have been restored."
+msgstr "Настройките на Tarski бяха възстановени."
+
+#: library/display/options_page.php:6
+#: library/display/options_page.php:8
+msgid "View site &raquo;"
+msgstr "Преглед на сайта &raquo;"
+
+#: library/display/options_page.php:8
+msgid "Tarski options have been updated."
+msgstr "Настройките на Tarski бяха обновени."
+
+#: library/display/options_page.php:18
+msgid "You have deleted your Tarski options."
+msgstr "Вие изтрихте вашите настройките на Tarski."
+
+#: library/display/options_page.php:18
+msgid "Restore Tarski Options &raquo;"
+msgstr "Възстановяване на настройките на Tarski &raquo;"
+
+#: library/display/options_page.php:26
+#: library/helpers/admin_helper.php:329
+msgid "Tarski Options"
+msgstr "Настройки на Tarski"
+
+#: library/display/options_page.php:28
+msgid "Save Options"
+msgstr "Запазване на настройките"
+
+#: library/display/options_page.php:33
+msgid "Tarski documentation"
+msgstr "Документация на Tarski"
+
+#: library/display/options_page.php:34
+msgid "Credits &amp; Thanks"
+msgstr "Кредити &amp; Благодарности"
+
+#: library/display/options_page.php:35
+msgid "Forum"
+msgstr "Форум"
+
+#: library/display/options_page.php:42
+#: library/display/options_page.php:54
+msgid "Update Notification"
+msgstr "Известяване при нови версии"
+
+#: library/display/options_page.php:44
+msgid "Tarski is set to notify you when an update is available."
+msgstr "Tarski е настроена да Ви известява, когато има нови версии."
+
+#: library/display/options_page.php:46
+msgid "Tarski can be set to notify you when updates are available."
+msgstr "Tarski може да бъде настроена да Ви известява, когато има нови версии."
+
+#: library/display/options_page.php:48
+msgid "Update notification on (recommended)"
+msgstr "Включване на известяването (препоръчително)"
+
+#: library/display/options_page.php:49
+msgid "Update notification off"
+msgstr "Изключване на известяването"
+
+#: library/display/options_page.php:51
+#, php-format
+msgid "The version check could not be cached. To enable caching, follow the tutorial on the %s page."
+msgstr "Проверката на версията не може да бъде кеширана. За да разрешите кеширането, можете да следвате обясненията на страницата за %s."
+
+#: library/display/options_page.php:51
+msgid "update notifier"
+msgstr "известяване при нови версии"
+
+#: library/display/options_page.php:56
+#, php-format
+msgid "Your server appears to have %1$s disabled and %2$s not installed. This means that the update notifier will not work."
+msgstr "Вашият сървър няма разрешен %1$s и %2$s не е инсталиран. Това означава, че известяването при нови версии няма да работи."
+
+#: library/display/options_page.php:61
+#, php-format
+msgid "You can read our %1$s on how to fix your server setup, but if you are unable to change it we recommend subscribing to either the %2$s or the %3$s in your feed reader, so that you can be alerted when new Tarski versions become available."
+msgstr "Можете да прочетете нашата %1$s по въпроса, как да оправите настройките на сървъра, но ако не можете да правите промени, препоръчваме ви да се абонирате за %2$s или %3$s във вашият четец на хранилки, за да знаете, кога има нови версии на Tarski."
+
+#: library/display/options_page.php:62
+msgid "documentation"
+msgstr "документация"
+
+#: library/display/options_page.php:63
+msgid "Tarski version feed"
+msgstr "хранилка с версиите на Tarski"
+
+#: library/display/options_page.php:64
+msgid "Tarski website feed"
+msgstr "Сайта на Tarski"
+
+#: library/display/options_page.php:70
+msgid "Navigation Display"
+msgstr "Навигационно поле"
+
+#: library/display/options_page.php:76
+msgid "Pages selected here will display in your navbar."
+msgstr "Страниците, избрани тук, ще се появят на вашата навигационна лента."
+
+#: library/display/options_page.php:83
+msgid "View this page"
+msgstr "Избиране на страницата"
+
+#: library/display/options_page.php:85
+msgid "To change the order in which they appear, edit the &#8216;Page Order&#8217; value on each page."
+msgstr "За да промените редът по който те ще се виждат, променете стойността &#8216;Ред на страницата&#8217; за всяка страница."
+
+#: library/display/options_page.php:87
+msgid "There are no pages to select navbar items from."
+msgstr "Няма страници, от които да изберете."
+
+#: library/display/options_page.php:90
+msgid "Navigation Options"
+msgstr "Навигационни настройки"
+
+#: library/display/options_page.php:93
+msgid "Add external links to the navbar."
+msgstr "Добавяне на външни препратки към навигационната лента."
+
+#: library/display/options_page.php:95
+msgid "No external links"
+msgstr "Няма външни препратки"
+
+#: library/display/options_page.php:110
+#, php-format
+msgid "You can add or edit links on the %s page. We recommend creating a link category specifically for the links you want displayed in your navbar, but you can use any category."
+msgstr "Можете да добавяте или променяте връзки от страницата %s. Препоръчваме създаването на категория връзки специално за показване във навигационната лента, но може да се използва всяка друга категория."
+
+#: library/display/options_page.php:110
+msgid "Manage Links"
+msgstr "Управление на връзки"
+
+#: library/display/options_page.php:112
+msgid "Rename your &#8216;Home&#8217; link."
+msgstr "Преименуване на връзката &#8216;Начало&#8217;"
+
+#: library/display/options_page.php:115
+msgid "This link is not displayed when you have a static front page."
+msgstr "Тази връзка не се показва, когато имате статична начална страница."
+
+#: library/display/options_page.php:120
+msgid "Alternate Style"
+msgstr "Стилове"
+
+#: library/display/options_page.php:132
+msgid "Default style"
+msgstr "Стил по подразбиране"
+
+#: library/display/options_page.php:150
+msgid "Tarski allows you to select an alternate style that modifies the default one. Choose from the list above."
+msgstr "Tarski позволява да се избират алтернативни стилове. Можете да изберете от списъка."
+
+#: library/display/options_page.php:152
+#, php-format
+msgid "Tarski allows you to select an %1$s that modifies the default one. Choose from the list above, or upload your own to %2$s."
+msgstr "Tarski позволява да се избират %1$s. Можете да изберете от списъка или да качите собствен на %2$s."
+
+#: library/display/options_page.php:152
+msgid "alternate style"
+msgstr "алтернативни стилове"
+
+#: library/display/options_page.php:157
+msgid "Asides Category"
+msgstr "Категория Asides"
+
+#: library/display/options_page.php:159
+msgid "Disable asides"
+msgstr "Изключване на Asides"
+
+#: library/display/options_page.php:172
+msgid "This option will make Tarski display posts from the selected category in the "
+msgstr "Тази настройка ще накара Tarski да показва публикации от избраната категория във формат "
+
+#: library/display/options_page.php:172
+msgid "Asides"
+msgstr "Asides"
+
+#: library/display/options_page.php:172
+msgid " format. Asides are short posts, usually only a single paragraph, and Tarski displays them in a condensed format without titles."
+msgstr ". Asides са кратки публикации, обикновено само от един параграф и Tarski ги показва в сбит формат, без заглавия."
+
+#: library/display/options_page.php:176
+msgid "Sidebar"
+msgstr "Странична лента"
+
+#: library/display/options_page.php:178
+msgid "The sidebar for posts and pages can be the same as that for index pages, or use its own set of widgets."
+msgstr "Страничната лента за публикациите и страниците може да има същото съдържание, като тази за началната страница или да има различни джаджи."
+
+#: library/display/options_page.php:183
+msgid "Same content as main sidebar?"
+msgstr "Същото съдържание, като главната странична лента?"
+
+#: library/display/options_page.php:189
+msgid "Header Images"
+msgstr "Заглавни картинки"
+
+#: library/display/options_page.php:212
+#, php-format
+msgid "Choose a header image by clicking on it. The current image is the %s one."
+msgstr "За да изберете заглавна картинка, цъкнете върху нея. Текущата картинка е %s."
+
+#: library/display/options_page.php:212
+msgid "highlighted"
+msgstr "селектираната"
+
+#: library/display/options_page.php:215
+#, php-format
+msgid "You can upload your own header images (.gif, .jpg or .png) to %s."
+msgstr "Можете да качвате собствени заглавни картинки (.gif, .jpg or .png) на %s."
+
+#: library/display/options_page.php:216
+#, php-format
+msgid "Make sure that you upload a thumbnail file as well. If your image is named %1$s, the corresponding thumbnail file should be named %2$s."
+msgstr "Не забравяйте да качите thumbnail. Ако картинката ви се казва %1$s, то нейният thumbnail трябва да се казва %2$s."
+
+#: library/display/options_page.php:216
+msgid "example"
+msgstr "example"
+
+#: library/display/options_page.php:222
+msgid "Miscellaneous Options"
+msgstr "Общи настройки"
+
+#: library/display/options_page.php:227
+msgid "Display site title"
+msgstr "Показване на заглавието на сайта"
+
+#: library/display/options_page.php:233
+msgid "Display site tagline"
+msgstr "Показване на описанието на сайта"
+
+#: library/display/options_page.php:237
+msgid "Your tagline is currently "
+msgstr "Текущото описание е "
+
+#: library/display/options_page.php:237
+msgid "blank"
+msgstr "никакво"
+
+#: library/display/options_page.php:237
+msgid " and won&#8217;t be displayed."
+msgstr " и няма да бъде показано."
+
+#: library/display/options_page.php:243
+msgid "Show post categories"
+msgstr "Показване на категориите публикации"
+
+#: library/display/options_page.php:249
+msgid "Show tags everywhere"
+msgstr "Показване на етикети навсякъде"
+
+#: library/display/options_page.php:255
+msgid "Paginate index pages (such as the front page or monthly archives)"
+msgstr "Номериране на страниците"
+
+#: library/display/options_page.php:261
+msgid "Centre the theme"
+msgstr "Центриране на сайта"
+
+#: library/display/options_page.php:267
+msgid "Switch the column positions (left becomes right, and vice versa)"
+msgstr "Смяна на позицията на страничната лента и главното тяло на страницата"
+
+#: library/display/options_page.php:273
+msgid "Reverse document title order (show site name last)"
+msgstr "Показване на залгавието на сайта последно"
+
+#: library/display/options_page.php:282
+msgid "Reset Options"
+msgstr "Възстановяване на настройките"
+
+#: library/display/options_page.php:284
+msgid "Reset Tarski&#8217;s options to their default values"
+msgstr "Възстановяване на настройките на Tarski в техният първоначален вид"
+
+#: library/display/options_page.php:288
+msgid "If you change your mind, you&#8217;ll have three hours to restore your options before they&#8217;re removed for good."
+msgstr "Ако размислите, ще имате три часа да възстановите вашите настройки, преди те да бъдат премахнати завинаги."
+
+#: library/helpers/author_helper.php:13
+msgid " by "
+msgstr " от "
+
+#: library/helpers/content_helper.php:47
+msgid "Pages:"
+msgstr "Страници:"
+
+#: library/helpers/content_helper.php:50
+msgid "Next page"
+msgstr "Следваща страница"
+
+#: library/helpers/content_helper.php:51
+msgid "Previous page"
+msgstr "Предишна страница"
+
+#: library/helpers/content_helper.php:86
+msgid "Previous results"
+msgstr "Предишни резултати"
+
+#: library/helpers/content_helper.php:88
+msgid "More results"
+msgstr "Още резултати"
+
+#: library/helpers/content_helper.php:90
+msgid "Older entries"
+msgstr "По-стари публикации"
+
+#: library/helpers/content_helper.php:92
+msgid "Newer entries"
+msgstr "По-нови публикации"
+
+#: library/helpers/content_helper.php:127
+#, php-format
+msgid " in %s"
+msgstr " в %s"
+
+#: library/helpers/content_helper.php:147
+msgid "Comments closed"
+msgstr "Без коментари"
+
+#: library/helpers/content_helper.php:162
+msgid "% comments"
+msgstr "% коментара"
+
+#: library/helpers/content_helper.php:164
+msgid "Permalink"
+msgstr "Постоянна връзка"
+
+#: library/helpers/content_helper.php:177
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: library/helpers/content_helper.php:216
+#, php-format
+msgid "%s&#8217;s avatar"
+msgstr "аватара на %s"
+
+#: library/helpers/content_helper.php:339
+#, php-format
+msgid "The page you are looking for does not exist; it may have been moved, or removed altogether. You might want to try the search function or return to the %s."
+msgstr "Страницата, която търсите не съществува. Може да е преместена или премахната. Можете да опитате формата за търсене или да се върнете на %s."
+
+#: library/helpers/deprecated.php:486
+msgid "Edit the footer content area"
+msgstr "Редактиране на подписа"
+
+#: library/helpers/tag_helper.php:70
+msgid "and"
+msgstr "и"
+
+#: library/helpers/tag_helper.php:72
+msgid "or"
+msgstr "или"
+
+#: library/helpers/template_helper.php:39
+#, php-format
+msgid "Search results for %s"
+msgstr "Резултати от търсенето за %s"
+
+#: library/helpers/template_helper.php:148
+msgid "Header image"
+msgstr "Заглавна картинка"
+
+#: library/helpers/template_helper.php:158
+#: library/helpers/template_helper.php:184
+msgid "Return to main page"
+msgstr "Връщане на началната страница."
+
+#: library/helpers/template_helper.php:378
+msgid "Site Admin"
+msgstr "Site Admin"
+
+#: library/helpers/widgets.php:177
+msgid "View this post"
+msgstr "Преглед на публикацията"
+
+#: library/helpers/widgets.php:181
+msgid " in "
+msgstr " в "
+

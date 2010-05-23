@@ -1,0 +1,756 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tarski 2.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-08 16:00+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Telmina\n"
+"Language-Team: Tarski-jp Project\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr "＊いしのなかにいる＊"
+
+#: archive.php:17
+#, php-format
+msgid "You are currently browsing the archive for the %s category."
+msgstr "現在、カテゴリ「%s」の投稿記事を表示中です。"
+
+#: archive.php:27
+#, php-format
+msgid "You are currently browsing articles tagged %s."
+msgstr "現在、タグ「%s」の投稿記事を表示中です。"
+
+#: archive.php:33
+#, php-format
+msgid "Articles by %s"
+msgstr "%s さんの投稿記事"
+
+#: archive.php:39
+#, php-format
+msgid "You are currently browsing %s&#8217;s articles."
+msgstr "現在、%s さんの投稿記事を表示中です。"
+
+#: archive.php:49
+#, php-format
+msgid "You are currently browsing the daily archive for %s."
+msgstr "現在、%s に投稿された記事の日別アーカイブを表示中です。"
+
+#: archive.php:58
+#, php-format
+msgid "You are currently browsing the monthly archive for %s."
+msgstr "現在、%s に投稿された記事の月間アーカイブを表示中です。"
+
+#: archive.php:67
+#, php-format
+msgid "You are currently browsing the yearly archive for %s."
+msgstr "現在、%s に投稿された記事の年間アーカイブを表示中です。"
+
+#: archives.php:14
+#: index.php:29
+#: links.php:15
+#: tags.php:15
+msgid "edit page"
+msgstr "ページ編集"
+
+#: archives.php:25
+msgid "Monthly Archives"
+msgstr "月間アーカイブ"
+
+#: archives.php:36
+msgid "Category Archives"
+msgstr "カテゴリーのアーカイブ"
+
+#: comments.php:15
+msgid "No comments"
+msgstr "コメントなし"
+
+#: comments.php:15
+msgid "1 comment"
+msgstr "1個のコメント"
+
+#: comments.php:15
+#, php-format
+msgid "% comments"
+msgstr "%個のコメント"
+
+#: comments.php:17
+msgid "Comments feed for this article"
+msgstr "この投稿記事に対するコメントのフィード"
+
+#: comments.php:21
+#, php-format
+msgid "Trackback link: %s"
+msgstr "トラック・バックのリンク: %s"
+
+#: comments.php:33
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; 前へ"
+
+#: comments.php:34
+msgid "Next &rsaquo;"
+msgstr "次へ &rsaquo;"
+
+#: comments.php:42
+msgid "Comments are now closed."
+msgstr "コメントは受け付けておりません。"
+
+#: index.php:18
+#: index.php:26
+#: loop.php:9
+#: loop.php:27
+msgid "edit"
+msgstr "編集"
+
+#: loop.php:7
+#: loop.php:31
+msgid "Read the rest of this entry &raquo;"
+msgstr "続きを読む &raquo;"
+
+#: loop.php:22
+msgid "Permanent link to "
+msgstr "パーマリンク: "
+
+#: search.php:11
+msgid "Search Results"
+msgstr "検索結果"
+
+#: search.php:14
+#, php-format
+msgid "Your search for %s returned the following results."
+msgstr "「%s」の検索結果は次のとおりです。"
+
+#: search.php:26
+msgid "No results"
+msgstr "見つかりません。"
+
+#: search.php:29
+#, php-format
+msgid "Your search for %1$s returned no results. Try returning to the %2$s."
+msgstr "「%1$s」に合致する投稿記事は見つかりませんでした。%2$sにお戻り下さい。"
+
+#: search.php:29
+msgid "front page"
+msgstr "トップページ"
+
+#: searchform.php:3
+msgid "Search this site"
+msgstr "サイト内を検索"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "検索"
+
+#: tags.php:22
+msgid "Tags"
+msgstr "タグ"
+
+#: app/launcher.php:23
+msgid "Main sidebar"
+msgstr "主サイドバー"
+
+#: app/launcher.php:33
+msgid "Post and page sidebar"
+msgstr "投稿・ページ用サイドバー"
+
+#: app/launcher.php:43
+msgid "Footer main widgets"
+msgstr "フッター部のメイン・ウィジェット"
+
+#: app/launcher.php:53
+msgid "Footer sidebar widgets"
+msgstr "フッター部のサイドバー・ウィジェット"
+
+#: app/api/deprecated.php:73
+msgid "Recent Articles"
+msgstr "最近の投稿記事"
+
+#: app/api/deprecated.php:95
+msgid "View this post"
+msgstr "この投稿を読む"
+
+#: app/api/deprecated.php:96
+#, fuzzy, php-format
+msgid "%1$s in %2$s"
+msgstr "%1$s - %2$s"
+
+#: app/templates/credits.php:2
+msgid "Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href=\"http://tarskitheme.com/\">Tarski</a>"
+msgstr "Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href=\"http://tarskitheme.com/\">Tarski</a>"
+
+#: app/templates/credits.php:4
+#, php-format
+msgid "Hosted by %s"
+msgstr "Hosted by %s"
+
+#: app/templates/feed_link.php:2
+msgid "Subscribe to feed"
+msgstr "フィードの購読"
+
+#: app/templates/no_posts.php:4
+msgid "No posts found"
+msgstr "投稿記事はありません。"
+
+#: app/templates/no_posts.php:9
+#, php-format
+msgid "Looks like there&#8127;s nothing here, sorry. You might want to try the search function. Alternatively, return to the %s."
+msgstr "申し訳ありませんが、現在ここには何もありません。恐れ入りますが、検索をお試しいただくか、あるいは%sにお戻り下さい。"
+
+#: app/templates/options_page.php:10
+msgid "Tarski Options"
+msgstr "Tarski の設定"
+
+#: app/templates/options_page.php:13
+#: app/templates/options_page.php:48
+msgid "Save Options"
+msgstr "変更を保存"
+
+#: app/templates/options_page.php:17
+msgid "Tarski documentation"
+msgstr "Tarski のドキュメント（英語）"
+
+#: app/templates/options_page.php:18
+msgid "Credits &amp; Thanks"
+msgstr "クレジットと謝辞（英語）"
+
+#: app/templates/options_page.php:19
+msgid "Forum"
+msgstr "フォーラム（英語）"
+
+#: app/templates/options_page.php:32
+msgid "Navigation Display"
+msgstr "ナビゲーションの表示"
+
+#: app/templates/options_page.php:33
+msgid "Navigation Options"
+msgstr "ナビゲーションの設定"
+
+#: app/templates/options_page.php:37
+msgid "Alternate Style"
+msgstr "代替スタイル"
+
+#: app/templates/options_page.php:38
+msgid "Asides Category"
+msgstr "「余談」カテゴリ"
+
+#: app/templates/options_page.php:39
+msgid "Sidebar Options"
+msgstr "サイドバーの設定"
+
+#: app/templates/options_page.php:43
+msgid "Header Images"
+msgstr "ヘッダー画像"
+
+#: app/templates/options_page.php:47
+msgid "Miscellaneous Options"
+msgstr "その他の設定"
+
+#: app/templates/options_page.php:54
+msgid "Reset Options"
+msgstr "設定の初期化"
+
+#: app/templates/respond.php:10
+#, php-format
+msgid "You must be %s to post a comment."
+msgstr "コメントするには、%sして下さい。"
+
+#: app/templates/respond.php:11
+msgid "logged in"
+msgstr "ログイン"
+
+#: app/templates/respond.php:18
+msgid "Reply"
+msgstr "返信"
+
+#: app/templates/respond.php:18
+#, php-format
+msgid "Reply to %s"
+msgstr "%s への返信"
+
+#: app/templates/respond.php:19
+msgid "Click here to cancel your reply"
+msgstr "返信を取りやめる"
+
+#: app/templates/respond.php:24
+#, php-format
+msgid "Logged in as %1$s. %2$s"
+msgstr "%1$s としてログイン中です。%2$s"
+
+#: app/templates/respond.php:26
+msgid "Log out?"
+msgstr "ログアウトしますか？"
+
+#: app/templates/respond.php:31
+#, php-format
+msgid "Name %s"
+msgstr "お名前"
+
+#: app/templates/respond.php:32
+#, php-format
+msgid "Email %s"
+msgstr "Eメール"
+
+#: app/templates/respond.php:33
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: app/templates/respond.php:39
+msgid "Your comment"
+msgstr "コメント"
+
+#: app/templates/respond.php:44
+msgid "Submit Comment"
+msgstr "コメント送信"
+
+#: app/templates/options/alternate_style.php:12
+msgid "Default style"
+msgstr "初期状態のスタイル"
+
+#: app/templates/options/alternate_style.php:30
+msgid "Tarski allows you to select an alternate style that modifies the default one. Choose from the list above."
+msgstr "Tarski では、初期状態以外の代替スタイルシートの選択が可能です。上記一覧より選択して下さい。"
+
+#: app/templates/options/alternate_style.php:32
+#, php-format
+msgid "Tarski allows you to select an %1$s that modifies the default one. Choose from the list above, or upload your own to %2$s."
+msgstr "Tarski では、初期状態以外の%1$sの選択が可能です。上記一覧より選択していただくか、あるいはご自身で作成されたものを %2$s. にアップロードして下さい。"
+
+#: app/templates/options/alternate_style.php:32
+msgid "alternate style"
+msgstr "代替スタイルシート"
+
+#: app/templates/options/asides_category.php:2
+msgid "Disable asides"
+msgstr "「余談」カテゴリを設定しない"
+
+#: app/templates/options/asides_category.php:15
+msgid "This option will make Tarski display posts from the selected category in the "
+msgstr "ここでは、Tarski の画面において、「"
+
+#: app/templates/options/asides_category.php:15
+msgid "Asides"
+msgstr "余談"
+
+#: app/templates/options/asides_category.php:15
+msgid " format. Asides are short posts, usually only a single paragraph, and Tarski displays them in a condensed format without titles."
+msgstr "」形式で表示させるカテゴリーを設定します。「余談」は、ここでは（通常は単一の段落からなる）短文投稿のことです。Tarski の画面では、「余談」はタイトルのない簡易形式で表示されます。"
+
+#: app/templates/options/header_images.php:23
+#, php-format
+msgid "Choose a header image by clicking on it. The current image is the %s one."
+msgstr "ヘッダー画像を、この中からクリックして選択して下さい。現在設定されている画像は%sされています。"
+
+#: app/templates/options/header_images.php:23
+msgid "highlighted"
+msgstr "ハイライト表示"
+
+#: app/templates/options/header_images.php:26
+#, php-format
+msgid "You can upload your own header images (.gif, .jpg or .png) to %s."
+msgstr "ご自身の画像（.gif、.jpg、.png のいずれか）を、ヘッダー画像として %s にアップロードできます。"
+
+#: app/templates/options/header_images.php:27
+#, php-format
+msgid "Make sure that you upload a thumbnail file as well. If your image is named %1$s, the corresponding thumbnail file should be named %2$s."
+msgstr "また、サムネイル画像も必ずアップロードして下さい。オリジナル画像の名前が「%1$s」である場合、サムネイル画像の名前は「%2$s」として下さい。"
+
+#: app/templates/options/header_images.php:27
+msgid "example"
+msgstr "example"
+
+#: app/templates/options/messages.php:3
+#, php-format
+msgid "Tarski options have been restored. %s"
+msgstr "Tarski の設定は修復されました。%s"
+
+#: app/templates/options/messages.php:4
+#: app/templates/options/messages.php:9
+msgid "View site &rsaquo;"
+msgstr "サイトを表示する &rsaquo;"
+
+#: app/templates/options/messages.php:8
+#, php-format
+msgid "Tarski options have been updated. %s"
+msgstr "Tarski の設定は更新されました。%s"
+
+#: app/templates/options/nav_options.php:3
+msgid "Add external links to the navbar"
+msgstr "ナビゲーション・バーへの外部リンク追加"
+
+#: app/templates/options/nav_options.php:5
+msgid "No external links"
+msgstr "外部リンク無し"
+
+#: app/templates/options/nav_options.php:20
+#, php-format
+msgid "You can add or edit links on the %s page. We recommend creating a link category specifically for the links you want displayed in your navbar, but you can use any category."
+msgstr "リンクの追加や編集は、%sページでおこなえます。ナビゲーション・バーに表示させたいリンク用に、リンク・カテゴリーを作成することをお勧めしますが、既存のリンク・カテゴリーをそのまま用いることもできます。"
+
+#: app/templates/options/nav_options.php:20
+msgid "Manage Links"
+msgstr "リンクの編集"
+
+#: app/templates/options/nav_options.php:24
+msgid "Rename your &#8216;Home&#8217; link"
+msgstr "「ホーム」リンクの名前を変更する"
+
+#: app/templates/options/nav_options.php:26
+msgid "Home"
+msgstr "ホーム"
+
+#: app/templates/options/nav_options.php:27
+msgid "This link is not displayed when you have a static front page."
+msgstr "トップページに固定ページが設定されている場合、このリンクは表示されません。"
+
+#: app/templates/options/reset_options.php:2
+msgid "Reset Tarski&#8217;s options to their default values"
+msgstr "Tarski の設定を初期化する"
+
+#: app/templates/options/reset_options.php:7
+msgid "If you change your mind, you&#8217;ll have three hours to restore your options before they&#8217;re removed for good."
+msgstr "もしあとから気が変わった場合、3時間以内であれば設定を復元できます。"
+
+#: app/templates/options/restore_options.php:6
+msgid "You have deleted your Tarski options."
+msgstr "Tarski の設定はすべて消去されました。"
+
+#: app/templates/options/restore_options.php:6
+msgid "Restore Tarski Options &raquo;"
+msgstr "Tarski の設定を復元する"
+
+#: app/templates/options/sidebar_options.php:1
+msgid "The sidebar for posts and pages can be the same as that for index pages, or use its own set of widgets."
+msgstr "投稿記事や固定ページのサイドバーについては、一覧ページと同じ主サイドバーを用いることも、別の設定にすることもできます。"
+
+#: app/templates/options/sidebar_options.php:6
+msgid "Same content as main sidebar?"
+msgstr "主サイドバーと同じ内容にする"
+
+#: app/templates/options/update_notifier.php:2
+msgid "Tarski Updates"
+msgstr "Tarski のアップデート"
+
+#: app/templates/options/update_notifier.php:8
+msgid "Update notification on (recommended)"
+msgstr "アップデート通知を有効にする（推奨）"
+
+#: app/templates/options/update_notifier.php:9
+msgid "Update notification off"
+msgstr "アップデート通知を無効にする"
+
+#: app/templates/options/update_notifier.php:12
+#, php-format
+msgid "The version check could not be cached. To enable caching, follow the tutorial on the %s page."
+msgstr "バージョン・チェックはキャッシュされていません。「%s」ページをお読みの上、キャッシュを有効化して下さい。"
+
+#: app/templates/options/update_notifier.php:12
+msgid "update notifier"
+msgstr "update notifier（英語）"
+
+#: app/templates/options/update_notifier.php:15
+msgid "Update Notification"
+msgstr "アップデート通知"
+
+#: app/templates/options/update_notifier.php:16
+msgid "Your server appears to lack the ability to access external websites. This means that the update notifier will not work."
+msgstr "お使いのサーバーでは、外部サイトにアクセスすることができないようです。これは、アップデート通知の機能をご使用いただけないということを意味します。"
+
+#: app/templates/options/update_notifier.php:18
+#, php-format
+msgid "You can read our %1$s on how to fix your server setup, but if you are unable to change it we recommend subscribing to either the %2$s or the %3$s in your feed reader, so that you can be alerted when new Tarski versions become available."
+msgstr "%1$sをお読みいただき、サーバーの設定を変更して下さい。もしそれをできない場合は、「%2$s」や「%3$s」のフィードを購読していただき、Tarski の最新バージョンの通知を受け取れるようにすることをお勧めします。"
+
+#: app/templates/options/update_notifier.php:19
+msgid "documentation"
+msgstr "ドキュメント"
+
+#: app/templates/options/update_notifier.php:20
+msgid "Tarski version feed"
+msgstr "Tarski version feed（英語）"
+
+#: app/templates/options/update_notifier.php:21
+msgid "Tarski website feed"
+msgstr "Tarski website feed（英語）"
+
+#: library/classes/comment_walker.php:80
+#, php-format
+msgid "%1$s from %2$s on %3$s"
+msgstr "%1$s からの %2$s - %3$s"
+
+#: library/classes/comment_walker.php:81
+msgid "Trackback"
+msgstr "トラック・バック"
+
+#: library/classes/comment_walker.php:81
+msgid "Pingback"
+msgstr "ピンバック"
+
+#: library/classes/comment_walker.php:87
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: library/classes/comment_walker.php:92
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s - %2$s"
+
+#: library/classes/page_select.php:83
+msgid "View this page"
+msgstr "このページを見る"
+
+#: library/classes/version.php:74
+#, php-format
+msgid "Update notification is disabled, so no attempt was made to access the update server. Your installed version is %s."
+msgstr "アップデート通知は無効になっています。そのため、アップデート・サーバーへの接続はおこなわれません。現在お使いのバージョンは %s です。"
+
+#: library/classes/version.php:81
+#, php-format
+msgid "An error occurred while attempting to access the update server. Your installed version is %s."
+msgstr "アップデート・サーバーへの接続時にエラーが発生しました。現在お使いのバージョンは %s です。"
+
+#: library/classes/version.php:88
+#, php-format
+msgid "No connection to update server. Your installed version is %s."
+msgstr "アップデート・サーバーに接続されていません。現在お使いのバージョンは %s です。"
+
+#: library/classes/version.php:106
+#, php-format
+msgid "Your version of Tarski (%s) is up to date."
+msgstr "現在お使いのTarski (%s) は最新バージョンです。"
+
+#: library/classes/version.php:113
+#, php-format
+msgid "Version %1$s of the Tarski theme %2$s. Your installed version is %3$s."
+msgstr "Tarski テーマのバージョン %1$s を%2$s。現在お使いのバージョンは %s です。"
+
+#: library/classes/version.php:115
+msgid "is now available"
+msgstr "利用可能です"
+
+#: library/classes/version.php:122
+#, php-format
+msgid "You appear to be running a development version of Tarski (%1$s). Please ensure you %2$s."
+msgstr "開発バージョンのTarski (%1$s) をお使いであるようです。%2$sを確実におこなって下さい。"
+
+#: library/classes/version.php:124
+msgid "stay updated"
+msgstr "最新版の確認"
+
+#: library/helpers/admin_helper.php:56
+#: library/helpers/admin_helper.php:83
+#: library/helpers/admin_helper.php:110
+msgid "You are not authorised to perform this operation."
+msgstr "あなたにはこの操作をおこなう権限がありません。"
+
+#: library/helpers/admin_helper.php:442
+msgid "Pages selected here will display in your navbar."
+msgstr "ここで選択されたページが、ナビゲーション・バーに表示されます。"
+
+#: library/helpers/admin_helper.php:445
+msgid "To change the order in which they appear, edit the &#8216;Page Order&#8217; value on each page."
+msgstr "ページの表示順序を変更する場合は、各ページの設定で「順序」を変更して下さい。"
+
+#: library/helpers/admin_helper.php:464
+msgid "Display site title"
+msgstr "サイトのタイトルを表示する"
+
+#: library/helpers/admin_helper.php:465
+msgid "Display site tagline"
+msgstr "サイトのキャッチフレーズを表示する"
+
+#: library/helpers/admin_helper.php:466
+msgid "Show post categories"
+msgstr "投稿記事のカテゴリーを表示する"
+
+#: library/helpers/admin_helper.php:467
+msgid "Show tags everywhere"
+msgstr "投稿記事単独ページ以外にもタグを表示する"
+
+#: library/helpers/admin_helper.php:468
+msgid "Paginate index pages"
+msgstr "インデックス・ページでページ移動できるようにする"
+
+#: library/helpers/admin_helper.php:469
+msgid "Centrally align the theme"
+msgstr "テーマを画面中央に配置する"
+
+#: library/helpers/admin_helper.php:470
+msgid "Switch column order"
+msgstr "サイドバーを右に配置する"
+
+#: library/helpers/admin_helper.php:471
+msgid "Reverse document title order"
+msgstr "タイトル表示順を入れ替える（サイト名を後ろにする）"
+
+#: library/helpers/author_helper.php:13
+msgid " by "
+msgstr " 投稿者: "
+
+#: library/helpers/comments_helper.php:21
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: library/helpers/comments_helper.php:40
+msgid "Permalink to this comment"
+msgstr "このコメントのパーマリンク"
+
+#: library/helpers/comments_helper.php:82
+#, php-format
+msgid "%s&#8217;s avatar"
+msgstr "%s さんのアバター"
+
+#: library/helpers/comments_helper.php:227
+msgid "required"
+msgstr "必須"
+
+#: library/helpers/content_helper.php:56
+msgid "Pages:"
+msgstr "ページ:"
+
+#: library/helpers/content_helper.php:59
+msgid "Next page"
+msgstr "次のページ"
+
+#: library/helpers/content_helper.php:60
+msgid "Previous page"
+msgstr "前のページ"
+
+#: library/helpers/content_helper.php:90
+msgid "Previous results"
+msgstr "前の検索結果"
+
+#: library/helpers/content_helper.php:91
+msgid "More results"
+msgstr "次の検索結果"
+
+#: library/helpers/content_helper.php:94
+msgid "Older entries"
+msgstr "古い投稿"
+
+#: library/helpers/content_helper.php:95
+msgid "Newer entries"
+msgstr "新しい投稿"
+
+#: library/helpers/content_helper.php:113
+#, php-format
+msgid " in %s"
+msgstr " カテゴリー: %s"
+
+#: library/helpers/content_helper.php:136
+#: library/helpers/content_helper.php:139
+msgid " comments"
+msgstr "個のコメント"
+
+#: library/helpers/content_helper.php:139
+msgid "Comments closed"
+msgstr "コメントできません"
+
+#: library/helpers/content_helper.php:158
+msgid "Permalink"
+msgstr "パーマリンク"
+
+#: library/helpers/content_helper.php:174
+#, php-format
+msgid "The page you are looking for does not exist; it may have been moved, or removed altogether. You might want to try the search function or return to the %s."
+msgstr "お探しのページは存在しません。移動したか、あるいは完全に撤去された可能性があります。恐れ入りますが、検索をお試しいただくか、あるいは%sにお戻り下さい。"
+
+#: library/helpers/tag_helper.php:40
+#: library/helpers/tag_helper.php:106
+msgid ", "
+msgstr "、"
+
+#: library/helpers/tag_helper.php:43
+#: library/helpers/tag_helper.php:78
+msgid "and"
+msgstr "および"
+
+#: library/helpers/tag_helper.php:80
+msgid "or"
+msgstr "もしくは"
+
+#: library/helpers/template_helper.php:35
+#, php-format
+msgid "Error %s"
+msgstr "エラー %s"
+
+#: library/helpers/template_helper.php:39
+#, php-format
+msgid "Search results for %s"
+msgstr "%s の検索結果"
+
+#: library/helpers/template_helper.php:110
+msgid "Header image"
+msgstr "ヘッダー画像"
+
+#: library/helpers/template_helper.php:116
+#: library/helpers/template_helper.php:141
+msgid "Return to main page"
+msgstr "トップページに戻る"
+
+#: library/helpers/template_helper.php:326
+msgid "Dashboard &rarr;"
+msgstr "ダッシュボード &rarr;"
+
+#: library/helpers/template_helper.php:327
+msgid "View your dashboard"
+msgstr "あなたのダッシュボードを見る"
+
+#: library/helpers/widgets.php:17
+msgid "User sidebars are now deprecated; please use a child theme or sidebar widgets."
+msgstr "ユーザー・サイドバーは現在推奨されていません。子テーマもしくはサイドバー・ウィジェットをご使用下さい。"
+
+#: library/helpers/widgets.php:88
+msgid "The most recent articles, offset by the number of visible articles on the home page."
+msgstr "ホームページに表示される件数分を除いた、直近の投稿"
+
+#: library/helpers/widgets.php:174
+msgid "Title:"
+msgstr "タイトル:"
+
+#: library/helpers/widgets.php:177
+msgid "Number of posts to display:"
+msgstr "表示する投稿数:"
+
+#: library/helpers/widgets.php:179
+msgid "(at most 15)"
+msgstr "(最大 15)"
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "この投稿記事はパスワードで保護されています。閲覧するには、パスワードを入力"
+#~ "して下さい。"
+#~ msgid "Commments feed for %s"
+#~ msgstr "「%s」へのコメントのフィード"
+#~ msgid "Category feed for %s"
+#~ msgstr "「%s」カテゴリーのフィード"
+#~ msgid "Tag feed for %s"
+#~ msgstr "「%s」タグのフィード"
+#~ msgid "Articles feed for %s"
+#~ msgstr "%s さんの投稿記事のフィード"
+#~ msgid "Daily archive feed for %s"
+#~ msgstr "%s の日別アーカイブ"
+#~ msgid "Monthly archive feed for %s"
+#~ msgstr "%s の月間アーカイブ"
+#~ msgid "Yearly archive feed for %s"
+#~ msgstr "%s の年間アーカイブ"
+#~ msgid "Search feed for %s"
+#~ msgstr "「%s」の検索結果フィード"
+#~ msgid "Search comments feed for %s"
+#~ msgstr "「%s」の検索結果に対するコメントのフィード"
+#~ msgid "%s feed"
+#~ msgstr "%s のフィード"
+#~ msgid "Site Admin"
+#~ msgstr "サイト管理"
+#~ msgid " in "
+#~ msgstr " カテゴリー: "
+

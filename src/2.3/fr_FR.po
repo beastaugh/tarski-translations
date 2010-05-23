@@ -1,0 +1,769 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tarski en français\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thierry Herman <Thierry@thierryherman.ch>\n"
+"Language-Team: Thierry Herman <Thierry@thierryheman.ch>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: SWITZERLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: app/api/deprecated.php:312
+msgid "Edit the footer content area"
+msgstr "Modifier le contenu du pied de page"
+
+#: app/api/deprecated.php:314
+#: comments.php:47
+#: comments.php:67
+#: index.php:19
+#: index.php:27
+#: loop.php:9
+#: loop.php:27
+msgid "edit"
+msgstr "Modifier"
+
+#: app/display/credits.php:2
+msgid "Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href=\"http://tarskitheme.com/\">Tarski</a>"
+msgstr "Construit gr&acirc;ce &agrave; <a href=\"http://wordpress.org/\">WordPress</a> et <a href=\"http://tarskitheme.com/\">Tarski</a>"
+
+#: app/display/credits.php:4
+#, php-format
+msgid "Hosted by %s"
+msgstr "Sous l'&eacute;gide de %s"
+
+#: app/display/feed_link.php:2
+msgid "Subscribe to feed"
+msgstr "Abonnement au fil RSS"
+
+#: app/display/no_posts.php:4
+msgid "Sorry"
+msgstr "D&eacute;sol&eacute;"
+
+#: app/display/no_posts.php:8
+msgid "Looks like there&#8127;s nothing here, sorry. You might want to try the search function. Alternatively, return to the "
+msgstr "Il semble qu'il n'y ait rien ici, d&eacute;sol&eacute;. Vous pourriez utiliser la fonction recherche. Ou retourner &agrave; la "
+
+#: app/display/no_posts.php:8
+#: library/helpers/content_helper.php:296
+#: search.php:29
+msgid "front page"
+msgstr "page d'accueil"
+
+#: app/display/no_posts.php:8
+msgid "."
+msgstr "."
+
+#: app/display/options_page.php:6
+msgid "Tarski options have been restored."
+msgstr "Les options du th&egrave;me Tarski ont &eacute;t&eacute; r&eacute;tablies."
+
+#: app/display/options_page.php:6
+#: app/display/options_page.php:8
+msgid "View site &raquo;"
+msgstr "Voir le site "
+
+#: app/display/options_page.php:8
+msgid "Tarski options have been updated."
+msgstr "Les options du th&egrave;me ont &eacute;t&eacute; mises &agrave; jour"
+
+#: app/display/options_page.php:18
+msgid "You have deleted your Tarski options."
+msgstr "Vous avez supprim&eacute; vos options du th&egrave;me"
+
+#: app/display/options_page.php:18
+msgid "Restore Tarski Options &raquo;"
+msgstr "R&eacute;tablir les options du th&egrave;me "
+
+#: app/display/options_page.php:26
+#: library/helpers/admin_helper.php:245
+msgid "Tarski Options"
+msgstr "Options du th&egrave;me Tarski"
+
+#: app/display/options_page.php:28
+msgid "Save Options"
+msgstr "Sauvegarder les options"
+
+#: app/display/options_page.php:33
+msgid "Tarski documentation"
+msgstr "Documentation sur le th&egrave;me Tarski"
+
+#: app/display/options_page.php:34
+msgid "Credits &amp; Thanks"
+msgstr "Cr&eacute;dits et remerciements"
+
+#: app/display/options_page.php:35
+msgid "Forum"
+msgstr "Forum"
+
+#: app/display/options_page.php:44
+#: app/display/options_page.php:56
+msgid "Update Notification"
+msgstr "Avis de mise &agrave; jour"
+
+#: app/display/options_page.php:46
+msgid "Tarski is set to notify you when an update is available."
+msgstr "Tarski est configur&eacute; pour vous signaler si une mise &agrave; jour est disponible"
+
+#: app/display/options_page.php:48
+msgid "Tarski can be set to notify you when updates are available."
+msgstr "Tarski peut &ecirc;tre configur&acute; pour signaler des mises &agrave; jour disponibles"
+
+#: app/display/options_page.php:50
+msgid "Update notification on (recommended)"
+msgstr "Signaler les mises &agrave; jour (recommand&eacute;)"
+
+#: app/display/options_page.php:51
+msgid "Update notification off"
+msgstr "Ne pas signaler les mises &agrave; jour"
+
+#: app/display/options_page.php:53
+#, php-format
+msgid "The version check could not be cached. To enable caching, follow the tutorial on the %s page."
+msgstr "Checker les versions ne peut pas &ecirc;tre mis en cache. Pour le faire, il faut suivre le tutoriel sur la page %s"
+
+#: app/display/options_page.php:53
+msgid "update notifier"
+msgstr "signalant les mises &agrave jour"
+
+#: app/display/options_page.php:58
+#, php-format
+msgid "Your server appears to have %1$s disabled and %2$s not installed. This means that the update notifier will not work."
+msgstr "Votre serveur semble avoir interdit %1$s et pas install&eacute; %2$s. Cela a pour cons&eacute;quence de ne pas faire fonctionner la notification de mise &agrave; jour"
+
+#: app/display/options_page.php:63
+#, php-format
+msgid "You can read our %1$s on how to fix your server setup, but if you are unable to change it we recommend subscribing to either the %2$s or the %3$s in your feed reader, so that you can be alerted when new Tarski versions become available."
+msgstr "Vous pouvez lire notre %1$s sur les moyens de corriger votre configuration de serveur, mais si vous n'arrivez pas &agrave; le changer, nous vous recommandons de vous abonner soit &agrave; ce  fil RSS %2$s soit à celui-ci %3$s, ainsi vous serez averti lorsqu'une nouvelle version de Tarski sera disponible."
+
+#: app/display/options_page.php:64
+msgid "documentation"
+msgstr "documentation"
+
+#: app/display/options_page.php:65
+msgid "Tarski version feed"
+msgstr "Fil des versions du th&egrave;me Tarski"
+
+#: app/display/options_page.php:66
+msgid "Tarski website feed"
+msgstr "Fil du site web Tarski"
+
+#: app/display/options_page.php:72
+msgid "Navigation Display"
+msgstr "Sommaire du site"
+
+#: app/display/options_page.php:78
+msgid "Pages selected here will display in your navbar."
+msgstr "Les pages s&eacute;lectionn&eacute;es ici appara&icirc;tront dans le sommaire du site en t&ecirc;te de page"
+
+#: app/display/options_page.php:81
+msgid "To change the order in which they appear, edit the &#8216;Page Order&#8217; value on each page."
+msgstr "Pour changer l'ordre d'apparition, modifiez pour chaque page sa valeur d'ordre (configurable sous g&eacute;rer page)"
+
+#: app/display/options_page.php:84
+msgid "There are no pages to select navbar items from."
+msgstr "Il n'existe aucune page &agrave; s&eacute;lectionner pour le sommaire du site."
+
+#: app/display/options_page.php:87
+msgid "Navigation Options"
+msgstr "Options du sommaire"
+
+#: app/display/options_page.php:90
+msgid "Add external links to the navbar."
+msgstr "Ajouter des liens externes sur la zone du sommaire"
+
+#: app/display/options_page.php:92
+msgid "No external links"
+msgstr "Aucun lien externe"
+
+#: app/display/options_page.php:107
+#, php-format
+msgid "You can add or edit links on the %s page. We recommend creating a link category specifically for the links you want displayed in your navbar, but you can use any category."
+msgstr "Vous pouvez ajouter ou modifier des liens sur la page %s. Nous recommandons de cr&eacute;er une cat&eacute;gorie de liens sp&eacute;cifiques aux liens que vous voulez placer dans la zone du sommaire, mais vous pouvez utiliser n'importe quelle cat&eacute;gorie."
+
+#: app/display/options_page.php:107
+msgid "Manage Links"
+msgstr "G&eacute;rer les liens"
+
+#: app/display/options_page.php:109
+msgid "Rename your &#8216;Home&#8217; link."
+msgstr "Renommez votre lien sur la page d'accueil"
+
+#: app/display/options_page.php:111
+#: library/classes/options.php:51
+#: library/helpers/template_helper.php:275
+msgid "Home"
+msgstr "Accueil"
+
+#: app/display/options_page.php:112
+msgid "This link is not displayed when you have a static front page."
+msgstr "Ce lien n'appara&icirc;t pas si vous avez une page d'accueil statique"
+
+#: app/display/options_page.php:117
+msgid "Alternate Style"
+msgstr "Autres styles"
+
+#: app/display/options_page.php:129
+msgid "Default style"
+msgstr "Style par défaut"
+
+#: app/display/options_page.php:147
+msgid "Tarski allows you to select an alternate style that modifies the default one. Choose from the list above."
+msgstr "Tarski vous permet de choisir un autre style qui modifie celui par d&eacute;faut. Choisissez dans la liste ci-dessus."
+
+#: app/display/options_page.php:149
+#, php-format
+msgid "Tarski allows you to select an %1$s that modifies the default one. Choose from the list above, or upload your own to %2$s."
+msgstr "Tarski vous permet de s&eacute;lectionner un %1$s qui modifie celui par d&eacute;faut. Choisissez dans la liste ci-dessus ou chargez votre propre style dans %2$s."
+
+#: app/display/options_page.php:149
+msgid "alternate style"
+msgstr "autre style"
+
+#: app/display/options_page.php:154
+msgid "Asides Category"
+msgstr "Cat&eacute;gories Asides"
+
+#: app/display/options_page.php:156
+msgid "Disable asides"
+msgstr "Ne pas opter pour les Asides"
+
+#: app/display/options_page.php:169
+msgid "This option will make Tarski display posts from the selected category in the "
+msgstr "Cette option donnera aux billets cr&eacute;&eacute;s avec Tarski un format "
+
+#: app/display/options_page.php:169
+msgid "Asides"
+msgstr "Asides "
+
+#: app/display/options_page.php:169
+msgid " format. Asides are short posts, usually only a single paragraph, and Tarski displays them in a condensed format without titles."
+msgstr ". Les Asides sont des courts billets, g&eacute;n&eacute;ralement d'un seul paragraphe, et Tarski les fait appara&icirc;tre dans un format condens&eacute;, sans titre. "
+
+#: app/display/options_page.php:173
+msgid "Sidebar"
+msgstr "Barre lat&eacute;rale"
+
+#: app/display/options_page.php:175
+msgid "The sidebar for posts and pages can be the same as that for index pages, or use its own set of widgets."
+msgstr "La barre lat&eacute;rale pour les billets et les pages peut &ecirc;tre identique &agrave; celle des pages principales ou utiliser sa propre liste de widgets. "
+
+#: app/display/options_page.php:180
+msgid "Same content as main sidebar?"
+msgstr "Je veux un contenu identique &agrave; la barre lat&eacute;rale principale"
+
+#: app/display/options_page.php:186
+msgid "Header Images"
+msgstr "Images de t&ecirc;te"
+
+#: app/display/options_page.php:209
+#, php-format
+msgid "Choose a header image by clicking on it. The current image is the %s one."
+msgstr "Choisissez une image de t&ecirc;te en cliquant dessus. L'image actuelle est celle qui est %s"
+
+#: app/display/options_page.php:209
+msgid "highlighted"
+msgstr "mise en relief"
+
+#: app/display/options_page.php:212
+#, php-format
+msgid "You can upload your own header images (.gif, .jpg or .png) to %s."
+msgstr "Vous pouvez charger vos propres images de t&ecirc;te (.gif, .jpg ou .png) dans %s."
+
+#: app/display/options_page.php:213
+#, php-format
+msgid "Make sure that you upload a thumbnail file as well. If your image is named %1$s, the corresponding thumbnail file should be named %2$s."
+msgstr "Soyez s&ucirc;rs que vous chargez &eacute;galement  une image de petit format. Si votre image de t&ecirc;te est nomm&eacute;e %1$s, l'image de petit format correspondante devrait &ecirc;tre nomm&eacute;e %2$s. "
+
+#: app/display/options_page.php:213
+msgid "example"
+msgstr "exemple"
+
+#: app/display/options_page.php:219
+msgid "Miscellaneous Options"
+msgstr "Autres options"
+
+#: app/display/options_page.php:224
+msgid "Display site title"
+msgstr "Indiquer le titre du site"
+
+#: app/display/options_page.php:230
+msgid "Display site tagline"
+msgstr "Indiquer la raison d'&ecirc;tre (tagline ou sous-titre) du site"
+
+#: app/display/options_page.php:234
+msgid "Your tagline is currently "
+msgstr "La raison d'&ecirc;tre du site est actuellement"
+
+#: app/display/options_page.php:234
+msgid "blank"
+msgstr "blanc"
+
+#: app/display/options_page.php:234
+msgid " and won&#8217;t be displayed."
+msgstr "et ne sera pas indiqu&eacute;e"
+
+#: app/display/options_page.php:240
+msgid "Show post categories"
+msgstr "Montrer les cat&eacute;gories des billets"
+
+#: app/display/options_page.php:246
+msgid "Show tags everywhere"
+msgstr "Montrer les tags partout"
+
+#: app/display/options_page.php:252
+msgid "Paginate index pages (such as the front page or monthly archives)"
+msgstr "Paginer les pages principales (comme la page d'accueil ou les archives mensuelles)"
+
+#: app/display/options_page.php:258
+msgid "Centre the theme"
+msgstr "Centrer le th&egrave;me"
+
+#: app/display/options_page.php:264
+msgid "Switch the column positions (left becomes right, and vice versa)"
+msgstr "Inverser les positions des colonnes (la gauche passe &agrave; droite et vice-versa)"
+
+#: app/display/options_page.php:270
+msgid "Reverse document title order (show site name last)"
+msgstr "Inverser l'ordre des titres (indiquer le nom du site en dernier lieu)"
+
+#: app/display/options_page.php:279
+msgid "Reset Options"
+msgstr "Options de remise &agrave; z&eacute;ro"
+
+#: app/display/options_page.php:281
+msgid "Reset Tarski&#8217;s options to their default values"
+msgstr "Remettre les options du th&egrave;me &agrave; leurs valeurs par d&eacute;faut"
+
+#: app/display/options_page.php:285
+msgid "If you change your mind, you&#8217;ll have three hours to restore your options before they&#8217;re removed for good."
+msgstr "Si vous changez d'avis, vous avez trois heures pour r&eacute;tablir vos options avant qu'elles ne soient abandonn&eacute;es pour de bon. R&eacute;fl&eacute;chissez vite et bien..."
+
+#: app/launcher.php:18
+msgid "Main sidebar"
+msgstr "Barre lat&eacute;rale principale"
+
+#: app/launcher.php:28
+msgid "Post and page sidebar"
+msgstr "Barre lat&eacute;rale des billets et des pages"
+
+#: app/launcher.php:38
+msgid "Footer main widgets"
+msgstr "Widgets du pied de page"
+
+#: app/launcher.php:48
+msgid "Footer sidebar widgets"
+msgstr "Wigets du pied de page dans la barre lat&eacute;rale"
+
+#: app/launcher.php:57
+#: library/helpers/widgets.php:91
+msgid "Recent Articles"
+msgstr "Articles r&eacute;cents"
+
+#: archive.php:17
+#, php-format
+msgid "You are currently browsing the archive for the %s category."
+msgstr "Vous &ecirc;tes en train de parcourir l'archive de la cat&eacute;gorie %s."
+
+#: archive.php:27
+#, php-format
+msgid "You are currently browsing articles tagged %s."
+msgstr "Vous &ecirc;tes en train de parcourir les articles tagg&eacute;s %s."
+
+#: archive.php:33
+#: library/helpers/author_helper.php:16
+#, php-format
+msgid "Articles by %s"
+msgstr "Articles par %s"
+
+#: archive.php:39
+#, php-format
+msgid "You are currently browsing %s&#8217;s articles."
+msgstr "Vous &ecirc;tes en train de parcourir les articles de %s"
+
+#: archive.php:49
+#, php-format
+msgid "You are currently browsing the daily archive for %s."
+msgstr "Vous &ecirc;tes en train de parcourir l'archive quotidienne pour %s."
+
+#: archive.php:58
+#, php-format
+msgid "You are currently browsing the monthly archive for %s."
+msgstr "Vous &ecirc;tes en train de parcourir l'archive mensuelle pour %s."
+
+#: archive.php:67
+#, php-format
+msgid "You are currently browsing the yearly archive for %s."
+msgstr "Vous &ecirc;tes en train de parcourir sur l'archive annuelle pour %s"
+
+#: archives.php:14
+#: index.php:30
+#: links.php:15
+#: tags.php:15
+msgid "edit page"
+msgstr "Modifier la page"
+
+#: archives.php:25
+msgid "Monthly Archives"
+msgstr "Archives mensuelles"
+
+#: archives.php:36
+msgid "Category Archives"
+msgstr "Archives par cat&eacute;gorie"
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ce billet est prot&eacute;g&eacute; par un mot de passe. Entrez le mot de passe pour voir les commentaires"
+
+#: comments.php:18
+#: library/helpers/content_helper.php:128
+#: library/helpers/content_helper.php:131
+#: library/helpers/content_helper.php:146
+msgid "No comments"
+msgstr "Pas de commentaire"
+
+#: comments.php:18
+#: library/helpers/content_helper.php:128
+#: library/helpers/content_helper.php:131
+#: library/helpers/content_helper.php:146
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#: comments.php:18
+#: library/helpers/content_helper.php:128
+#: library/helpers/content_helper.php:131
+msgid " comments"
+msgstr " commentaires"
+
+#: comments.php:20
+msgid "Comments feed for this article"
+msgstr "Fil des commentaires sur cet article"
+
+#: comments.php:24
+msgid "Trackback link"
+msgstr "R&eacute;trolien"
+
+#: comments.php:38
+#: comments.php:64
+msgid "Permalink to this comment"
+msgstr "Lien permanent pour ce commentaire"
+
+#: comments.php:38
+msgid " at "
+msgstr " &agrave; "
+
+#: comments.php:43
+#: comments.php:45
+msgid "Comment"
+msgstr "Commentaire"
+
+#: comments.php:43
+#: comments.php:45
+msgid "Trackback"
+msgstr "R&eacute;trolien"
+
+#: comments.php:43
+#: comments.php:45
+msgid "Pingback"
+msgstr "Pingback"
+
+#: comments.php:43
+#: comments.php:45
+msgid " from"
+msgstr " de"
+
+#: comments.php:61
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire attend une mod&eacute;ration."
+
+#: comments.php:88
+msgid "You must be "
+msgstr "Vous devez &ecirc;tre"
+
+#: comments.php:88
+msgid "logged in"
+msgstr "inscrit"
+
+#: comments.php:88
+msgid " to post a comment."
+msgstr " pour envoyer un commentaire"
+
+#: comments.php:99
+msgid "You are logged in as "
+msgstr "Vous &ecirc;tes inscrit sous le nom de "
+
+#: comments.php:100
+msgid "Log out of this account"
+msgstr "D&eacute;sinscription "
+
+#: comments.php:100
+msgid "Logout &raquo;"
+msgstr "D&eacute;sincription"
+
+#: comments.php:106
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:106
+msgid "(required)"
+msgstr "(obligatoire)"
+
+#: comments.php:107
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:107
+msgid "(required, not displayed)"
+msgstr "(obligatoire, ne sera pas visible)"
+
+#: comments.php:108
+msgid "Website"
+msgstr "Site web"
+
+#: comments.php:114
+msgid "Your comment"
+msgstr "Votre commentaire"
+
+#: comments.php:116
+msgid "Submit Comment"
+msgstr "Soumettre le commentaire"
+
+#: library/classes/asset.php:132
+#, php-format
+msgid "Commments feed for %s"
+msgstr "Fil des commentaires pour %s."
+
+#: library/classes/asset.php:137
+#, php-format
+msgid "Category feed for %s"
+msgstr "Fil des cat&eacute;gories pour %s"
+
+#: library/classes/asset.php:141
+#, php-format
+msgid "Tag feed for %s"
+msgstr "Fil des tags pour %s"
+
+#: library/classes/asset.php:145
+#, php-format
+msgid "Articles feed for %s"
+msgstr "Fil des billets pour %s"
+
+#: library/classes/asset.php:150
+#, php-format
+msgid "Daily archive feed for %s"
+msgstr "Fil des archives quotidiennes pour %s"
+
+#: library/classes/asset.php:154
+#, php-format
+msgid "Monthly archive feed for %s"
+msgstr "Fil des archives mensuelles pour %s"
+
+#: library/classes/asset.php:158
+#, php-format
+msgid "Yearly archive feed for %s"
+msgstr "Fil des archives annuelles pour %s"
+
+#: library/classes/asset.php:170
+#, php-format
+msgid "Search feed for %s"
+msgstr "Chercher le fil pour %s"
+
+#: library/classes/asset.php:171
+#, php-format
+msgid "Search comments feed for %s"
+msgstr "Chercher le fil des commentaires pour %s"
+
+#: library/classes/asset.php:181
+#, php-format
+msgid "%s feed"
+msgstr "fil %s"
+
+#: library/classes/page_select.php:83
+msgid "View this page"
+msgstr "Voir cette page"
+
+#: library/helpers/admin_helper.php:415
+#, php-format
+msgid "A new version of the Tarski theme, version %1$s %2$s. Your installed version is %3$s."
+msgstr "Une nouvelle version du th&egrave;me Tarski, la version %1$s %2$s. La version instal&eacute;e est la %3$s"
+
+#: library/helpers/admin_helper.php:417
+msgid "is now available"
+msgstr "est maintenant disponible"
+
+#: library/helpers/admin_helper.php:424
+#, php-format
+msgid "Your version of Tarski (%s) is up to date."
+msgstr "Votre version du th&egrave;me Tarski (%s) est &agrave; jour."
+
+#: library/helpers/admin_helper.php:430
+#, php-format
+msgid "You appear to be running a development version of Tarski (%1$s). Please ensure you %2$s."
+msgstr "Vous utilisez une version de d&eacute;veloppement de Tarski (%1$s). Veuillez vous assurer de %2$s "
+
+#: library/helpers/admin_helper.php:432
+msgid "stay updated"
+msgstr "rester &agrave; jour"
+
+#: library/helpers/admin_helper.php:438
+#, php-format
+msgid "No connection to update server. Your installed version is %s."
+msgstr "Pas de connection avec le serveur de mise &agrave; jour. Votre version est %s."
+
+#: library/helpers/admin_helper.php:446
+#, php-format
+msgid "Update notification for Tarski is disabled. Your installed version is %s."
+msgstr "La notification de mise &agrave; jour du th&egrave;me Tarski est d&eacute;sactiv&eacute;e. La version install&eacute;e est %s."
+
+#: library/helpers/author_helper.php:13
+msgid " by "
+msgstr " par "
+
+#: library/helpers/content_helper.php:47
+msgid "Pages:"
+msgstr "Pages: "
+
+#: library/helpers/content_helper.php:50
+msgid "Next page"
+msgstr "Page suivante"
+
+#: library/helpers/content_helper.php:51
+msgid "Previous page"
+msgstr "Page pr&eacute;c&eacute;dente"
+
+#: library/helpers/content_helper.php:86
+msgid "Previous results"
+msgstr "R&eacute;sultats pr&eacute;c&eacute;dents"
+
+#: library/helpers/content_helper.php:88
+msgid "More results"
+msgstr "Plus de r&eacute;sultats"
+
+#: library/helpers/content_helper.php:90
+msgid "Older entries"
+msgstr "Anciennes entr&eacute;es"
+
+#: library/helpers/content_helper.php:92
+msgid "Newer entries"
+msgstr "Nouvelles entr&eacute;es"
+
+#: library/helpers/content_helper.php:111
+#, php-format
+msgid " in %s"
+msgstr " dans %s"
+
+#: library/helpers/content_helper.php:131
+msgid "Comments closed"
+msgstr "Commentaires ferm&eacute;s"
+
+#: library/helpers/content_helper.php:146
+#, php-format
+msgid "% comments"
+msgstr "% commentaires"
+
+#: library/helpers/content_helper.php:148
+msgid "Permalink"
+msgstr "Lien permanent"
+
+#: library/helpers/content_helper.php:163
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: library/helpers/content_helper.php:202
+#, php-format
+msgid "%s&#8217;s avatar"
+msgstr "Avatar de %s"
+
+#: library/helpers/content_helper.php:295
+#, php-format
+msgid "The page you are looking for does not exist; it may have been moved, or removed altogether. You might want to try the search function or return to the %s."
+msgstr "Oups ! La page que vous cherchez n'existe pas; elle peut avoir &eacute;t&eacute; d&eacute;plac&eacute;e ou m&ecirc;me d&eacute;truite. Vous pourriez essayer la fonction de recherche ou retourner à la %s."
+
+#: library/helpers/tag_helper.php:40
+#: library/helpers/tag_helper.php:107
+msgid ", "
+msgstr ","
+
+#: library/helpers/tag_helper.php:43
+#: library/helpers/tag_helper.php:79
+msgid "and"
+msgstr "et"
+
+#: library/helpers/tag_helper.php:81
+msgid "or"
+msgstr "ou"
+
+#: library/helpers/tag_helper.php:121
+#: tags.php:22
+msgid "Tags"
+msgstr "Tags"
+
+#: library/helpers/template_helper.php:55
+#, php-format
+msgid "Search results for %s"
+msgstr "R&eacute;sultats de la recherche pour %s"
+
+#: library/helpers/template_helper.php:164
+msgid "Header image"
+msgstr "Image de t&ecirc;te"
+
+#: library/helpers/template_helper.php:174
+#: library/helpers/template_helper.php:202
+msgid "Return to main page"
+msgstr "Retour &agrave; la page d'accueil"
+
+#: library/helpers/template_helper.php:400
+msgid "Site Admin"
+msgstr "Administration du site"
+
+#: library/helpers/widgets.php:114
+msgid "View this post"
+msgstr "Voir ce billet"
+
+#: library/helpers/widgets.php:118
+msgid " in "
+msgstr "dans"
+
+#: loop.php:7
+#: loop.php:31
+msgid "Read the rest of this entry &raquo;"
+msgstr "Lisez la suite"
+
+#: loop.php:22
+msgid "Permanent link to "
+msgstr "Lien permanent"
+
+#: search.php:11
+msgid "Search Results"
+msgstr "R&eacute;sultats de la recherche"
+
+#: search.php:14
+#, php-format
+msgid "Your search for %s returned the following results."
+msgstr "Votre recherche de %s a produit les r&eacute;sultats suivants"
+
+#: search.php:26
+msgid "No results"
+msgstr "Aucun r&eacute;sultat"
+
+#: search.php:29
+#, php-format
+msgid "Your search for %1$s returned no results. Try returning to the %2$s."
+msgstr "Votre recherche de %1$s n'a produit aucun r&eacute;sultat. Essayez de revenir &agrave; la %2$s. "
+
+#: searchform.php:3
+msgid "Search this site"
+msgstr "Rechercher dans ce site"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Recherche"
+
