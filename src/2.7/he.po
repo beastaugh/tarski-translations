@@ -1,0 +1,878 @@
+# Translation of the WordPress theme Tarski 2.6 by Benedict Eastaugh and Chris Sternal-Johnson.
+# Copyright (C) 2010 Benedict Eastaugh and Chris Sternal-Johnson
+# This file is distributed under the same license as the Tarski package.
+# Benedict Eastaugh <benedict@eastaugh.net>, 2010.
+# תרגום לעברית - ד״ר תמר עילם גינדין http://www.thmrsite.com http://www.hamartsim.com
+# Yaron Shahrabani <gezer@lists.launchpad.net>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tarski 2.6\n"
+"Report-Msgid-Bugs-To: Benedict Eastaugh <bugs@tarskitheme.com>\n"
+"POT-Creation-Date: 2010-08-03 22:11+0100\n"
+"PO-Revision-Date: 2010-08-10 12:52+0200\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: Gezer (Hebrew)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.6.1\n"
+"תרגום לעברית: ד\"ר תמר עילם גינדין <bugs@tarskitheme.com>\n"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr "שגיאה 404"
+
+#: app/api/deprecated.php:137 library/helpers/widgets.php:85
+#: library/helpers/widgets.php:109
+msgid "Recent Articles"
+msgstr "מאמרים אחרונים"
+
+#: app/api/deprecated.php:159 library/helpers/widgets.php:131
+msgid "View this post"
+msgstr "צפייה ברשומה זו"
+
+#: app/api/deprecated.php:160 library/helpers/widgets.php:132
+#, php-format
+msgid "%1$s in %2$s"
+msgstr "%1$s בשעה %2$s"
+
+#: app/launcher.php:28
+msgid "Main sidebar"
+msgstr "סרגל צדדי ראשי"
+
+#: app/launcher.php:38
+msgid "Post and page sidebar"
+msgstr "סרגל צדדי ברשומות ובדפים"
+
+#: app/launcher.php:48
+msgid "Footer main widgets"
+msgstr "וידג׳טים בכותרת התחתונה"
+
+#: app/launcher.php:58
+msgid "Footer sidebar widgets"
+msgstr "וידג׳טים בסרגל הצדדי בכותרת התחתונה"
+
+#: app/templates/credits.php:2
+msgid ""
+"Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href="
+"\"http://tarskitheme.com/\">Tarski</a>"
+msgstr ""
+"אתר זה פועל על <a href=\"http://wordpress.org/\">וורדפרס</a> ו<a href="
+"\"http://tarskitheme.com/\">טרסקי</a>"
+
+#: app/templates/credits.php:4
+#, php-format
+msgid "Hosted by %s"
+msgstr "מאוחסן ב־%s"
+
+#: app/templates/feed_link.php:2
+msgid "Subscribe to feed"
+msgstr "הרשמה לעדכונים"
+
+#: app/templates/loop.php:7 app/templates/loop.php:29
+msgid "Read the rest of this entry &raquo;"
+msgstr "קריאה נוספת &laquo;"
+
+#: app/templates/loop.php:10 library/classes/comment_walker.php:84
+#: library/classes/comment_walker.php:95
+#: library/helpers/content_helper.php:333
+msgid "edit"
+msgstr "עריכה"
+
+#: app/templates/loop.php:19
+#, php-format
+msgid "Permanent link to %s"
+msgstr "קישור קבוע ל־%s"
+
+#: app/templates/no_posts.php:4
+msgid "No posts found"
+msgstr "לא נמצאו רשומות"
+
+#: app/templates/no_posts.php:9
+#, php-format
+msgid ""
+"Looks like there&#8127;s nothing here, sorry. You might want to try the "
+"search function. Alternatively, return to the %s."
+msgstr ""
+"לצערי, נראה כי אין כאן שום דבר. אולי כדאי לך להשתמש בשדה החיפוש באתר. אפשר "
+"גם לחזור ל%s."
+
+#: app/templates/no_posts.php:10 library/helpers/content_helper.php:354
+#: search.php:29
+msgid "front page"
+msgstr "העמוד הראשי"
+
+#: app/templates/options/alternate_style.php:7
+msgid "Default style"
+msgstr "סגנון ברירת המחדל"
+
+#: app/templates/options/alternate_style.php:19
+msgid ""
+"Tarski allows you to select an alternate style that modifies the default "
+"one. Choose from the list above."
+msgstr ""
+"טרסקי מאפשר לך לבחור סגנון חלופי ולשנות את ברירת המחדל. נא לבחור מהרשימה "
+"למעלה."
+
+#: app/templates/options/alternate_style.php:21
+#, php-format
+msgid ""
+"Tarski allows you to select an %1$s that modifies the default one. Choose "
+"from the list above, or upload your own to %2$s."
+msgstr ""
+"טרסקי מאפשר לך לבחור %1$s ולשנות את ברירת המחדל. נא לבחור מהרשימה למעלה, או "
+"להעלות את שלך ל%2$s."
+
+#: app/templates/options/alternate_style.php:21
+msgid "alternate style"
+msgstr "סגנון חלופי"
+
+#: app/templates/options/alternate_style.php:25
+msgid "No alternate stylesheets appear to be present."
+msgstr "נראה שאין גיליונות סגנון חלופיים"
+
+#: app/templates/options/asides_category.php:2
+msgid "Disable asides"
+msgstr "נטרול האגביות"
+
+#: app/templates/options/asides_category.php:15
+msgid ""
+"This option will make Tarski display posts from the selected category in the "
+msgstr "באפשרות זו, טרסקי יראה רשומות מהקטגוריה הנבחרת ב"
+
+#: app/templates/options/asides_category.php:15
+msgid "Asides"
+msgstr "אגביות"
+
+#: app/templates/options/asides_category.php:15
+msgid ""
+" format. Asides are short posts, usually only a single paragraph, and Tarski "
+"displays them in a condensed format without titles."
+msgstr ""
+"עיצוב. אגביות הן רשומות קצרות, לרוב רק פסקה אחת. טרסקי מציג אתן בעיצוב מכווץ "
+"ללא כותרות."
+
+#: app/templates/options/header_images.php:9
+msgid "No header images appear to be present."
+msgstr "נראה שאין תמונות כותרת עליונה"
+
+#: app/templates/options/header_images.php:16
+#, php-format
+msgid ""
+"Choose a header image by clicking on it. The current image is the %s one."
+msgstr ""
+"נא להקליק על התמונה כדי לבחור אותה לכותרת העליונה. התמונה הנוכחית היא %s."
+
+#: app/templates/options/header_images.php:16
+msgid "highlighted"
+msgstr "מודגש"
+
+#: app/templates/options/header_images.php:19
+#, php-format
+msgid "You can upload your own header images (.gif, .jpg or .png) to %s."
+msgstr "ניתן להעלות תמונת כותרת משלך (‎.gif, .jpg, .png) ל%s"
+
+#: app/templates/options/header_images.php:20
+#, php-format
+msgid ""
+"Make sure that you upload a thumbnail file as well. If your image is named %1"
+"$s, the corresponding thumbnail file should be named %2$s."
+msgstr ""
+"נא לוודא שהעלית גם קובץ תמונה ממוזערת. אם שאם שם התמונה שלך הוא %1$s, שם "
+"התמונה הממוזערת המקבילה צריך להיות %2$s."
+
+#: app/templates/options/header_images.php:20
+msgid "example"
+msgstr "דוגמה"
+
+#: app/templates/options/messages.php:3
+#, php-format
+msgid "Tarski options have been restored. %s"
+msgstr "האפשרויות של טרסקי שוחזרו. %s"
+
+#: app/templates/options/messages.php:4 app/templates/options/messages.php:9
+msgid "View site &rsaquo;"
+msgstr "צפייה באתר &lsaquo;"
+
+#: app/templates/options/messages.php:8
+#, php-format
+msgid "Tarski options have been updated. %s"
+msgstr "האפשרויות של טרסקי עודכנו. %s"
+
+#: app/templates/options/missing_files.php:1
+msgid ""
+"This may be because you have removed them, or because those files aren&#8217;"
+"t readable by WordPress."
+msgstr ""
+"ייתכן שזה משום שהסרת אותם, או מפני שוורדפרס אינו יכול לקרוא את הקבצים האלה."
+
+#: app/templates/options/missing_files.php:2
+#, php-format
+msgid ""
+"If you have problems making the files readable, try the WordPress Codex "
+"documentation on %s."
+msgstr ""
+"אם נתקלת בבעיה להפוך את הקבצים האלה לקריאים, אפשר לנסות את תיעוד וורדפרס תחת "
+"codex ב־%s."
+
+#: app/templates/options/missing_files.php:2
+msgid "changing file permissions"
+msgstr "הרשאות הקבצים משתנות"
+
+#: app/templates/options/missing_files.php:3
+#, php-format
+msgid ""
+"If you deleted the files by accident, just download a new copy from the %s "
+"and re-upload them to your website."
+msgstr ""
+"אם מחקת את הקבצים האלה בטעות, אפשר פשוט להוריד עותק חדש מה־%s, ולהעלות אותם "
+"מחדש לאתרך"
+
+#: app/templates/options/missing_files.php:3
+msgid "Tarski website"
+msgstr "אתר טרסקי"
+
+#: app/templates/options/nav_options.php:3
+msgid "Add external links to the navbar"
+msgstr "להוסיף קישורים חיצוניים לסרגל הניווט"
+
+#: app/templates/options/nav_options.php:5
+msgid "No external links"
+msgstr "אין קישורים חיצוניים"
+
+#: app/templates/options/nav_options.php:20
+#, php-format
+msgid ""
+"You can add or edit links on the %s page. We recommend creating a link "
+"category specifically for the links you want displayed in your navbar, but "
+"you can use any category."
+msgstr ""
+"ניתן להוסיף או לערוך קישורים בעמוד ה%s. אנו ממליצים ליצור קטגוריית קישור "
+"ספציפית לקישורים שברצונך להציג בסרגל הניווט שלך, אבל ניתן להשתמש בכל קטגוריה."
+
+#: app/templates/options/nav_options.php:20
+msgid "Manage Links"
+msgstr "ניהול קישורים"
+
+#: app/templates/options/nav_options.php:24
+msgid "Rename your &#8216;Home&#8217; link"
+msgstr "לשנות את שם קישור ה&#8216;הבית&#8217; שלך"
+
+#: app/templates/options/nav_options.php:26 library/classes/options.php:79
+#: library/helpers/template_helper.php:412
+msgid "Home"
+msgstr "בית"
+
+#: app/templates/options/nav_options.php:27
+msgid "This link is not displayed when you have a static front page."
+msgstr "קישור זה אינו מוצג כשיש לך דף בית סטטי"
+
+#: app/templates/options/reset_options.php:2
+msgid "Reset Tarski&#8217;s options to their default values"
+msgstr "החזרת האפשרויות של טרסקי לערכי ברירת המחדל שלהן"
+
+#: app/templates/options/reset_options.php:7
+msgid ""
+"If you change your mind, you&#8217;ll have three hours to restore your "
+"options before they&#8217;re removed for good."
+msgstr ""
+"יש לך שלוש שעות לשנות את דעתך ולשחזר את האפשרויות שמחקת, לפני שהן נמחקות "
+"לנצח."
+
+#: app/templates/options/restore_options.php:6
+msgid "You have deleted your Tarski options."
+msgstr "מחקת את אפשרויות טרסקי שלך."
+
+#: app/templates/options/restore_options.php:6
+msgid "Restore Tarski Options &raquo;"
+msgstr "שחזור אפשרויות טרסקי &laquo;"
+
+#: app/templates/options/sidebar_options.php:1
+msgid ""
+"The sidebar for posts and pages can be the same as that for index pages, or "
+"use its own set of widgets."
+msgstr ""
+"הסרגל הצדדי לרשומות ולעמודים יכול להיות זהה לזה של עמודי האינדקס או להשתמש "
+"במערכת וידג'טים משלו."
+
+#: app/templates/options/sidebar_options.php:6
+msgid "Same content as main sidebar?"
+msgstr "תוכן זהה לסרגל הצדדי הראשי?"
+
+#: app/templates/options/update_notifier.php:2
+msgid "Tarski Updates"
+msgstr "עדכוני טרסקי"
+
+#: app/templates/options/update_notifier.php:8
+msgid "Update notification on (recommended)"
+msgstr "הודעות עדכון מופעלות (מומלץ)"
+
+#: app/templates/options/update_notifier.php:9
+msgid "Update notification off"
+msgstr "הודעות עדכון מנוטרלות"
+
+#: app/templates/options/update_notifier.php:12
+#, php-format
+msgid ""
+"The version check could not be cached. To enable caching, follow the "
+"tutorial on the %s page."
+msgstr ""
+"לא ניתן לשמור את נתוני המהדורה במטמון. כדי להפעיל את אפשרות המטמון, יש "
+"להיעזר במדריך המופיע בעמוד %s."
+
+#: app/templates/options/update_notifier.php:12
+msgid "update notifier"
+msgstr "שולח הודעות העדכון"
+
+#: app/templates/options/update_notifier.php:15
+msgid "Update Notification"
+msgstr "הודעת עדכון"
+
+#: app/templates/options/update_notifier.php:16
+msgid ""
+"Your server appears to lack the ability to access external websites. This "
+"means that the update notifier will not work."
+msgstr ""
+"נראה שלשרת שלך אין אפשרות גישה לאתרים חיצוניים. משמעות הדבר היא ששולח הודעות "
+"העדכון לא יעבוד."
+
+#: app/templates/options/update_notifier.php:18
+#, php-format
+msgid ""
+"You can read our %1$s on how to fix your server setup, but if you are unable "
+"to change it we recommend subscribing to either the %2$s or the %3$s in your "
+"feed reader, so that you can be alerted when new Tarski versions become "
+"available."
+msgstr ""
+"ניתן לקרוא את ה%1$s שלנו על איך לתקן את הגדרות השרת שלך, אבל אם אין "
+"באפשרותךלשנות אותו, אנו ממליצים להירשם ל־%2$s או ל־%3$s במציג ערוצי העדכון "
+"שלךכדי לאפשר לך לקבל הודעות על גרסאות חדשות של טרסקי."
+
+#: app/templates/options/update_notifier.php:19
+msgid "documentation"
+msgstr "תיעוד"
+
+#: app/templates/options/update_notifier.php:20
+msgid "Tarski version feed"
+msgstr "ערוץ העדכונים לגרסאות טרסקי"
+
+#: app/templates/options/update_notifier.php:21
+msgid "Tarski website feed"
+msgstr "ערוץ העדכונים של אתר טרסקי"
+
+#: app/templates/options_page.php:10 library/helpers/admin_helper.php:228
+#: library/helpers/admin_helper.php:229
+msgid "Tarski Options"
+msgstr "אפשרויות טרסקי"
+
+#: app/templates/options_page.php:13 app/templates/options_page.php:48
+msgid "Save Options"
+msgstr "שמירת אפשרויות"
+
+#: app/templates/options_page.php:17
+msgid "Tarski documentation"
+msgstr "תיעוד טרסקי"
+
+#: app/templates/options_page.php:18
+msgid "Credits &amp; Thanks"
+msgstr "למי תודה למי ברכה"
+
+#: app/templates/options_page.php:19
+msgid "Forum"
+msgstr "פורום"
+
+#: app/templates/options_page.php:32
+msgid "Navigation Display"
+msgstr "תצוגת ניווט"
+
+#: app/templates/options_page.php:33
+msgid "Navigation Options"
+msgstr "אפשרויות ניווט"
+
+#: app/templates/options_page.php:37
+msgid "Alternate Style"
+msgstr "סגנון חלופי"
+
+#: app/templates/options_page.php:38
+msgid "Asides Category"
+msgstr "קטגוריית אגביות"
+
+#: app/templates/options_page.php:39
+msgid "Sidebar Options"
+msgstr "אפשרויות סרגל צדדי"
+
+#: app/templates/options_page.php:43
+msgid "Header Images"
+msgstr "תמונות כותרת עליונה"
+
+#: app/templates/options_page.php:47
+msgid "Miscellaneous Options"
+msgstr "אפשרויות - שונות"
+
+#: app/templates/options_page.php:54
+msgid "Reset Options"
+msgstr "שחזור אפשרויות"
+
+#: archive.php:17
+#, php-format
+msgid "You are currently browsing the archive for the %s category."
+msgstr "הנך צופה בארכיון לקטגוריה %s."
+
+#: archive.php:27
+#, php-format
+msgid "You are currently browsing articles tagged %s."
+msgstr "הנך צופה במאמרים עם תגית %s."
+
+#: archive.php:33 library/helpers/author_helper.php:24
+#, php-format
+msgid "Articles by %s"
+msgstr "מאמרים מאת %s"
+
+#: archive.php:39
+#, php-format
+msgid "You are currently browsing %s&#8217;s articles."
+msgstr "הנך צופה במאמרים מאת %s."
+
+#: archive.php:49
+#, php-format
+msgid "You are currently browsing the daily archive for %s."
+msgstr "הינך צופה בארכיון היומי של %s."
+
+#: archive.php:58
+#, php-format
+msgid "You are currently browsing the monthly archive for %s."
+msgstr "הנך צופה בארכיון החודשי של %s."
+
+#: archive.php:67
+#, php-format
+msgid "You are currently browsing the yearly archive for %s."
+msgstr "הנך צופה בארכיון השנתי של %s."
+
+#: archives.php:14 links.php:15 tags.php:15
+msgid "edit page"
+msgstr "עריכת העמוד"
+
+#: archives.php:25
+msgid "Monthly Archives"
+msgstr "ארכיבים חודשיים"
+
+#: archives.php:36
+msgid "Category Archives"
+msgstr "ארכיבי קטגוריות"
+
+#: comments.php:15 library/helpers/content_helper.php:155
+#: library/helpers/content_helper.php:207
+msgid "No comments"
+msgstr "אין תגובות"
+
+#: comments.php:15 library/helpers/content_helper.php:157
+#: library/helpers/content_helper.php:207
+msgid "1 comment"
+msgstr "תגובה אחת"
+
+#: comments.php:15 library/helpers/content_helper.php:153
+#: library/helpers/content_helper.php:207
+#, php-format
+msgid "% comments"
+msgstr "% c תגובות"
+
+#: comments.php:17
+msgid "Comments feed for this article"
+msgstr "ערוץ עדכוני תגובות למאמר זה"
+
+#: comments.php:21
+#, php-format
+msgid "Trackback link: %s"
+msgstr "קישור לטרקבקים: %s"
+
+#: comments.php:33
+msgid "&lsaquo; Previous"
+msgstr "הקודם &rsaquo;"
+
+#: comments.php:34
+msgid "Next &rsaquo;"
+msgstr "&lsaquo; הבא"
+
+#: comments.php:43
+#, php-format
+msgid "You must be %s to post a comment."
+msgstr "עליך להיות %s כדי לפרסם תגובה"
+
+#: comments.php:44
+msgid "logged in"
+msgstr "נכנסת"
+
+#: comments.php:50
+msgid "Reply"
+msgstr "תגובה"
+
+#: comments.php:50
+#, php-format
+msgid "Reply to %s"
+msgstr "תגובה ל%s"
+
+#: comments.php:51
+msgid "Click here to cancel your reply"
+msgstr "נא להקליק כאן כדי לבטל את תגובתך"
+
+#: comments.php:54
+#, php-format
+msgid "Logged in as %1$s. %2$s"
+msgstr "נכנסת בשם %1$s. %2$s"
+
+#: comments.php:56
+msgid "Log out?"
+msgstr "לצאת?"
+
+#: comments.php:59
+#, php-format
+msgid "Name %s"
+msgstr "שם %s"
+
+#: comments.php:60
+#, php-format
+msgid "Email %s"
+msgstr "דוא\"ל %s"
+
+#: comments.php:61
+msgid "Website"
+msgstr "אתר"
+
+#: comments.php:66
+msgid "Your comment"
+msgstr "תגובתך"
+
+#: comments.php:71
+msgid "Submit Comment"
+msgstr "שליחת תגובה"
+
+#: comments.php:80
+msgid "Comments are now closed."
+msgstr "סגור לתגובות."
+
+#: library/classes/comment_walker.php:80
+#, php-format
+msgid "%1$s from %2$s on %3$s"
+msgstr "%1$s מאת %2$s בעמוד %3$s"
+
+#: library/classes/comment_walker.php:81
+msgid "Comment|noun"
+msgstr "תגובה"
+
+#: library/classes/comment_walker.php:81
+msgid "Trackback"
+msgstr "טרקבק"
+
+#: library/classes/comment_walker.php:81
+msgid "Pingback"
+msgstr "פינגבאק"
+
+#: library/classes/comment_walker.php:87
+msgid "Your comment is awaiting moderation."
+msgstr "תגובך ממתינה לאישור."
+
+#: library/classes/comment_walker.php:92
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s בעמוד %2$s"
+
+#: library/classes/page_select.php:83
+msgid "View this page"
+msgstr "הצגת העמוד הזה"
+
+#: library/classes/version.php:74
+#, php-format
+msgid ""
+"Update notification is disabled, so no attempt was made to access the update "
+"server. Your installed version is %s."
+msgstr ""
+"הודעת העדכון מנוטרלת, ולכן לא נעשה שום ניסיון להתחבר לשרת העדכונים.הגרסה "
+"המותקנת אצלך היא %s."
+
+#: library/classes/version.php:81
+#, php-format
+msgid ""
+"An error occurred while attempting to access the update server. Your "
+"installed version is %s."
+msgstr "ארעה שגיאה בניסיון להתחבר לשרת העדכונים. הגרסה המותקנת אצלך היא %s."
+
+#: library/classes/version.php:88
+#, php-format
+msgid "No connection to update server. Your installed version is %s."
+msgstr "אין תקשורת עם שרת העדכונים. הגרסה המותקנת אצלך היא %s."
+
+#: library/classes/version.php:106
+#, php-format
+msgid "Your version of Tarski (%s) is up to date."
+msgstr "גרסת טרסקי שלך (%s) היא עדכנית."
+
+#: library/classes/version.php:113
+#, php-format
+msgid "Version %1$s of the Tarski theme %2$s. Your installed version is %3$s."
+msgstr "גרסה %1$s של ערכת עיצוב טרסקי %2$s. הערכה המותקנת אצלך היא %3$s."
+
+#: library/classes/version.php:115
+msgid "is now available"
+msgstr "זמינה כעת להורדה"
+
+#: library/classes/version.php:122
+#, php-format
+msgid ""
+"You appear to be running a development version of Tarski (%1$s). Please "
+"ensure you %2$s."
+msgstr "נראה שגרסת הטרסקי שבשימושך היא גרסת פיתוח (%1$s). נא לוודא שהנך %2$s."
+
+#: library/classes/version.php:124
+msgid "stay updated"
+msgstr "להמשיך להתעדכן"
+
+#: library/helpers/admin_helper.php:54 library/helpers/admin_helper.php:79
+#: library/helpers/admin_helper.php:105
+msgid "You are not authorised to perform this operation."
+msgstr "אין לך הרשאות לבצע את הפעולה הזאת"
+
+#: library/helpers/admin_helper.php:365
+msgid "Pages selected here will display in your navbar."
+msgstr "העמודים שנבחרו פה יוצגו בסרגל הניווט שלך"
+
+#: library/helpers/admin_helper.php:368
+msgid ""
+"To change the order in which they appear, edit the &#8216;Page Order&#8217; "
+"value on each page."
+msgstr ""
+"כדי לשנות את סדר ההופעה, יש לערוך את הערך &#8216;סדר הדף&#8217; בכל עמוד"
+
+#: library/helpers/admin_helper.php:485
+msgid "Display site title"
+msgstr "הצגת הכותרת"
+
+#: library/helpers/admin_helper.php:486
+msgid "Display site tagline"
+msgstr "הצגת כותרת המשנה של האתר"
+
+#: library/helpers/admin_helper.php:487
+msgid "Show post categories"
+msgstr "הצגת קטגוריות של רשומות"
+
+#: library/helpers/admin_helper.php:488
+msgid "Show tags everywhere"
+msgstr "הצגת תגיות בכל מקום"
+
+#: library/helpers/admin_helper.php:489
+msgid "Paginate index pages"
+msgstr "עימוד עמודי אינדקס"
+
+#: library/helpers/admin_helper.php:490
+msgid "Centrally align the theme"
+msgstr "למרכז את ערכת העיצוב"
+
+#: library/helpers/admin_helper.php:491
+msgid "Switch column order"
+msgstr "היפוך סדר הטורים"
+
+#: library/helpers/admin_helper.php:492
+msgid "Reverse document title order"
+msgstr "היפוך סדר הכותרת של המסמך"
+
+#: library/helpers/author_helper.php:27
+msgid " by "
+msgstr "מאת"
+
+#: library/helpers/comments_helper.php:21
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s ב־ %2$s"
+
+#: library/helpers/comments_helper.php:40
+msgid "Permalink to this comment"
+msgstr "קישור קבוע לתגובה זו"
+
+#: library/helpers/comments_helper.php:82
+#: library/helpers/comments_helper.php:99
+#, php-format
+msgid "%s&#8217;s avatar"
+msgstr "האווטר של %s"
+
+#: library/helpers/comments_helper.php:221
+msgid "required"
+msgstr "חובה"
+
+#: library/helpers/content_helper.php:56
+msgid "Pages:"
+msgstr "דפים"
+
+#: library/helpers/content_helper.php:59
+msgid "Next page"
+msgstr "הדף הבא"
+
+#: library/helpers/content_helper.php:60
+msgid "Previous page"
+msgstr "הדף הקודם"
+
+#: library/helpers/content_helper.php:90
+msgid "Previous results"
+msgstr "התוצאות הקודמות"
+
+#: library/helpers/content_helper.php:91
+msgid "More results"
+msgstr "תוצאות נוספות"
+
+#: library/helpers/content_helper.php:94
+msgid "Older entries"
+msgstr "ערכים ישנים יותר"
+
+#: library/helpers/content_helper.php:95
+msgid "Newer entries"
+msgstr "ערכים חדשים יותר"
+
+#: library/helpers/content_helper.php:121
+#, php-format
+msgid " in %s"
+msgstr "תחת %s"
+
+#: library/helpers/content_helper.php:209
+msgid "Permalink"
+msgstr "קישור קבוע"
+
+#: library/helpers/content_helper.php:332
+msgid "Edit this post"
+msgstr "עריכת רשומה זו"
+
+#: library/helpers/content_helper.php:353
+#, php-format
+msgid ""
+"The page you are looking for does not exist; it may have been moved, or "
+"removed altogether. You might want to try the search function or return to "
+"the %s."
+msgstr ""
+"העמוד שחיפשת אינו קיים. יתכן שהוזז או הוסר. כדאי לך להשתמש בפונקציית החיפוש "
+"או לחזור ל%s."
+
+#: library/helpers/tag_helper.php:40 library/helpers/tag_helper.php:106
+msgid ", "
+msgstr ", "
+
+#: library/helpers/tag_helper.php:43 library/helpers/tag_helper.php:78
+msgid "and"
+msgstr "וגם"
+
+#: library/helpers/tag_helper.php:80
+msgid "or"
+msgstr "או"
+
+#: library/helpers/tag_helper.php:122 tags.php:22
+msgid "Tags"
+msgstr "תגיות"
+
+#: library/helpers/template_helper.php:63
+#, php-format
+msgid "Error %s"
+msgstr "שגיאה %s"
+
+#: library/helpers/template_helper.php:67
+#, php-format
+msgid "Search results for %s"
+msgstr "תוצאות חיפוש עבור %s"
+
+#: library/helpers/template_helper.php:311
+msgid "Header image"
+msgstr "תמונת כותרת עליונה"
+
+#: library/helpers/template_helper.php:318
+#: library/helpers/template_helper.php:343
+msgid "Return to main page"
+msgstr "חזרה לדף הראשי"
+
+#: library/helpers/template_helper.php:578
+msgid "Dashboard &rarr;"
+msgstr "ממשק הניהול &larr;"
+
+#: library/helpers/template_helper.php:579
+msgid "View your dashboard"
+msgstr "הצגת מששק הניהול שלך"
+
+#: library/helpers/widgets.php:84
+msgid ""
+"The most recent articles, offset by the number of visible articles on the "
+"home page."
+msgstr "המאמרים העדכניים ביותר, לפי מספר המאמרים המוצגים בדף הבית."
+
+#: library/helpers/widgets.php:170
+msgid "Title:"
+msgstr "כותרת"
+
+#: library/helpers/widgets.php:173
+msgid "Number of posts to display:"
+msgstr "מספר הרשומות להצגה"
+
+#: library/helpers/widgets.php:175
+msgid "(at most 15)"
+msgstr "(15 לכל היותר)"
+
+#: search.php:11
+msgid "Search Results"
+msgstr "תוצאות חיפוש"
+
+#: search.php:14
+#, php-format
+msgid "Your search for %s returned the following results."
+msgstr "תוצאות החיפוש עבור %s"
+
+#: search.php:26
+msgid "No results"
+msgstr "אין תוצאות"
+
+#: search.php:29
+#, php-format
+msgid "Your search for %1$s returned no results. Try returning to the %2$s."
+msgstr "אין תוצאות בחיפוש %1$s. כדאי לנסות לחזור ל%2$s."
+
+#: searchform.php:1
+msgid "Search this site"
+msgstr "חיפוש באתר זה"
+
+#: searchform.php:6
+msgid "Search"
+msgstr "חיפוש"
+
+#. Theme Name of the plugin/theme
+msgid "Tarski"
+msgstr "טרסקי"
+
+#. Theme URI of the plugin/theme
+msgid "http://tarskitheme.com/"
+msgstr "http://tarskitheme.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"An elegant, flexible theme developed by <a href=\"http://extralogical.net/"
+"\">Ben Eastaugh</a> and <a href=\"http://ceejayoz.com/\">Chris Sternal-"
+"Johnson</a>."
+msgstr ""
+"ערכת עיצוב אלגטית וגמישה, פרי פיתוחם של <a href=\"http://extralogical.net/"
+"\">בן איסטור</a> ו<a href=\"http://ceejayoz.com/\">כריס סטרנל־ג׳ונסון</a>. "
+"תרגום לעברית <a href=\"http://www.thmrsite.com\">תמר עילם גינדין</a> וירון "
+"שהרבני."
+
+#. Author of the plugin/theme
+msgid "Benedict Eastaugh and Chris Sternal-Johnson"
+msgstr "Benedict Eastaugh and Chris Sternal-Johnson"
+
+#. Author URI of the plugin/theme
+msgid "http://tarskitheme.com/about/"
+msgstr "http://tarskitheme.com/about/"
+
+#. Tags of the plugin/theme
+msgid ""
+"white, two-columns, left-sidebar, right-sidebar, fixed-width, custom-colors, "
+"custom-header, theme-options, threaded-comments, sticky-post, microformats, "
+"rtl-language-support, translation-ready"
+msgstr ""
+"white, two-columns, left-sidebar, right-sidebar, fixed-width, custom-colors, "
+"custom-header, theme-options, threaded-comments, sticky-post, microformats, "
+"rtl-language-support, translation-ready"
+
+#~ msgid "Comments closed"
+#~ msgstr "תגובות סגורות"
