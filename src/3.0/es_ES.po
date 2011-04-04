@@ -1,0 +1,556 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tarski 3.0 en español\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-27 22:03+0100\n"
+"PO-Revision-Date: 2011-03-29 08:20+0100\n"
+"Last-Translator: Eduardo Larequi <elarequi@educacion.navarra.es>\n"
+"Language-Team: Eduardo Larequi <elarequi@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: Spain\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr "Error 404. Página no encontrada"
+
+#: archive.php:13
+#, php-format
+msgid "You are currently browsing the archive for the %s category."
+msgstr "Entradas de la categoría '%s'."
+
+#: archive.php:22
+#, php-format
+msgid "You are currently browsing articles tagged %s."
+msgstr "Entradas correspondientes a la etiqueta '%s'."
+
+#: archive.php:26
+#, php-format
+msgid "Articles by %s"
+msgstr "Entradas de %s"
+
+#: archive.php:33
+#, php-format
+msgid "You are currently browsing %s&#8217;s articles."
+msgstr "Entradas de %s."
+
+#: archive.php:42
+#, php-format
+msgid "You are currently browsing the daily archive for %s."
+msgstr "Entradas del %s."
+
+#: archive.php:46
+#: archive.php:50
+msgid "F Y"
+msgstr "F \\d\\e Y"
+
+#: archive.php:50
+#, php-format
+msgid "You are currently browsing the monthly archive for %s."
+msgstr "Entradas de %s."
+
+#: archive.php:54
+#: archive.php:58
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:58
+#, php-format
+msgid "You are currently browsing the yearly archive for %s."
+msgstr "Entradas del año %s."
+
+#: archives.php:14
+#: links.php:15
+#: tags.php:15
+msgid "edit page"
+msgstr "editar página"
+
+#: archives.php:25
+msgid "Monthly Archives"
+msgstr "Entradas por meses"
+
+#: archives.php:36
+msgid "Category Archives"
+msgstr "Entradas por categorías"
+
+#: comments.php:15
+msgid "No comments"
+msgstr "Sin comentarios"
+
+#: comments.php:15
+msgid "1 comment"
+msgstr "Un comentario"
+
+#: comments.php:15
+#, php-format
+msgid "% comments"
+msgstr "% comentarios"
+
+#: comments.php:17
+msgid "Comments feed for this article"
+msgstr "Fuente RSS de comentarios para esta entrada"
+
+#: comments.php:21
+#, php-format
+msgid "Trackback link: %s"
+msgstr "Enlace de trackback: %s"
+
+#: comments.php:33
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; Comentarios anteriores"
+
+#: comments.php:34
+msgid "Next &rsaquo;"
+msgstr "Comentarios posteriores &rsaquo;"
+
+#: comments.php:42
+msgid "Comments are now closed."
+msgstr "Los comentarios están cerrados por el momento."
+
+#: functions.php:103
+msgid "Main sidebar"
+msgstr "Barra lateral principal"
+
+#: functions.php:112
+msgid "Post and page sidebar"
+msgstr "Barra lateral de entradas y páginas"
+
+#: functions.php:121
+msgid "Footer main widgets"
+msgstr "Área principal del pie de página"
+
+#: functions.php:130
+msgid "Footer sidebar widgets"
+msgstr "Barra lateral del pie de página"
+
+#: functions.php:148
+msgid "Tarski navbar"
+msgstr "Barra de navegación de Tarski"
+
+#: search.php:11
+msgid "Search Results"
+msgstr "Resultados de búsqueda"
+
+#: search.php:14
+#, php-format
+msgid "Your search for %s returned the following results."
+msgstr "La búsqueda de '%s' ha devuelto los resultados que figuran a continuación."
+
+#: search.php:26
+msgid "No results"
+msgstr "No hay resultados"
+
+#: search.php:29
+#, php-format
+msgid "Your search for %1$s returned no results. Try returning to the %2$s."
+msgstr "No hay ningún resultado correspondiente a '%1$s'. Te aconsejamos que lo intentes de nuevo, desde la %2$s."
+
+#: search.php:29
+msgid "front page"
+msgstr "página de inicio"
+
+#: searchform.php:1
+msgid "Search this site"
+msgstr "Buscar en este sitio"
+
+#: searchform.php:6
+msgid "Search"
+msgstr "Buscar"
+
+#: tags.php:22
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: app/api/deprecated.php:116
+msgid "required"
+msgstr "obligatorio"
+
+#: app/api/deprecated.php:131
+msgid "Home"
+msgstr "Inicio"
+
+#: app/api/deprecated.php:289
+msgid "Dashboard &rarr;"
+msgstr "Escritorio &rarr;"
+
+#: app/api/deprecated.php:290
+msgid "View your dashboard"
+msgstr "Ir al escritorio"
+
+#: app/api/deprecated.php:559
+msgid "Recent Articles"
+msgstr "Artículos recientes"
+
+#: app/api/deprecated.php:581
+msgid "View this post"
+msgstr "Ver esta entrada"
+
+#: app/api/deprecated.php:582
+#, php-format
+msgid "%1$s in %2$s"
+msgstr "%1$s, en la categoría %2$s"
+
+#: app/templates/credits.php:2
+msgid "Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href=\"http://tarskitheme.com/\">Tarski</a>"
+msgstr "Blog elaborado con <a href=\"http://wordpress.org/\">WordPress</a> y el tema <a href=\"http://tarskitheme.com/\">Tarski</a>"
+
+#: app/templates/credits.php:4
+#, php-format
+msgid " | Hosted by %s"
+msgstr " | Alojado por %s"
+
+#: app/templates/feed_link.php:2
+msgid "Subscribe to feed"
+msgstr "Fuente RSS de entradas"
+
+#: app/templates/loop.php:7
+#: app/templates/loop.php:29
+msgid "Read the rest of this entry &raquo;"
+msgstr "Continuar leyendo &raquo;"
+
+#: app/templates/loop.php:10
+#: library/classes/comment_walker.php:84
+#: library/classes/comment_walker.php:95
+msgid "edit"
+msgstr "editar"
+
+#: app/templates/loop.php:19
+#, php-format
+msgid "Permanent link to %s"
+msgstr "Enlace permanente a %s"
+
+#: app/templates/no_posts.php:4
+msgid "No posts found"
+msgstr "No se ha encontrado ninguna entrada"
+
+#: app/templates/no_posts.php:9
+#, php-format
+msgid "Looks like there&#8127;s nothing here, sorry. You might want to try the search function. Alternatively, return to the %s."
+msgstr "Lo sentimos, pero no se ha encontrado ningún resultado. Si quieres, puedes utilizar la función de búsqueda, o volver a la %s"
+
+#: app/templates/options_page.php:10
+#: library/helpers/admin_helper.php:204
+#: library/helpers/admin_helper.php:205
+msgid "Tarski Options"
+msgstr "Opciones del tema Tarski"
+
+#: app/templates/options_page.php:13
+#: app/templates/options_page.php:30
+msgid "Save Options"
+msgstr "Guardar opciones"
+
+#: app/templates/options_page.php:17
+msgid "Tarski documentation"
+msgstr "Documentación del tema Tarski"
+
+#: app/templates/options_page.php:18
+msgid "Credits &amp; Thanks"
+msgstr "Créditos y agradecimientos"
+
+#: app/templates/options_page.php:19
+msgid "Forum"
+msgstr "Foro"
+
+#: app/templates/options_page.php:28
+msgid "Alternate Style"
+msgstr "Estilos alternativos"
+
+#: app/templates/options_page.php:29
+msgid "Miscellaneous Options"
+msgstr "Opciones misceláneas"
+
+#: app/templates/options_page.php:34
+msgid "Sidebar Options"
+msgstr "Opciones de la barra lateral"
+
+#: app/templates/options_page.php:40
+msgid "Reset Options"
+msgstr "Restablecer opciones"
+
+#: app/templates/options/alternate_style.php:7
+msgid "Default style"
+msgstr "Estilo por defecto"
+
+#: app/templates/options/alternate_style.php:19
+msgid "Tarski allows you to select an alternate style that modifies the default one. Choose from the list above."
+msgstr "El tema Tarski te permite seleccionar una hoja de estilos alternativa, que modifica la hoja de estilos por defecto. Escoge una hoja de estilos en el menú desplegable que aparece encima de estas líneas."
+
+#: app/templates/options/alternate_style.php:21
+#, php-format
+msgid "Tarski allows you to select an %1$s that modifies the default one. Choose from the list above, or upload your own to %2$s."
+msgstr "El tema Tarski te permite seleccionar una %1$s, que modifica la hoja de estilos por defecto. Escoge una de la lista de arriba, o sube tu propia hoja de estilos a %2$s"
+
+#: app/templates/options/alternate_style.php:21
+msgid "alternate style"
+msgstr "hoja de estilos alternativa"
+
+#: app/templates/options/alternate_style.php:25
+msgid "No alternate stylesheets appear to be present."
+msgstr "No existe la hoja de estilos alternativa."
+
+#: app/templates/options/messages.php:3
+#, php-format
+msgid "Tarski options have been restored. %s"
+msgstr "Las opciones del tema Tarski han sido restauradas a sus valores por defecto. %s"
+
+#: app/templates/options/messages.php:4
+#: app/templates/options/messages.php:9
+msgid "View site &rsaquo;"
+msgstr "Ver sitio &rsaquo;"
+
+#: app/templates/options/messages.php:8
+#, php-format
+msgid "Tarski options have been updated. %s"
+msgstr "Las opciones del tema Tarski han sido actualizadas. %s"
+
+#: app/templates/options/missing_files.php:1
+msgid "This may be because you have removed them, or because those files aren&#8217;t readable by WordPress."
+msgstr "Esto puede deberse a que has eliminado estos archivos o al hecho de que WordPress no puede leerlos."
+
+#: app/templates/options/missing_files.php:2
+#, php-format
+msgid "If you have problems making the files readable, try the WordPress Codex documentation on %s."
+msgstr "Si tienes problemas a la hora de leer los archivos, consulta la documentación del Codex de WordPress, en %s."
+
+#: app/templates/options/missing_files.php:2
+msgid "changing file permissions"
+msgstr "cambiando los permisos de los archivos"
+
+#: app/templates/options/missing_files.php:3
+#, php-format
+msgid "If you deleted the files by accident, just download a new copy from the %s and re-upload them to your website."
+msgstr "Si has borrado los archivos accidentalmente, simplemente descarga una nueva copia de %s y vuélvelos a subir a tu sitio web."
+
+#: app/templates/options/missing_files.php:3
+msgid "Tarski website"
+msgstr "Sitio web del tema Tarski"
+
+#: app/templates/options/reset_options.php:2
+msgid "Reset Tarski&#8217;s options to their default values"
+msgstr "Volver a los valores por defecto"
+
+#: app/templates/options/reset_options.php:7
+msgid "If you change your mind, you&#8217;ll have three hours to restore your options before they&#8217;re removed for good."
+msgstr "Si cambias de opinión, tienes tres horas para restaurar las opciones seleccionadas antes de que sean eliminadas para siempre."
+
+#: app/templates/options/restore_options.php:6
+msgid "You have deleted your Tarski options."
+msgstr "Has borrado las opciones de configuración del tema Tarski"
+
+#: app/templates/options/restore_options.php:6
+msgid "Restore Tarski Options &raquo;"
+msgstr "Restaurar las opciones del tema Tarski &raquo;"
+
+#: app/templates/options/sidebar_options.php:1
+msgid "The sidebar for posts and pages can be the same as that for index pages, or use its own set of widgets."
+msgstr "La barra lateral para entradas y páginas puede ser la misma que la de las páginas de índice, o puedes utilizar tu propio conjunto de widgets."
+
+#: app/templates/options/sidebar_options.php:6
+msgid "Same content as main sidebar?"
+msgstr "¿Quieres utilizar el mismo contenido que el de la barra lateral principal?"
+
+#: library/classes/comment_walker.php:80
+#, php-format
+msgid "%1$s from %2$s on %3$s"
+msgstr "%1$s de %2$s en %3$s"
+
+#: library/classes/comment_walker.php:81
+msgctxt "noun"
+msgid "Comment"
+msgstr "Comentario"
+
+#: library/classes/comment_walker.php:81
+msgid "Trackback"
+msgstr "Trackback"
+
+#: library/classes/comment_walker.php:81
+msgid "Pingback"
+msgstr "Pingback"
+
+#: library/classes/comment_walker.php:87
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está a la espera de ser aprobado."
+
+#: library/classes/comment_walker.php:92
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s, el %2$s"
+
+#: library/helpers/admin_helper.php:23
+#: library/helpers/admin_helper.php:49
+#: library/helpers/admin_helper.php:76
+msgid "You are not authorised to perform this operation."
+msgstr "No tienes autorización para llevar a cabo esta operación."
+
+#: library/helpers/admin_helper.php:385
+msgid "Display site title"
+msgstr "Mostrar el título del sitio"
+
+#: library/helpers/admin_helper.php:386
+msgid "Display site tagline"
+msgstr "Mostrar el lema del sitio"
+
+#: library/helpers/admin_helper.php:387
+msgid "Show post categories"
+msgstr "Mostrar las categorías de entradas"
+
+#: library/helpers/admin_helper.php:388
+msgid "Show tags everywhere"
+msgstr "Mostrar etiquetas en todas las páginas"
+
+#: library/helpers/admin_helper.php:389
+msgid "Centrally align the theme"
+msgstr "Alinear el tema en el centro de la pantalla"
+
+#: library/helpers/admin_helper.php:390
+msgid "Switch column order"
+msgstr "Intercambiar el orden de las columnas"
+
+#: library/helpers/admin_helper.php:391
+msgid "Reverse document title order"
+msgstr "Disponer al revés el orden del título de los documentos (primero el título del artículo y luego el título del blog)"
+
+#: library/helpers/author_helper.php:31
+msgid " by "
+msgstr ", por "
+
+#: library/helpers/comments_helper.php:21
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s, a las %2$s"
+
+#: library/helpers/comments_helper.php:40
+msgid "Permalink to this comment"
+msgstr "Enlace permanente a este comentario"
+
+#: library/helpers/comments_helper.php:82
+#: library/helpers/comments_helper.php:99
+#, php-format
+msgid "%s&#8217;s avatar"
+msgstr " avatar de %s"
+
+#: library/helpers/comments_helper.php:169
+#, php-format
+msgid "You must be %s to post a comment."
+msgstr "Debes estar %s para publicar un comentario."
+
+#: library/helpers/comments_helper.php:171
+msgid "logged in"
+msgstr "conectado"
+
+#: library/helpers/comments_helper.php:173
+msgid "Your comment"
+msgstr "Tu comentario"
+
+#: library/helpers/comments_helper.php:188
+msgid "Reply"
+msgstr "Responder"
+
+#: library/helpers/comments_helper.php:189
+#, php-format
+msgid "Reply to %s"
+msgstr "Responder a %s"
+
+#: library/helpers/content_helper.php:59
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: library/helpers/content_helper.php:63
+msgid "Next page"
+msgstr "Página siguiente"
+
+#: library/helpers/content_helper.php:64
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: library/helpers/content_helper.php:93
+msgid "Previous results"
+msgstr "Resultados previos"
+
+#: library/helpers/content_helper.php:94
+msgid "More results"
+msgstr "Más resultados"
+
+#: library/helpers/content_helper.php:97
+msgid "Older entries"
+msgstr "Entradas más antiguas"
+
+#: library/helpers/content_helper.php:98
+msgid "Newer entries"
+msgstr "Entradas más recientes"
+
+#: library/helpers/content_helper.php:124
+#, php-format
+msgid " in %s"
+msgstr ", en %s"
+
+#: library/helpers/content_helper.php:215
+msgid "Permalink"
+msgstr "Enlace permanente"
+
+#: library/helpers/content_helper.php:340
+msgid "Edit this post"
+msgstr "Editar esta entrada"
+
+#: library/helpers/content_helper.php:361
+#, php-format
+msgid "The page you are looking for does not exist; it may have been moved, or removed altogether. You might want to try the search function or return to the %s."
+msgstr "La página que estás buscando no existe; puede que haya sido renombrada o eliminada. Inténtalo de nuevo mediante la función de búsqueda, o vuelve a la %s."
+
+#: library/helpers/tag_helper.php:20
+#: library/helpers/tag_helper.php:90
+msgid ", "
+msgstr ", "
+
+#: library/helpers/tag_helper.php:23
+#: library/helpers/tag_helper.php:60
+msgid "and"
+msgstr "y"
+
+#: library/helpers/tag_helper.php:62
+msgid "or"
+msgstr "o"
+
+#: library/helpers/template_helper.php:56
+#, php-format
+msgid "Error %s"
+msgstr "Error %s"
+
+#: library/helpers/template_helper.php:60
+#, php-format
+msgid "Search results for %s"
+msgstr "Resultados de búsqueda correspondientes a %s"
+
+#: library/helpers/template_helper.php:251
+msgid "Header image"
+msgstr "Imagen de cabecera"
+
+#: library/helpers/template_helper.php:258
+#: library/helpers/template_helper.php:287
+msgid "Return to main page"
+msgstr "Volver a la página principal"
+
+#: library/helpers/widgets.php:97
+msgid "The most recent articles, offset by the number of visible articles on the home page."
+msgstr "Los artículos más recientes, a partir del número de artículos visibles en la página de inicio."
+
+#: library/helpers/widgets.php:183
+msgid "Title:"
+msgstr "Título:"
+
+#: library/helpers/widgets.php:186
+msgid "Number of posts to display:"
+msgstr "Número de entradas que mostrar:"
+
+#: library/helpers/widgets.php:188
+msgid "(at most 15)"
+msgstr "(un máximo de 15)"
+
