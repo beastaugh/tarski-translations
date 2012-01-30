@@ -1,0 +1,566 @@
+# Translation of the WordPress theme Tarski 3.1 by Benedict Eastaugh and Chris Sternal-Johnson.
+# Copyright (C) 2011 Benedict Eastaugh and Chris Sternal-Johnson.
+# This file is distributed under the same license as the Tarski package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tarski 3.1.2\n"
+"Report-Msgid-Bugs-To: Benedict Eastaugh <benedict@eastaugh.net>\n"
+"POT-Creation-Date: 2011-09-07 10:40:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-01-16 11:08+0100\n"
+"Last-Translator: Zaantar <zaantar@zaantar.eu>\n"
+"Language-Team: Zaantar <zaantar@zaantar.eu>\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr "Chyba 404"
+
+#: app/api/deprecated.php:225
+msgid "required"
+msgstr "vyžadováno"
+
+#: app/api/deprecated.php:240
+#: library/classes/options.php:79
+#: library/helpers/template_helper.php:410
+msgid "Home"
+msgstr "Hlavní stránka"
+
+#: app/api/deprecated.php:398
+msgid "Dashboard &rarr;"
+msgstr "Nástěnka &rarr;"
+
+#: app/api/deprecated.php:399
+msgid "View your dashboard"
+msgstr "Zobrazit nástěnku"
+
+#: app/templates/credits.php:2
+msgid "Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href=\"http://tarskitheme.com/\">Tarski</a>"
+msgstr "Používá <a href=\"http://wordpress.org/\">WordPress</a> a <a href=\"http://tarskitheme.com/\">Tarski</a>"
+
+#: app/templates/credits.php:6
+msgid " | Hosted by %s"
+msgstr " | Umístěno na %s"
+
+#: app/templates/feed_link.php:2
+msgid "Subscribe to feed"
+msgstr "Přihlášení k RSS"
+
+#: app/templates/loop.php:7
+#: app/templates/loop.php:29
+msgid "Read the rest of this entry &raquo;"
+msgstr "Číst zbytek článku &raquo;"
+
+#: app/templates/loop.php:10
+#: library/classes/comment_walker.php:86
+#: library/classes/comment_walker.php:97
+#: library/helpers/content_helper.php:346
+msgid "edit"
+msgstr "upravit"
+
+#: app/templates/loop.php:19
+msgid "Permanent link to %s"
+msgstr "Trvalý odkaz na %s"
+
+#: app/templates/no_posts.php:4
+msgid "No posts found"
+msgstr "Nebyly nalezeny žádné články"
+
+#: app/templates/no_posts.php:9
+msgid "Looks like there&#8127;s nothing here, sorry. You might want to try the search function. Alternatively, return to the %s."
+msgstr "Omlouváme se, ale vypadá to, že zde nic není. Zkuste vyhledávací funkci, případně se vraťte na %s."
+
+#: app/templates/no_posts.php:10
+#: library/helpers/content_helper.php:369
+#: search.php:29
+msgid "front page"
+msgstr "hlavní strana"
+
+#: app/templates/options/alternate_style.php:7
+msgid "Default style"
+msgstr "Výchozí styl"
+
+#: app/templates/options/alternate_style.php:19
+msgid "Tarski allows you to select an alternate style that modifies the default one. Choose from the list above."
+msgstr "Tarski umožňuje vybrat alternativní styl, který upraví ten výchozí. Vyberte ze seznamu výše."
+
+#: app/templates/options/alternate_style.php:21
+msgid "Tarski allows you to select an %1$s that modifies the default one. Choose from the list above, or upload your own to %2$s."
+msgstr "Tarski umožňuje vybrat %1$s, jež upraví ten výchozí. Vyberte ze seznamu výše anebo nahrajte svůj vlastní do %2$s."
+
+#: app/templates/options/alternate_style.php:21
+msgid "alternate style"
+msgstr "alternativní styl"
+
+#: app/templates/options/alternate_style.php:25
+msgid "No alternate stylesheets appear to be present."
+msgstr "Nebyly nalezeny žádné alternativní styly."
+
+#: app/templates/options/messages.php:3
+msgid "Tarski options have been restored. %s"
+msgstr "Nastavení Tarski byla obnovena. %s"
+
+#: app/templates/options/messages.php:4
+#: app/templates/options/messages.php:9
+msgid "View site &rsaquo;"
+msgstr "Zobrazit web &rsaquo;"
+
+#: app/templates/options/messages.php:8
+msgid "Tarski options have been updated. %s"
+msgstr "Nastavení tarski byla aktualizována. %s"
+
+#: app/templates/options/missing_files.php:1
+msgid "This may be because you have removed them, or because those files aren&#8217;t readable by WordPress."
+msgstr "To může být způsobeno jejich odstraněním anebo tím, že WordPress nemá oprávnění ke čtení těchto souborů."
+
+#: app/templates/options/missing_files.php:2
+msgid "If you have problems making the files readable, try the WordPress Codex documentation on %s."
+msgstr "Máte-li problém s nastavením oprávnění k souborům, zkuste najít pomoc v dokumentaci WordPressu na %s."
+
+#: app/templates/options/missing_files.php:2
+msgid "changing file permissions"
+msgstr "změnit oprávnění k souborům"
+
+#: app/templates/options/missing_files.php:3
+msgid "If you deleted the files by accident, just download a new copy from the %s and re-upload them to your website."
+msgstr "Pokud jste tyto soubory odstranili omylem, jednoduše stáhněte novou kopii ze %s a znovu je nahrajte na svůj web."
+
+#: app/templates/options/missing_files.php:3
+msgid "Tarski website"
+msgstr "Stránky šablony Tarski"
+
+#: app/templates/options/reset_options.php:2
+msgid "Reset Tarski&#8217;s options to their default values"
+msgstr "Resetovat nastavení Tarski na výchozí hodnoty"
+
+#: app/templates/options/reset_options.php:7
+msgid "If you change your mind, you&#8217;ll have three hours to restore your options before they&#8217;re removed for good."
+msgstr "Pokud změníte svůj názor, budete mít tři hodiny na obnovení vašich nastavení, než budou odstraněna nadobro."
+
+#: app/templates/options/restore_options.php:6
+msgid "You have deleted your Tarski options."
+msgstr "Odstranili jste svá nastavení šablony Tarski"
+
+#: app/templates/options/restore_options.php:6
+msgid "Restore Tarski Options &raquo;"
+msgstr "Obnovit nastavení Tarski &raquo;"
+
+#: app/templates/options/sidebar_options.php:1
+msgid "The sidebar for posts and pages can be the same as that for index pages, or use its own set of widgets."
+msgstr "Obsah postranního panelu pro články a stránky může být stejný, jako ten pro hlavní stranu, anebo lze použít jinou sadu widgetů."
+
+#: app/templates/options/sidebar_options.php:6
+msgid "Same content as main sidebar?"
+msgstr "Stejný obsah jako postranní panel na hlavní stránce?"
+
+#: app/templates/options_page.php:10
+#: library/helpers/admin_helper.php:201
+#: library/helpers/admin_helper.php:202
+msgid "Tarski Options"
+msgstr "Nastavení Tarski"
+
+#: app/templates/options_page.php:13
+#: app/templates/options_page.php:30
+msgid "Save Options"
+msgstr "Uložit nastavení"
+
+#: app/templates/options_page.php:17
+msgid "Tarski documentation"
+msgstr "Dokumentace k Tarski (anglicky)"
+
+#: app/templates/options_page.php:18
+msgid "Credits &amp; Thanks"
+msgstr "Zásluhy a poděkování"
+
+#: app/templates/options_page.php:19
+msgid "Forum"
+msgstr "Fórum"
+
+#: app/templates/options_page.php:28
+msgid "Alternate Style"
+msgstr "Alternativní styl"
+
+#: app/templates/options_page.php:29
+msgid "Miscellaneous Options"
+msgstr "Ostatní nastavení"
+
+#: app/templates/options_page.php:34
+msgid "Sidebar Options"
+msgstr "Postranní panel"
+
+#: app/templates/options_page.php:40
+msgid "Reset Options"
+msgstr "Resetovat nastavení"
+
+#: archive.php:13
+msgid "You are currently browsing the archive for the %s category."
+msgstr "Momentálně se nacházíte v archivu rubriky %s."
+
+#: archive.php:22
+msgid "You are currently browsing articles tagged %s."
+msgstr "Momentálně prohlížíte články se štítkem %s."
+
+#: archive.php:26
+#: library/helpers/author_helper.php:32
+msgid "Articles by %s"
+msgstr "Články podle %s."
+
+#: archive.php:33
+msgid "You are currently browsing %s&#8217;s articles."
+msgstr "Mometálně si prohlížíte články autora %s."
+
+#: archive.php:42
+msgid "You are currently browsing the daily archive for %s."
+msgstr "Momentálně prohlížíte archiv ze dne %s."
+
+#: archive.php:46
+#: archive.php:50
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:50
+msgid "You are currently browsing the monthly archive for %s."
+msgstr "Momentálně prohlížíte archiv z měsíce %s."
+
+#: archive.php:54
+#: archive.php:58
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:58
+msgid "You are currently browsing the yearly archive for %s."
+msgstr "Momentálně prohlížíte archiv z roku %s."
+
+#: archives.php:14
+#: links.php:15
+#: tags.php:15
+msgid "edit page"
+msgstr "upravit stránku"
+
+#: archives.php:25
+msgid "Monthly Archives"
+msgstr "Archiv dle měsíců"
+
+#: archives.php:36
+msgid "Category Archives"
+msgstr "Archiv dle kategorií"
+
+#: comments.php:12
+#: library/helpers/content_helper.php:158
+#: library/helpers/content_helper.php:213
+msgid "No comments"
+msgstr "Žádné komentáře"
+
+#: comments.php:12
+#: library/helpers/content_helper.php:160
+#: library/helpers/content_helper.php:214
+msgid "1 comment"
+msgstr "Jeden komentář"
+
+#: comments.php:12
+#: library/helpers/content_helper.php:156
+#: library/helpers/content_helper.php:215
+msgid "% comments"
+msgstr "% komentářů"
+
+#: comments.php:14
+msgid "Comments feed for this article"
+msgstr "RSS zdroj komentářů k tomuto článku"
+
+#: comments.php:18
+msgid "Trackback link: %s"
+msgstr "Trackback: %s"
+
+#: comments.php:30
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; Předchozí"
+
+#: comments.php:31
+msgid "Next &rsaquo;"
+msgstr "Následující &rsaquo;"
+
+#: comments.php:39
+msgid "Comments are now closed."
+msgstr "Komentáře jsou nyní uzavřeny."
+
+#: functions.php:103
+msgid "Main sidebar"
+msgstr "Postranní panel pro hlavní stránku"
+
+#: functions.php:112
+msgid "Post and page sidebar"
+msgstr "Postranní panel pro jednotlivé články a stránky"
+
+#: functions.php:121
+msgid "Footer main widgets"
+msgstr "Zápatí pro hlavní stránku"
+
+#: functions.php:130
+msgid "Footer sidebar widgets"
+msgstr "Zápatí pro jednotlivé články a stránky"
+
+#: functions.php:148
+msgid "Tarski navbar"
+msgstr "Navigační lišta Tarski"
+
+#: library/classes/comment_walker.php:80
+msgid "%1$s from %2$s on %3$s"
+msgstr "%1$s z %2$s v %3$s"
+
+#: library/classes/comment_walker.php:81
+msgctxt "noun"
+msgid "Comment"
+msgstr "Komentář"
+
+#: library/classes/comment_walker.php:82
+msgid "Trackback"
+msgstr "Trackback"
+
+#: library/classes/comment_walker.php:83
+msgid "Pingback"
+msgstr "Pingback"
+
+#: library/classes/comment_walker.php:89
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na schválení"
+
+#: library/classes/comment_walker.php:94
+msgid "%1$s on %2$s"
+msgstr "%1$s v %2$s"
+
+#: library/helpers/admin_helper.php:23
+#: library/helpers/admin_helper.php:49
+#: library/helpers/admin_helper.php:76
+msgid "You are not authorised to perform this operation."
+msgstr "Nemáte oprávnění provést tuto akci."
+
+#: library/helpers/admin_helper.php:313
+msgid "Display site title"
+msgstr "Zobrazit titulek webu"
+
+#: library/helpers/admin_helper.php:314
+msgid "Display site tagline"
+msgstr "Zobrazit popis webu"
+
+#: library/helpers/admin_helper.php:315
+msgid "Show post categories"
+msgstr "Zobrazit kategorie článků"
+
+#: library/helpers/admin_helper.php:316
+msgid "Show tags everywhere"
+msgstr "Zobrazit štítky"
+
+#: library/helpers/admin_helper.php:317
+msgid "Centrally align the theme"
+msgstr "Zarovnat šablonu na střed"
+
+#: library/helpers/admin_helper.php:318
+msgid "Switch column order"
+msgstr "Prohodit postranní panel a hlavní obsah"
+
+#: library/helpers/admin_helper.php:319
+msgid "Reverse document title order"
+msgstr "Prohodit pořadí titulku a popisu"
+
+#: library/helpers/author_helper.php:35
+msgid " by "
+msgstr " od "
+
+#: library/helpers/comments_helper.php:21
+msgid "%1$s at %2$s"
+msgstr "%1$s v %2$s"
+
+#: library/helpers/comments_helper.php:40
+msgid "Permalink to this comment"
+msgstr "Trvalý odkaz na tento komentář"
+
+#: library/helpers/comments_helper.php:82
+#: library/helpers/comments_helper.php:99
+msgid "%s&#8217;s avatar"
+msgstr "Avatar uživatele %s"
+
+#: library/helpers/comments_helper.php:169
+msgid "You must be %s to post a comment."
+msgstr "Musíte být %s, abyste mohli psát komentáře."
+
+#: library/helpers/comments_helper.php:171
+msgid "logged in"
+msgstr "přihlášeni"
+
+#: library/helpers/comments_helper.php:173
+msgid "Your comment"
+msgstr "Váš komentář"
+
+#: library/helpers/comments_helper.php:186
+msgid "Reply"
+msgstr "Odpovědět"
+
+#: library/helpers/comments_helper.php:187
+msgid "Reply to %s"
+msgstr "Odpovědět na %s"
+
+#: library/helpers/content_helper.php:59
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: library/helpers/content_helper.php:63
+msgid "Next page"
+msgstr "Další stránka"
+
+#: library/helpers/content_helper.php:64
+msgid "Previous page"
+msgstr "Předchozí stránka"
+
+#: library/helpers/content_helper.php:93
+msgid "Previous results"
+msgstr "Předchozí výsledky"
+
+#: library/helpers/content_helper.php:94
+msgid "More results"
+msgstr "Další výsledky"
+
+#: library/helpers/content_helper.php:97
+msgid "Older entries"
+msgstr "Starší příspěvky"
+
+#: library/helpers/content_helper.php:98
+msgid "Newer entries"
+msgstr "Novější příspěvky"
+
+#: library/helpers/content_helper.php:124
+msgid " in %s"
+msgstr " v %s"
+
+#: library/helpers/content_helper.php:192
+#: library/helpers/content_helper.php:217
+msgid "Permalink"
+msgstr "Trvalý odkaz"
+
+#: library/helpers/content_helper.php:345
+msgid "Edit this post"
+msgstr "Upravit tento článek"
+
+#: library/helpers/content_helper.php:368
+msgid "The page you are looking for does not exist; it may have been moved, or removed altogether. You might want to try the search function or return to the %s."
+msgstr "Stránka, kterou hledáte, neexistuje. Mohla být přesunuta nebo odstraněna. Zkuste vyhledávání anebo se vraťte na %s."
+
+#: library/helpers/tag_helper.php:20
+#: library/helpers/tag_helper.php:90
+msgid ", "
+msgstr ","
+
+#: library/helpers/tag_helper.php:23
+#: library/helpers/tag_helper.php:60
+msgid "and"
+msgstr "a"
+
+#: library/helpers/tag_helper.php:62
+msgid "or"
+msgstr "nebo"
+
+#: library/helpers/tag_helper.php:112
+#: tags.php:22
+msgid "Tags"
+msgstr "Štítky"
+
+#: library/helpers/template_helper.php:56
+msgid "Error %s"
+msgstr "Chyba %s"
+
+#: library/helpers/template_helper.php:60
+msgid "Search results for %s"
+msgstr "Výsledky hledání pro %s"
+
+#: library/helpers/template_helper.php:265
+msgid "Header image"
+msgstr "Obrázek v záhlaví"
+
+#: library/helpers/template_helper.php:272
+#: library/helpers/template_helper.php:301
+msgid "Return to main page"
+msgstr "Návrat na hlavní stranu"
+
+#: library/helpers/template_helper.php:409
+msgid "Return to front page"
+msgstr "Návrat na hlavní stranu"
+
+#: library/helpers/widgets.php:97
+msgid "The most recent articles, offset by the number of visible articles on the home page."
+msgstr "Nejnovější články po těch, které se zobrazují na hlavní stránce."
+
+#: library/helpers/widgets.php:98
+#: library/helpers/widgets.php:122
+msgid "Recent Articles"
+msgstr "Nejnovější články"
+
+#: library/helpers/widgets.php:144
+msgid "View this post"
+msgstr "Zobrazit tento článek"
+
+#: library/helpers/widgets.php:145
+msgid "%1$s in %2$s"
+msgstr "%1$s v %2$s"
+
+#: library/helpers/widgets.php:183
+msgid "Title:"
+msgstr "Titulek:"
+
+#: library/helpers/widgets.php:186
+msgid "Number of posts to display:"
+msgstr "Počet článků, které mají být zobrazeny:"
+
+#: library/helpers/widgets.php:188
+msgid "(at most 15)"
+msgstr "(nanejvýš 15)"
+
+#: search.php:11
+msgid "Search Results"
+msgstr "Výsledky hledání"
+
+#: search.php:14
+msgid "Your search for %s returned the following results."
+msgstr "Vaše hledání výrazu %s vrátilo následující výsledky."
+
+#: search.php:26
+msgid "No results"
+msgstr "Žádné výsledky"
+
+#: search.php:29
+msgid "Your search for %1$s returned no results. Try returning to the %2$s."
+msgstr "Vaše hledání výrazu %1$s nevrátilo žádné výsledky. Zkuste se vrátit na %2$s."
+
+#: searchform.php:1
+msgid "Search this site"
+msgstr "Prohledat tento web"
+
+#: searchform.php:6
+msgid "Search"
+msgstr "Hledat"
+
+#. Theme Name of the plugin/theme
+msgid "Tarski"
+msgstr "Tarski"
+
+#. Theme URI of the plugin/theme
+msgid "http://tarskitheme.com/"
+msgstr "http://tarskitheme.com/"
+
+#. Description of the plugin/theme
+msgid "An elegant, flexible theme developed by <a href=\"http://extralogical.net/\">Ben Eastaugh</a> and <a href=\"http://ceejayoz.com/\">Chris Sternal-Johnson</a>."
+msgstr "Elegantní a přizpůsobitelná šablona od autorů <a href=\"http://extralogical.net/\">Ben Eastaugh</a> a <a href=\"http://ceejayoz.com/\">Chris Sternal-Johnson</a>."
+
+#. Author of the plugin/theme
+msgid "Benedict Eastaugh and Chris Sternal-Johnson"
+msgstr "Benedict Eastaugh a Chris Sternal-Johnson"
+
+#. Author URI of the plugin/theme
+msgid "http://tarskitheme.com/about/"
+msgstr "http://tarskitheme.com/about/"
+
+#. Tags of the plugin/theme
+msgid "white, two-columns, left-sidebar, right-sidebar, fixed-width, custom-colors, custom-header, custom-background, custom-menu, editor-style, theme-options, threaded-comments, sticky-post, microformats, rtl-language-support, translation-ready"
+msgstr "white, two-columns, left-sidebar, right-sidebar, fixed-width, custom-colors, custom-header, custom-background, custom-menu, editor-style, theme-options, threaded-comments, sticky-post, microformats, rtl-language-support, translation-ready"
+
